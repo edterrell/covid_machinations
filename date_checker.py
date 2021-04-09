@@ -50,15 +50,24 @@ def compare (previous):
 	# using regex to look for xlsx file on the page and extract the link
 	re_xlsx = re.compile('xlsx')
 	link = soup.find(text = re_xlsx).parent['href']
-
+	
 	# date comparison
 	# find and extract the xlsx date; assign to 'current' 
 	# compare 'current' to 'previous'
-	x_date = re.compile(r'\d\d?_\d\d?_\d{4}')
+	x_date = re.compile(r'\d\d?(?:-|_|\s)\d\d?(?:_|-|\s)\d{4}')
 	xlsx_date = re.findall(x_date,link)[0]
-	#print(xlsx_date)
+	
 
-	current = dt.datetime.strptime(xlsx_date,'%m_%d_%Y')
+	# handles various possible formats for dates
+	# assign to a datetime object 'current'
+	if '_' in xlsx_date:
+		current = dt.datetime.strptime(xlsx_date,'%m_%d_%Y')
+	elif '-' in xlsx_date:
+		current = dt.datetime.strptime(xlsx_date,'%m-%d-%Y')
+	elif ' ' in xlsx_date:
+		current = dt.datetime.strptime(xlsx_date,'%m %d %Y')
+
+	# reformat dates and assign to str
 	str = current.strftime('%Y-%m-%d')
 
 	if current != previous:
