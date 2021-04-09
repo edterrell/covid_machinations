@@ -1,0 +1,12 @@
+total	type	name
+14	Child Care Center	Jump Start Early Learning Academy
+17	Construction Site	287 S Starwood Rd Construction Site
+11	Construction Site	Rusin Concrete Construction
+40	Healthcare - Assisted Living	Residence at Village Green LLC_ The (23H136)
+43	Healthcare - Skilled Nursing	Life Care Center of Colorado Springs (0205X1)
+28	Hotel/Lodge/Resort	Broadmoor Resort
+66	Other	Cameron Peak Fire
+39	Other	RTD East Metro Division
+16	Retailer	American Furniture Warehouse
+59	Retailer	The Home Depot #1503
+17	Travel	Denver International Airport / United Ramp Services

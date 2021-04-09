@@ -1,0 +1,98 @@
+,total,name,type,county
+0,3,Camp Elim,Overnight Camp,Teller
+1,3,Aspen Grove Animal Clinic PC,Other,Larimer
+2,3,Front Range Community College Westminster Campus- Biology Science Lab,College/University,Adams
+3,4,Lowry Park Apartments,Other,Denver
+4,3,Colorado Volleyball Connection-Senior Moments Team,Adult Sports Club/Team,Jefferson
+5,3,Green Mountain High School,School K-12,Jefferson
+6,24,High Mountain Institute,School K-12,Lake
+7,6,Social Gathering- La Plata County: March 2021 #2,Social Gathering,La Plata
+8,3,Pop-Ins Creative Schoolhouse,Child Care Center,Jefferson
+9,6,Del Frisco's Grille,Restaurant - Other,Denver
+10,5,Planned Pethood,Other,Jefferson
+11,2,John F Kennedy High School,School K-12,Denver
+12,3,Lakewood High School: March 2021,School K-12,Jefferson
+13,6,Masala Co-Operative,Other,Boulder
+14,2,Kiewit Asphalt Sedalia,Non-Food Manufacturer/Warehouse,Douglas
+15,7,Castle Pines Veterinary Hospital,Other,Douglas
+16,2,La Petite Academy- Westminster,Child Care Center,Jefferson
+17,2,Costco Wholesale #440: April 2021,Retailer,Jefferson
+18,4,Boyd Lake Veterinary Center,Other,Larimer
+19,2,Caley Ridge Assisted Living Community (230487): April 2021,Healthcare - Assisted Living,Arapahoe
+20,4,Merryhill Preschool,Child Care Center,Arapahoe
+21,2,Poudre Valley REA,Other,Larimer
+22,4,Healthy Hounds and Fat Cats,Retailer,La Plata
+23,4,JJ's Wood Fired Pizza,Restaurant - Sit Down,Larimer
+24,2,Keystone Ski Patrol,Outdoor Entertainment/Rec,Summit
+25,4,Ted's Montana Grill- Aurora (Main St),Restaurant - Sit Down,Arapahoe
+26,4,Social Gathering - La Plata County: March 2021,Social Gathering,La Plata
+27,5,Peak Kia,Other,Denver
+28,5,RB Law Offices,Office/Indoor Workspace,Weld
+29,5,Home Day Care #1,Child Care Center,Jefferson
+30,5,Propharma Distribution,Distribution Center/Business,Jefferson
+31,5,Sashco: March 2021,Non-Food Manufacturer/Warehouse,Adams
+32,14,Kids 'R' Kids Learning Academy of Hilltop Parker,Child Care Center,Douglas
+33,8,La Petite Academy- Littleton (Burgundy Ave),Child Care Center,Jefferson
+34,3,Triple Crown Casino: March 2021,Casino,Teller
+35,2,Breckenridge Recreation Center Youth Lacrosse Team,Youth Sports/Activities,Summit
+36,2,Acaria Inc,Healthcare - Outpatient,Jefferson
+37,3,C&W Railway Company,Other,Pueblo
+38,3,Cole's Chop Shop,Other,La Plata
+39,3,City of Arvada Streets Building,Other,Jefferson
+40,7,Denver Breaker and Supply,Non-Food Manufacturer/Warehouse,Denver
+41,2,Mandalay Middle School,School K-12,Jefferson
+42,3,Social Gathering- Silverthorne,Social Gathering,Summit
+43,7,ETG Systems,Other,Denver
+44,4,Parry's Pizza: March 2021,Restaurant - Sit Down,Larimer
+45,3,Colorado Department of Transportation - Pueblo County,Office/Indoor Workspace,Colorado
+46,2,The Peaks Care Center (020391): March 2021	,Healthcare - Skilled Nursing,Boulder
+47,2,Double Tree by Hilton Hotel,Hotel/Lodge/Resort,Summit
+48,3,Sonny Lubick Steakhouse,Restaurant - Sit Down,Larimer
+49,3,Ute Coffee Shop,Restaurant - Fast Food,Montezuma
+50,9,RTD Maintenance,Other,Denver
+51,2,Western Hills Health Care Center (020438): March 2021,Healthcare - Skilled Nursing,Jefferson
+52,2,The Green House Homes at Mirasol (02F496): April 2021,Healthcare - Skilled Nursing,Larimer
+53,2,Westlake Care Community (020427): April 2021	,Healthcare - Skilled Nursing,Jefferson
+54,2,First Farm Bank,Office/Indoor Workspace,Weld
+55,2,Grillnetics,Non-Food Manufacturer/Warehouse,Larimer
+56,6,Pueblo Community Resources Host Home,Healthcare - Group Home,Pueblo
+57,3,Barolo Grill,Restaurant - Sit Down,Denver
+58,2,Castle View High School: April 2021,School K-12,Douglas
+59,2,Alchemy Food Co,Food Manufacturing/Packaging,Denver
+60,9,Chaffee County Jail,Jail,Chaffee
+61,3,Kindercare Learning Center Westgate,Child Care Center,Larimer
+62,6,Parker Landing Child Development Center,Child Care Center,Douglas
+63,3,CDPHE State Laboratory: April 2021,Other,Colorado
+64,4,Regal Air,Other,Larimer
+65,7,B-Elite 2007 Boys A/B Soccer Teams,Youth Sports/Activities,Denver
+66,8,Valley High School,School K-12,Weld
+67,2,Crumbl Cookies,Specialty Food Retailer,El Paso
+68,6,10 Barrel,Bar/Tavern/Brewery,Denver
+69,5,Thompson Valley High School: March 2021,School K-12,Larimer
+70,2,City of Fort Collins Parks Department,Other,Larimer
+71,2,Northridge Elementary School: April 2021,School K-12,Douglas
+72,2,James Enterprise Inc,Distribution Center/Business,Pueblo
+73,12,Third Way- York facility,Other,Denver
+74,2,City of Pueblo- Police Department: March 2021,Law Enforcement - Other,Pueblo
+75,3,"California Expanded Metal Products ""CEMCO Steel"": March 2021",Non-Food Manufacturer/Warehouse,Denver
+76,8,Atomic Cowboy- Broadway,Bar/Tavern/Brewery,Denver
+77,5,Atomic Cowboy- E Colfax,Bar/Tavern/Brewery,Denver
+78,3,Platinum Foods,Food Manufacturing/Packaging,Pueblo
+79,2,Breckenridge Mountain Information,Outdoor Entertainment/Rec,Summit
+80,13,Alpine Dance Academy,Indoor Entertainment/Rec,Summit
+81,2,Holiday Inn Express Hotel & Suites,Hotel/Lodge/Resort,Larimer
+82,2,Odell Brewing Company: March 2021 ,Bar/Tavern/Brewery,Larimer
+83,3,Country Kitchen,Restaurant - Sit Down,Pueblo
+84,3,Lamar Advertising,Office/Indoor Workspace,Larimer
+85,3,Mullen High School: March 2021,School K-12,Denver
+86,3,Summit Middle School: March 2021,School K-12,Summit
+87,3,Southern Colorado Developmental Disabilities Services,Office/Indoor Workspace,Las Animas
+88,4,Cheba Hut- Fort Collins (Laurel St),Restaurant - Fast Food,Larimer
+89,4,Chili's Grill & Bar- Pueblo,Restaurant - Sit Down,Pueblo
+90,3,Intervention Community Corrections Services- Weld: March 2021,"Correctional, Other",Weld
+91,3,Saddle Ranch Elementary School,School K-12,Douglas
+92,2,NoCo Carpentry LLC,Construction Company/Contractor,Larimer
+93,12,Highlands Behavioral Health,Healthcare - Psychiatric Hospital,Douglas
+94,2,Colorado State Veterans Home at Fitzsimons (02R932): April 2021,Healthcare - Skilled Nursing,Colorado
+95,2,Grassburger: April 2021,Restaurant - Sit Down,La Plata
+96,4,CMC Materials EC Inc,Non-Food Manufacturer/Warehouse,Pueblo

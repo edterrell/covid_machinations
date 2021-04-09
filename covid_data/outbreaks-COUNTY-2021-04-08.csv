@@ -1,0 +1,627 @@
+date,total,name,type,county,residents,staff,attendee
+2020-10-20,50,Q3 Contracting Inc/Primoris Services Corporation- Commercity City: October 2020,Construction Site,Adams,0,50,0
+2021-03-05,2,Avamere Transitional Care and Rehabilitation (020399):  March 2021,Healthcare - Skilled Nursing,Adams,2,0,0
+2021-04-06,5,Sashco: March 2021,Non-Food Manufacturer/Warehouse,Adams,0,5,0
+2021-02-02,2,Thornton High School,School K-12,Adams,0,0,2
+2021-03-30,6,Top Golf- Thornton: March 2021,Indoor Entertainment/Rec,Adams,0,6,0
+2020-10-28,114,American Furniture Warehouse #32,Retailer,Adams,0,114,0
+2020-05-15,211,Steven Roberts Original Desserts,Food Manufacturing/Packaging,Adams,0,211,0
+2020-10-14,36,TransWest,Other,Adams,0,36,0
+2021-04-07,3,Front Range Community College Westminster Campus- Biology Science Lab,College/University,Adams,0,1,2
+2021-03-11,4,Freddy's Frozen Custard & Steakburgers- Thornton,Restaurant - Fast Food,Adams,0,4,0
+2021-01-26,16,UPS-Commerce City,Distribution Center/Business,Adams,0,16,0
+2020-08-11,106,The Home Depot #1503,Retailer,Adams,0,106,0
+2020-12-29,2,Mountain Range High School,School K-12,Adams,0,2,0
+2020-06-02,82,King Soopers #114,Grocery Store,Adams,0,82,0
+2020-12-17,170,Adams County Sheriff's Detention Facility,Jail,Adams,167,3,0
+2021-03-30,4,Volvo of Denver,Other,Adams,0,4,0
+2021-02-18,8,Western Aero Repair,Other,Adams,0,8,0
+2021-03-30,2,Riverdale Rehab and Care Community (020312): March 2021,Healthcare - Skilled Nursing,Adams,2,0,0
+2021-03-23,2,CU Anschutz Medical Campus: Non-Hospital Research Lab,Other,Adams,0,2,0
+2021-03-18,3,Bennett High School,School K-12,Adams,0,1,2
+2021-03-17,2,San Luis Valley Health - ENT Clinic,Healthcare - Outpatient,Alamosa,0,2,0
+2021-03-22,2,Landmark Lincoln Mercury,Other,Arapahoe,0,2,0
+2021-03-23,9,St. Mary's Academy: March 2021,School K-12,Arapahoe,0,0,9
+2021-03-12,2,St. Thomas More School: March 2021,School K-12,Arapahoe,0,0,2
+2021-03-04,4,Kiewit Construction,Construction Company/Contractor,Arapahoe,0,4,0
+2021-03-24,4,Yasmeen's Bright Steps Academy,Child Care Center,Arapahoe,0,1,3
+2021-04-06,4,Merryhill Preschool,Child Care Center,Arapahoe,0,2,2
+2021-03-04,3,Lois Lenski Elementary School,School K-12,Arapahoe,0,0,3
+2021-03-03,3,Belleview Elementary School,School K-12,Arapahoe,0,0,3
+2020-11-16,38,RTD Elati Light Rail Maintenance Facility,Other,Arapahoe,0,38,0
+2020-12-21,75,RTD East Metro Station- Transportation,Other,Arapahoe,0,75,0
+2021-04-06,2,Caley Ridge Assisted Living Community (230487): April 2021,Healthcare - Assisted Living,Arapahoe,0,2,0
+2021-03-29,3,Our Lady of Loreto Catholic School,School K-12,Arapahoe,0,0,3
+2021-01-22,15,Primrose School of Saddle Rock,Child Care Center,Arapahoe,0,7,8
+2020-12-22,21,Life Care Center of Aurora (0204F6): December 2020,Healthcare - Skilled Nursing,Arapahoe,6,15,0
+2021-03-29,4,Stolle Machinery- Englewood,Non-Food Manufacturer/Warehouse,Arapahoe,0,4,0
+2021-03-11,2,Coyote Hills Elementary School,School K-12,Arapahoe,0,1,1
+2020-12-17,92,In-N-Out Burger- Aurora,Restaurant - Fast Food,Arapahoe,0,92,0
+2021-03-12,6,Adrenaline Gymnastics Academy,Youth Sports/Activities,Arapahoe,0,2,4
+2021-03-03,9,Walnut Hills Community Elementary School,School K-12,Arapahoe,0,1,8
+2021-03-10,2,Altitude Elementary School,School K-12,Arapahoe,0,0,2
+2021-03-09,3,Janus Henderson Investors ,Office/Indoor Workspace,Arapahoe,0,3,0
+2021-03-31,2,Frontier Valley Assisted and Independent Living (2304B1): March 2021,Healthcare - Assisted Living,Arapahoe,0,2,0
+2020-11-09,102,Dish Network- Littleton,Office/Indoor Workspace,Arapahoe,0,102,0
+2021-03-23,3,Eaglecrest High School: March 2021,School K-12,Arapahoe,0,0,3
+2021-03-31,2,Englewood Post Acute and Rehabilitation (020481): March 2021,Healthcare - Skilled Nursing,Arapahoe,1,1,0
+2020-10-20,44,The Home Depot #1501,Retailer,Arapahoe,0,44,0
+2021-04-06,4,Ted's Montana Grill- Aurora (Main St),Restaurant - Sit Down,Arapahoe,0,4,0
+2020-11-03,34,Target- Glendale,Retailer,Arapahoe,0,34,0
+2020-10-28,44,Target SE Aurora,Retailer,Arapahoe,0,44,0
+2021-03-26,7,Tall Grass Animal Hospital,Other,Arapahoe,0,7,0
+2021-02-24,10,Heritage High School,School K-12,Arapahoe,0,0,10
+2021-03-23,13,Social Gathering - Archuleta,Social Gathering,Archuleta,0,0,13
+2021-03-09,3,Archuleta County Government Building,Office/Indoor Workspace,Archuleta,0,3,0
+2021-03-17,5,Pollard Jeep of Boulder,Other,Boulder,0,5,0
+2021-03-26,3,Nitro Club,Nightclub,Boulder,0,3,0
+2021-02-26,18,Dark Horse,Bar/Tavern/Brewery,Boulder,0,18,0
+2021-03-29,2,PowerBack Rehabilitation Lafayette (02U713): March 2021,Healthcare - Rehab Facility,Boulder,2,0,0
+2021-03-24,3,International Crossroads,Other,Boulder,0,3,0
+2021-03-08,7,Flatirons Volleyball Club - 16U,Youth Sports/Activities,Boulder,0,1,6
+2021-04-06,6,Masala Co-Operative,Other,Boulder,6,0,0
+2021-03-30,5,Green Tree Medicinals,Retailer,Boulder,0,5,0
+2021-03-29,3,Hearing HealthCare Centers,Healthcare - Outpatient,Boulder,0,3,0
+2021-02-23,4,Life Care Center of Longmont (020316): February 2021,Healthcare - Skilled Nursing,Boulder,2,2,0
+2021-03-23,3,Heritage Title Company- Boulder,Office/Indoor Workspace,Boulder,0,3,0
+2021-03-09,2,Flatirons Volleyball Club - 15U,Youth Sports/Activities,Boulder,0,0,2
+2021-03-08,3,Centaurus High School ,School K-12,Boulder,0,0,3
+2021-03-11,4,YMCA Youth Hockey Private club team,Youth Sports/Activities,Boulder,0,0,4
+2020-12-22,2,Niles Family Dentistry,Healthcare - Outpatient,Boulder,0,2,0
+2020-12-07,21,Silver Creek High School,School K-12,Boulder,0,5,16
+2021-03-12,6,Sports Stable: Adult Lunch League Hockey,Adult Sports Club/Team,Boulder,0,0,6
+2021-03-23,3,St Julien Hotel & Spa,Hotel/Lodge/Resort,Boulder,0,3,0
+2021-03-19,8,Arapahoe Roofing,Construction Company/Contractor,Boulder,0,8,0
+2021-04-05,2,The Peaks Care Center (020391): March 2021	,Healthcare - Skilled Nursing,Boulder,0,2,0
+2021-03-15,6,The Roost,Restaurant - Sit Down,Boulder,0,6,0
+2020-09-23,3456,University of Colorado Boulder Community Outbreak,College/University,Boulder,0,238,3218
+2020-12-21,68,Boulder County Jail: December 2020,Jail,Boulder,54,14,0
+2021-03-18,18,Adolescent gathering - Boulder,Social Gathering,Boulder,0,0,18
+2021-03-11,18,Shining Mountain Waldorf School,School K-12,Boulder,0,4,14
+2021-03-15,4,Rosalee's Pizzeria,Restaurant - Sit Down,Boulder,0,4,0
+2020-12-01,25,Whole Foods Market - Pearl Street,Grocery Store,Boulder,0,25,0
+2021-03-18,2,RoughRiders 15 (Boys): March 2021,Youth Sports/Activities,Boulder,0,0,2
+2021-03-26,2,Boulder Hockey Club 16AA,Youth Sports/Activities,Boulder,0,0,2
+2021-03-19,4,Boulder High School: March 2021,School K-12,Boulder,0,0,4
+2021-03-30,3,Broomfield Skilled Nursing & Rehab Center (02R989): March 2021,Healthcare - Skilled Nursing,Broomfield,2,1,0
+2021-04-04,9,Chaffee County Jail,Jail,Chaffee,6,3,0
+2021-01-14,19,Monarch Ski Mountain,Outdoor Entertainment/Rec,Chaffee,0,19,0
+2021-02-08,4,Eastern Colorado Bank,Office/Indoor Workspace,Cheyenne,0,4,0
+2021-03-22,6,Clear Creek County Jail,Jail,Clear Creek,6,0,0
+2020-10-16,905,Crowley County Correctional Facility: November 2020,State Prison,Colorado,859,46,0
+2020-11-20,203,Colorado State Penitentiary: November 2020,State Prison,Colorado,128,75,0
+2021-02-04,7,Colorado Avalanche,Adult Sports Club/Team,Colorado,0,7,0
+2021-03-12,4,Colorado Department of Personnel Administration- Pueblo Campus,Office/Indoor Workspace,Colorado,0,4,0
+2021-04-05,3,Colorado Department of Transportation - Pueblo County,Office/Indoor Workspace,Colorado,0,3,0
+2021-02-26,16,Colorado Mental Health Institute in Pueblo (CMHIP): February 2021,Healthcare - Psychiatric Hospital,Colorado,1,15,0
+2021-03-30,56,Denver Women's Correctional Facility: March 2021,State Prison,Colorado,53,3,0
+2021-04-01,2,Colorado State Veterans Home at Fitzsimons (02R932): April 2021,Healthcare - Skilled Nursing,Colorado,0,2,0
+2021-03-16,4,Grand Mesa Youth Services Center,"Correctional, Other",Colorado,2,2,0
+2021-03-26,5,Delta Correctional Center: March 2021,State Prison,Colorado,2,3,0
+2021-02-25,16,Arkansas Valley Correctional Facility: February 2021,State Prison,Colorado,16,0,0
+2020-11-18,1186,Bent County Correctional Facility,State Prison,Colorado,1091,95,0
+2021-03-16,6,San Carlos Correctional Facility: March 2021,State Prison,Colorado,6,0,0
+2020-07-16,210,Pueblo Chemical Agent-Destruction Pilot Plant,Materials Supplier,Colorado,0,210,0
+2020-10-22,245,Centennial Correctional Facility: October 2020,State Prison,Colorado,133,112,0
+2021-04-02,3,CDPHE State Laboratory: April 2021,Other,Colorado,0,3,0
+2021-03-29,10,Custer County Seat Buildings,Office/Indoor Workspace,Custer,0,10,0
+2020-12-04,42,Garnet Mesa Elementary School,School K-12,Delta,0,5,37
+2020-12-10,28,Hotchkiss Elementary School,School K-12,Delta,0,7,21
+2020-12-03,8,Delta High School,School K-12,Delta,0,1,7
+2020-12-02,5,Delta County Human Services,Office/Indoor Workspace,Delta,0,5,0
+2020-12-08,22,Lincoln Elementary School,School K-12,Delta,0,2,20
+2020-12-01,9,Delta Middle School,School K-12,Delta,0,2,7
+2021-01-05,16,Community Options_ Inc.,Healthcare - Facility for Developmentally Disabled (inpatient),Delta,7,9,0
+2020-12-01,48,Cedaredge High School,School K-12,Delta,0,2,46
+2020-11-28,10,Cedaredge Elementary School,School K-12,Delta,0,4,6
+2020-12-03,3,Delta Bus Garage,School Administration,Delta,0,3,0
+2021-04-05,7,ETG Systems,Other,Denver,0,7,0
+2021-01-21,4,National Alamo Car Rental - Denver International Airport,Other,Denver,0,4,0
+2021-03-15,7,National Wood Products,Distribution Center/Business,Denver,0,7,0
+2020-10-22,39,RTD - Ringsby Ct,Other,Denver,0,39,0
+2021-03-31,3,Primrose School of Denver North,Child Care Center,Denver,0,0,3
+2021-03-09,10,East High School,School K-12,Denver,0,1,9
+2021-02-24,2,Vorto,Office/Indoor Workspace,Denver,0,2,0
+2020-07-14,415,People Experiencing Homelessness  (Denver),Homeless Shelter,Denver,381,34,0
+2021-02-03,9,Creativity Challenge Community School,School K-12,Denver,0,2,7
+2020-08-18,104,Denver International Airport / United Ramp Services,Travel,Denver,0,104,0
+2021-04-06,7,Denver Breaker and Supply,Non-Food Manufacturer/Warehouse,Denver,0,7,0
+2021-03-19,2,North Star Rehabilitation and Care Community (020413): March 2021,Healthcare - Skilled Nursing,Denver,1,1,0
+2021-04-01,3,Mullen High School: March 2021,School K-12,Denver,0,0,3
+2020-10-21,46,Whole Foods - Tamarac: October 2020,Grocery Store,Denver,0,46,0
+2021-04-06,6,Del Frisco's Grille,Restaurant - Other,Denver,0,6,0
+2021-04-06,5,Peak Kia,Other,Denver,0,5,0
+2021-02-19,8,DSST: Byers Middle/High School,School K-12,Denver,0,1,7
+2021-03-09,4,Warren Village Early Learning,Child Care Center,Denver,0,1,3
+2020-10-13,939,University of Denver Community Outbreak 2020-2021 School Year,College/University,Denver,0,86,853
+2020-04-30,1181,Van Cise-Simonet Detention Center,Jail,Denver,1095,86,0
+2021-03-25,8,South High School,School K-12,Denver,0,0,8
+2020-12-29,3,Sprouts Farmers Market- E. Colfax #342,Grocery Store,Denver,0,3,0
+2021-03-01,5,Steele Elementary School,School K-12,Denver,0,2,3
+2020-11-18,39,Kavod Senior Life (230445): November 2020,Healthcare - Combined Care,Denver,31,8,0
+2021-04-06,2,John F Kennedy High School,School K-12,Denver,0,0,2
+2021-03-15,2,Joe Shoemaker School,School K-12,Denver,0,0,2
+2021-03-09,4,Jewish Community Center Early Learning School,Child Care Center,Denver,0,4,0
+2021-03-24,4,Swansea Elementary School: March 2021,School K-12,Denver,0,1,3
+2020-12-10,28,Sysco Denver,Food Distribution,Denver,0,28,0
+2021-03-18,2,Inspire Elementary School,School K-12,Denver,0,0,2
+2021-01-28,10,Rampart Supply_ Inc.: January 2021,Materials Supplier,Denver,0,10,0
+2021-03-30,4,Highlands Sport and Spine,Healthcare - Outpatient,Denver,0,4,0
+2021-02-23,2,Lowry Early Learning Center,Child Care Center,Denver,0,2,0
+2021-04-06,4,Lowry Park Apartments,Other,Denver,0,4,0
+2021-03-23,41,Guy's Floor Service Inc.,Construction Company/Contractor,Denver,0,41,0
+2021-03-05,7,Green Valley Elementary School: February 2021,School K-12,Denver,0,2,5
+2021-04-01,12,Third Way- York facility,Other,Denver,8,4,0
+2021-03-22,5,Safta,Restaurant - Sit Down,Denver,0,5,0
+2021-04-05,9,RTD Maintenance,Other,Denver,0,9,0
+2021-01-28,19,Graland Country Day School: January 2021,School K-12,Denver,0,5,14
+2021-03-12,3,Trader Joes #302: March 2021,Grocery Store,Denver,0,3,0
+2021-03-31,2,Metropolitan State University Women's Soccer,College/University,Denver,0,1,1
+2021-03-23,2,Monaco Parkway Health and Rehabilitation Center (020497): March 2021,Healthcare - Skilled Nursing,Denver,1,1,0
+2020-10-22,17,Volunteers of America Early Childhood Education Center,Child Care Center,Denver,0,4,13
+2020-09-09,150,Regis University 2020-2021 School Year,College/University,Denver,0,21,129
+2021-04-02,6,10 Barrel,Bar/Tavern/Brewery,Denver,0,6,0
+2021-01-12,16,King Soopers Bakery: November 2020,Specialty Food Retailer,Denver,0,16,0
+2021-03-09,8,Bass Pro Shop,Retailer,Denver,0,8,0
+2021-04-05,3,Barolo Grill,Restaurant - Sit Down,Denver,0,3,0
+2021-03-16,4,Bao Brewhouse,Bar/Tavern/Brewery,Denver,0,4,0
+2021-04-01,3,"California Expanded Metal Products ""CEMCO Steel"": March 2021",Non-Food Manufacturer/Warehouse,Denver,0,3,0
+2021-04-01,5,Atomic Cowboy- E Colfax,Bar/Tavern/Brewery,Denver,0,5,0
+2021-03-17,5,Cory Elementary School,School K-12,Denver,0,0,5
+2021-04-01,8,Atomic Cowboy- Broadway,Bar/Tavern/Brewery,Denver,0,8,0
+2021-04-02,7,B-Elite 2007 Boys A/B Soccer Teams,Youth Sports/Activities,Denver,0,2,5
+2021-03-16,3,Chick-Fil-A Hampden,Restaurant - Fast Food,Denver,0,3,0
+2021-04-05,2,Alchemy Food Co,Food Manufacturing/Packaging,Denver,0,2,0
+2021-03-27,5,3STEP Lacrosse,Youth Sports/Activities,Denver,0,5,0
+2021-03-09,4,Cherry Cricket- Cherry Creek,Restaurant - Sit Down,Denver,0,4,0
+2021-04-06,2,Kiewit Asphalt Sedalia,Non-Food Manufacturer/Warehouse,Douglas,0,2,0
+2021-04-06,14,Kids 'R' Kids Learning Academy of Hilltop Parker,Child Care Center,Douglas,0,7,7
+2021-03-25,6,Little People's Landing Highlands Ranch,Child Care Center,Douglas,0,2,4
+2021-04-01,12,Highlands Behavioral Health,Healthcare - Psychiatric Hospital,Douglas,10,2,0
+2021-04-05,2,Castle View High School: April 2021,School K-12,Douglas,0,0,2
+2021-03-12,7,Lutheran High School ,School K-12,Douglas,0,0,7
+2021-03-08,8,Castle Rock Elementary School,School K-12,Douglas,0,2,6
+2021-03-11,4,Castle Rock Christian Academy,School K-12,Douglas,0,1,3
+2021-04-06,7,Castle Pines Veterinary Hospital,Other,Douglas,0,7,0
+2021-04-02,2,Northridge Elementary School: April 2021,School K-12,Douglas,0,1,1
+2021-03-23,2,Ponderosa High School: February 2021,School K-12,Douglas,0,0,2
+2021-04-02,6,Parker Landing Child Development Center,Child Care Center,Douglas,0,5,1
+2021-03-04,6,Parker Performing Arts,School K-12,Douglas,0,1,5
+2021-03-11,2,Pine Grove Elementary School: March 2021,School K-12,Douglas,0,0,2
+2021-03-17,13,F.U.E.L. Salon & Spa,Personal Services,Douglas,0,13,0
+2021-02-09,8,Rock Ridge Elementary School,School K-12,Douglas,0,1,7
+2021-03-31,8,Rocky Heights Middle School: March 2021,School K-12,Douglas,0,0,8
+2021-04-01,3,Saddle Ranch Elementary School,School K-12,Douglas,0,0,3
+2021-03-10,2,SkyView Academy: March 2021,School K-12,Douglas,0,0,2
+2021-03-31,5,The Villaggio,Child Care Center,Douglas,0,2,3
+2021-03-22,7,Thunder Ridge High School: March 2021,School K-12,Douglas,0,0,7
+2020-11-03,95,American Furniture Warehouse #62,Retailer,Douglas,0,95,0
+2021-03-11,45,Valor Christian High School,School K-12,Douglas,0,5,40
+2020-12-28,93,Wind Crest: November 2020,Healthcare - Independent Living Facility,Douglas,46,47,0
+2021-03-29,2,Parker Core Knowledge Charter School: March 2021,School K-12,Douglas,0,2,0
+2021-03-16,3,E Light Electric Services_ Inc.,Construction Company/Contractor,Douglas,0,3,0
+2021-02-04,39,Peak Athletics & Cheer Athletics Denver: January 2021,Youth Sports/Activities,Douglas,0,8,31
+2021-02-16,2,Douglas County School District Transportation,School K-12,Douglas,0,0,2
+2021-03-25,35,Dish Network- Englewood,Office/Indoor Workspace,Douglas,0,35,0
+2021-03-09,4,Cresthill Middle School,School K-12,Douglas,0,0,4
+2021-02-16,5,Red Hill Elementary School,School K-12,Eagle,0,5,0
+2021-03-01,6,Vail Volleyball Club,Youth Sports/Activities,Eagle,0,0,6
+2021-03-01,2,Vail Valley Jet Center,Other,Eagle,0,2,0
+2020-11-15,4,Vail Mountain Lift Operations,Outdoor Entertainment/Rec,Eagle,0,4,0
+2020-10-06,8,Vail Health,Healthcare - Acute Care Hospital,Eagle,0,8,0
+2021-02-16,4,Vail Christian High School,School K-12,Eagle,0,0,4
+2020-11-15,3,Beaver Creek Ski Rentals,Outdoor Entertainment/Rec,Eagle,0,3,0
+2021-03-16,14,Battle Mountain High School: March 2021,School K-12,Eagle,0,0,14
+2021-03-09,2,Ace Hardware- Gypsum,Retailer,Eagle,0,2,0
+2020-12-01,4,Gypsum Creek Middle School,School K-12,Eagle,0,0,4
+2021-03-01,7,Eagle Valley High School ,School K-12,Eagle,0,0,7
+2021-03-29,4,Berry Creek Middle School,School K-12,Eagle,0,3,1
+2020-11-20,4,Springs Fabrication_ LLC,Materials Supplier,El Paso,0,4,0
+2021-03-24,3,Ideal Concrete Inc.,Construction Company/Contractor,El Paso,0,3,0
+2020-12-09,45,Springs Rescue Mission,Homeless Shelter,El Paso,29,16,0
+2020-12-07,105,In-n-Out Burger- Colorado Springs,Restaurant - Fast Food,El Paso,0,105,0
+2021-03-24,5,Springs Village Care Center (020535): March 2021,Healthcare - Skilled Nursing,El Paso,3,2,0
+2021-03-10,5,Integrity Bank and Trust/Integrity Wealth Advisors,Office/Indoor Workspace,El Paso,0,5,0
+2021-02-19,12,Lewis-Palmer High School: February 2021,School K-12,El Paso,0,0,12
+2021-03-23,25,Summit Glen Gracious Retirement Living,Healthcare - Independent Living Facility,El Paso,19,6,0
+2021-03-11,7,Arc Thrift Store - Colorado Springs (Hancock Plaza),Retailer,El Paso,0,7,0
+2021-03-29,3,Team Velocity,Youth Sports/Activities,El Paso,0,0,3
+2020-11-22,22,The Aerospace Corporation,Office/Indoor Workspace,El Paso,0,20,2
+2021-03-21,4,CYT Colorado Springs,Youth Sports/Activities,El Paso,0,0,4
+2021-03-24,2,Brookdale Broadmoor (2305CK),Healthcare - Assisted Living,El Paso,0,2,0
+2020-07-28,187,Jabil Healthcare,Office/Indoor Workspace,El Paso,0,187,0
+2020-11-17,54,Cedar Springs Behavioral Health Services,Healthcare - Psychiatric Hospital,El Paso,13,41,0
+2020-12-01,3,Metco Landscape - Colorado Springs North Branch,Construction Company/Contractor,El Paso,0,3,0
+2021-03-24,9,Discovery Canyon Campus (Elementary_ Middle_ High School): March 2021 ,School K-12,El Paso,0,2,7
+2020-11-23,3,Monica L. Dobbin_ DDS Professional LLC,Healthcare - Outpatient,El Paso,0,3,0
+2021-03-29,11,Mountain Springs Recovery: March 2021,Healthcare - Alcohol/Drug Abuse Treatment (outpatient),El Paso,0,4,7
+2021-03-20,2,Double J Pet Ranch,Other,El Paso,0,0,2
+2021-02-16,11,Cheyenne Mountain High School: February 2021,School K-12,El Paso,0,1,10
+2021-03-19,6,New Day Cottages at Pine Creek (23R718),Healthcare - Assisted Living,El Paso,2,4,0
+2021-03-18,3,Noodles & Company (North Academy - Colorado Springs),Restaurant - Sit Down,El Paso,0,3,0
+2021-03-22,4,Buffalo Wild Wings- #114 ,Restaurant - Sit Down,El Paso,0,4,0
+2021-02-05,5,Palmer Ridge High School: January 2021,School K-12,El Paso,0,0,5
+2021-03-16,2,Colorado Springs Utilities Front Range Power Project Administration,Other,El Paso,0,2,0
+2021-01-29,3,Peak 2 Peak Wrestling,Youth Sports/Activities,El Paso,0,0,3
+2021-03-31,2,Bubba's 33: March 2021,Restaurant - Sit Down,El Paso,0,2,0
+2021-03-24,4,Peak View Roofing LLC,Home Maintenance Services,El Paso,0,4,0
+2021-03-17,7,Pikes Peak Community College- Centennial Campus,College/University,El Paso,0,2,5
+2021-03-22,5,Chief Petroleum Co.,Office/Indoor Workspace,El Paso,0,5,0
+2021-03-17,6,Pine Creek High School: March 2021,School K-12,El Paso,0,0,6
+2021-03-22,7,Brookdale Skyline Assisted Living (23054K),Healthcare - Assisted Living,El Paso,4,3,0
+2021-02-17,9,Rampart High School,School K-12,El Paso,0,1,8
+2021-03-10,7,The Broadmoor: February 2021,Hotel/Lodge/Resort,El Paso,0,7,0
+2021-03-18,3,Rocky Mountain Classical Academy: March 2021,School K-12,El Paso,0,0,3
+2021-03-22,4,ComCor_ Inc: Roberts Road Residential Facility: March 2021,"Correctional, Other",El Paso,4,0,0
+2021-04-02,2,Crumbl Cookies,Specialty Food Retailer,El Paso,0,2,0
+2020-11-24,123,Charter Communications,Office/Indoor Workspace,El Paso,0,123,0
+2020-12-23,27,Walmart #1273,Retailer,El Paso,0,27,0
+2020-12-22,24,Walmart  #1434 (8th Street),Retailer,El Paso,0,24,0
+2021-02-25,7,Colorado College Athletics Department ,College/University,El Paso,0,1,6
+2021-03-30,5,Foster Electric Corp,Construction Company/Contractor,El Paso,0,5,0
+2021-03-30,9,Fountain- Fort Carson High School: March 2021,School K-12,El Paso,0,0,9
+2021-03-05,10,Colorado Behavior and Learning Group,Healthcare - Facility for Developmentally Disabled (outpatient),El Paso,0,10,0
+2021-03-08,9,4th Judicial District Attorney's Office,Law Enforcement Administration,El Paso,0,9,0
+2021-03-08,5,Falcon Middle School,School K-12,El Paso,0,2,3
+2021-02-10,6,Urban Egg- Colorado Springs (Briar Village Point),Restaurant - Sit Down,El Paso,0,6,0
+2021-03-18,2,Air Academy High School: March 2021,School K-12,El Paso,0,1,1
+2021-03-27,2,University of Colorado at Colorado Springs- Dining Hall,College/University,El Paso,0,0,2
+2021-03-22,16,Evangelical Christian Academy,School K-12,El Paso,0,4,12
+2021-03-19,4,University of Colorado at Colorado Springs - ROTC Class,College/University,El Paso,0,0,4
+2021-03-20,8,Wimberger's Old World Bakery & Deli,Specialty Food Retailer,El Paso,0,8,0
+2020-11-23,42,Costco Wholesale #1014,Retailer,El Paso,0,42,0
+2021-03-01,12,Encompass Health Rehabilitation Hospital: January 2021,Healthcare - Rehab Facility,El Paso,3,9,0
+2021-03-26,8,Gulfeagle Supply,Distribution Center/Business,El Paso,0,8,0
+2021-01-22,18,The Classical Academy North Secondary School: January 2021,School K-12,El Paso,0,5,13
+2020-10-05,35,World Prayer Center,Religious Facility,El Paso,0,30,5
+2021-01-12,10,The Place,Homeless Shelter,El Paso,9,1,0
+2020-10-27,1277,El Paso County Criminal Justice Center,Jail,El Paso,1149,128,0
+2020-12-08,3,American Lock & Key,Retailer,El Paso,0,3,0
+2021-03-23,4,The Classical Academy East Campus: March 2021,School K-12,El Paso,0,0,4
+2020-08-18,35,American Furniture Warehouse,Retailer,El Paso,0,35,0
+2020-11-10,5,Tri-Lakes Animal Emergency Care,Other,El Paso,0,5,0
+2020-11-25,102,Great Wolf Lodge: November 2020,Hotel/Lodge/Resort,El Paso,0,102,0
+2021-03-22,3,Hildebrand Care Center (020666): March 2021,Healthcare - Skilled Nursing,Fremont,1,2,0
+2021-03-31,3,Kids' Corner Preschool LLC,Child Care Center,Garfield,0,0,3
+2021-01-15,22,Grace Healthcare and Rehabilitation Center of Glenwood Springs (020889),Healthcare - Skilled Nursing,Garfield,18,4,0
+2021-03-09,3,Basalt High School,School K-12,Garfield,0,1,2
+2021-02-26,4,Wamsley Elementary School,School K-12,Garfield,0,1,3
+2020-10-29,22,Maverick Gaming,Casino,Gilpin,0,22,0
+2021-03-03,3,Ameristar Casinos: March 2021,Casino,Gilpin,0,3,0
+2021-02-08,167,Winter Park Resort,Outdoor Entertainment/Rec,Grand,0,167,0
+2021-02-19,2,Gunnison Valley Health Senior Care Center (020999): February 2021,Healthcare - Skilled Nursing,Gunnison,0,2,0
+2021-03-02,9,La Veta School: February 2021,School K-12,Huerfano,0,2,7
+2020-12-27,6,Spring Creek Construction,Construction Company/Contractor,Jackson,0,6,0
+2021-04-06,5,Propharma Distribution,Distribution Center/Business,Jefferson,0,5,0
+2021-03-23,22,Camping World of Denver,Retailer,Jefferson,0,22,0
+2021-04-06,2,Costco Wholesale #440: April 2021,Retailer,Jefferson,0,2,0
+2021-03-09,8,Arvada West High School: March 2021,School K-12,Jefferson,0,0,8
+2021-03-02,5,Mitchell Elementary School,School K-12,Jefferson,0,1,4
+2021-03-26,3,Midtown Montessori Academy- Sloan's Lake,Child Care Center,Jefferson,0,1,2
+2021-03-08,2,The Keg,Restaurant - Sit Down,Jefferson,0,2,0
+2021-03-22,2,Wooden Shoe Preschool,Child Care Center,Jefferson,0,0,2
+2021-03-05,8,Woodrow Wilson Academy,School K-12,Jefferson,0,2,6
+2021-03-23,3,Applejack Wine and Spirits: March 2021,Retailer,Jefferson,0,3,0
+2021-02-19,8,Colorado School of Mines- Sigma Phi Epsilon,School/College Dorm,Jefferson,0,0,8
+2021-03-10,2,Maple Grove Elementary School,School K-12,Jefferson,0,1,1
+2021-04-06,2,Mandalay Middle School,School K-12,Jefferson,0,2,0
+2021-01-14,16,Terumo Blood and Cell Technologies: January 2021,Non-Food Manufacturer/Warehouse,Jefferson,0,16,0
+2021-03-26,10,Sonshine Center East,Child Care Center,Jefferson,0,5,5
+2021-04-06,3,Pop-Ins Creative Schoolhouse,Child Care Center,Jefferson,0,3,0
+2021-03-23,5,Colorado School of Mines- Spruce Hall: March 2021,College/University,Jefferson,0,0,5
+2021-02-24,13,Dakota Ridge High School: February 2021,School K-12,Jefferson,0,0,13
+2021-01-26,8,Walmart #5957,Retailer,Jefferson,0,8,0
+2021-04-06,5,Planned Pethood,Other,Jefferson,0,5,0
+2021-02-24,17,Ralston Valley High School: February 2021,School K-12,Jefferson,0,2,15
+2021-03-02,5,Warren Tech Central High School: February 2021,School K-12,Jefferson,0,2,3
+2021-02-03,15,Columbine High School: February 2021,School K-12,Jefferson,0,0,15
+2021-03-23,6,Waypoint Early Learning Center,Child Care Center,Jefferson,0,6,0
+2021-03-23,6,Rocky Mountain Roller Hockey League_ Inc,Adult Sports Club/Team,Jefferson,0,0,6
+2021-04-06,2,Acaria Inc,Healthcare - Outpatient,Jefferson,0,2,0
+2021-04-05,2,Western Hills Health Care Center (020438): March 2021,Healthcare - Skilled Nursing,Jefferson,0,2,0
+2021-03-23,20,Denver Christian School: March 2021,School K-12,Jefferson,0,0,20
+2021-04-05,2,Westlake Care Community (020427): April 2021	,Healthcare - Skilled Nursing,Jefferson,1,1,0
+2021-03-19,2,Colorado School of Mines- Women's Basketball Team,College/University,Jefferson,0,0,2
+2021-03-17,2,Ute Meadows Elementary School,School K-12,Jefferson,0,0,2
+2021-03-09,10,Westminster Ice Centre-Ice-O-Topes Hockey Team ,Adult Sports Club/Team,Jefferson,0,0,10
+2021-03-16,7,Shaffer Elementary School,School K-12,Jefferson,0,0,7
+2021-03-31,2,Wide Horizon Inc. (020464),Healthcare - Skilled Nursing,Jefferson,1,1,0
+2021-04-06,3,Colorado Volleyball Connection-Senior Moments Team,Adult Sports Club/Team,Jefferson,0,0,3
+2021-03-18,2,COVID Check Colorado,Other,Jefferson,0,2,0
+2021-03-18,5,Golden High School: March 2021,School K-12,Jefferson,0,1,4
+2021-03-09,12,Lakewood Church of Christ,Religious Facility,Jefferson,0,1,11
+2021-04-06,3,Lakewood High School: March 2021,School K-12,Jefferson,0,0,3
+2021-04-06,8,La Petite Academy- Littleton (Burgundy Ave),Child Care Center,Jefferson,0,8,0
+2021-03-24,7,Colorado Christian University: March 2021,College/University,Jefferson,0,0,7
+2021-03-16,5,Ken Caryl Dakota Lodge Before and After Care,Child Care Center,Jefferson,0,1,4
+2021-03-12,2,Jeffco Public Schools Safety and Security,School Administration,Jefferson,0,2,0
+2020-12-01,85,Jefferson County Detention Facility,Jail,Jefferson,85,0,0
+2021-02-03,15,Front Range Christian School: February 2021,School K-12,Jefferson,0,5,10
+2021-03-26,7,Excel Academy Charter School,School K-12,Jefferson,0,1,6
+2021-03-03,27,Colorado Academy,School K-12,Jefferson,0,3,24
+2021-04-06,3,City of Arvada Streets Building,Other,Jefferson,0,3,0
+2021-03-29,5,Gander RV & Outdoors of Denver,Retailer,Jefferson,0,5,0
+2021-04-06,3,Green Mountain High School,School K-12,Jefferson,0,0,3
+2021-04-06,5,Home Day Care #1,Child Care Center,Jefferson,0,2,3
+2021-03-19,4,Ken Caryl Middle School,School K-12,Jefferson,0,0,4
+2021-02-06,30,Chatfield High School,School K-12,Jefferson,0,1,29
+2021-03-26,3,Colorado School of Mines - Beta Theta Pi ,School/College Dorm,Jefferson,0,0,3
+2021-04-06,2,La Petite Academy- Westminster,Child Care Center,Jefferson,0,2,0
+2021-03-30,3,Durango Plastering and Drywall,Construction Company/Contractor,La Plata,0,3,0
+2021-04-06,3,Cole's Chop Shop,Other,La Plata,0,3,0
+2021-02-09,15,Park Elementary School,School K-12,La Plata,0,6,9
+2021-02-09,7,Walmart #2270: February 2021,Retailer,La Plata,0,7,0
+2021-04-01,2,Grassburger: April 2021,Restaurant - Sit Down,La Plata,0,2,0
+2021-02-25,23,Durango High School,School K-12,La Plata,0,1,22
+2021-04-06,6,Social Gathering- La Plata County: March 2021 #2,Social Gathering,La Plata,0,0,6
+2021-04-06,4,Healthy Hounds and Fat Cats,Retailer,La Plata,0,4,0
+2021-04-06,4,Social Gathering - La Plata County: March 2021,Social Gathering,La Plata,0,0,4
+2020-12-23,13,Bayfield High School,School K-12,La Plata,0,1,12
+2021-03-30,3,City of Durango Wastewater/Maintenance,Other,La Plata,0,3,0
+2021-03-16,18,Durango Gymnastics,Youth Sports/Activities,La Plata,0,3,15
+2021-04-06,24,High Mountain Institute,School K-12,Lake,0,0,24
+2021-03-25,2,Brookdale Fort Collins Memory Care (2303C1): March 2021	,Healthcare - Assisted Living,Larimer,0,2,0
+2021-04-06,2,Poudre Valley REA,Other,Larimer,0,2,0
+2021-03-01,27,Poudre High School: February 2021,School K-12,Larimer,0,3,24
+2021-03-23,2,Chippers Lanes,Indoor Entertainment/Rec,Larimer,0,2,0
+2021-04-06,4,JJ's Wood Fired Pizza,Restaurant - Sit Down,Larimer,0,4,0
+2021-04-02,5,Thompson Valley High School: March 2021,School K-12,Larimer,0,0,5
+2021-03-12,3,Precision Service Electric Inc.,Construction Company/Contractor,Larimer,0,3,0
+2020-11-05,39,Scheels,Retailer,Larimer,0,39,0
+2021-03-29,5,Awakened Foods,Food Manufacturing/Packaging,Larimer,0,5,0
+2021-04-01,2,Holiday Inn Express Hotel & Suites,Hotel/Lodge/Resort,Larimer,0,2,0
+2021-03-18,2,UCHealth Mountain Crest Behavioral Health Center,Healthcare - Psychiatric Hospital,Larimer,1,1,0
+2021-04-05,3,Sonny Lubick Steakhouse,Restaurant - Sit Down,Larimer,0,3,0
+2020-11-23,2,JMP Heat Inc.,Construction Company/Contractor,Larimer,0,2,0
+2021-03-24,3,Sprouts Farmers Market- Corbett Dr #303,Grocery Store,Larimer,0,3,0
+2021-03-23,12,Berthoud Fire Department ,Other,Larimer,0,12,0
+2021-03-09,14,Berthoud High School,School K-12,Larimer,0,1,13
+2021-03-24,3,Tax Credit Connection,Office/Indoor Workspace,Larimer,0,3,0
+2021-04-02,2,City of Fort Collins Parks Department,Other,Larimer,0,2,0
+2021-03-16,6,Hach Company: March 2021,Non-Food Manufacturer/Warehouse,Larimer,0,6,0
+2021-04-02,4,Regal Air,Other,Larimer,0,4,0
+2021-03-04,9,City of Loveland Police Department,Law Enforcement - Other,Larimer,0,9,0
+2020-11-05,68,Rocky Mountain High School,School K-12,Larimer,0,10,58
+2021-04-05,2,The Green House Homes at Mirasol (02F496): April 2021,Healthcare - Skilled Nursing,Larimer,1,1,0
+2020-11-25,37,Anhueser Busch Brewery- Fort Collins,Food Manufacturing/Packaging,Larimer,0,37,0
+2021-02-18,7,The Home Depot #1512: January 2021,Retailer,Larimer,0,7,0
+2021-04-07,3,Aspen Grove Animal Clinic PC,Other,Larimer,0,3,0
+2021-04-06,4,Boyd Lake Veterinary Center,Other,Larimer,0,4,0
+2021-03-25,2,The Human Bean- Loveland,Restaurant - Other,Larimer,0,2,0
+2021-04-05,2,Grillnetics,Non-Food Manufacturer/Warehouse,Larimer,0,2,0
+2020-11-10,76,Broadcom Inc.,Non-Food Manufacturer/Warehouse,Larimer,0,76,0
+2021-03-31,3,The Sewing Circle,Retailer,Larimer,0,3,0
+2021-03-15,6,Auto Collision Experts,Other,Larimer,0,6,0
+2021-03-24,4,The Urban Egg - Fort Collins,Restaurant - Sit Down,Larimer,0,4,0
+2020-12-01,47,Resurrection Christian,School K-12,Larimer,0,5,42
+2021-03-11,2,The Farmhouse at Jessup Farm,Restaurant - Sit Down,Larimer,0,2,0
+2021-02-15,7,Good Samaritan Society- Fort Collins Village (020314): February 2021,Healthcare - Skilled Nursing,Larimer,3,4,0
+2021-03-31,2,Ditesco,Office/Indoor Workspace,Larimer,0,2,0
+2021-03-15,2,Walmart #1008: March 2021,Retailer,Larimer,0,2,0
+2021-03-24,6,McDonald's- Loveland (Eisenhower Blvd),Restaurant - Fast Food,Larimer,0,6,0
+2021-04-02,3,Kindercare Learning Center Westgate,Child Care Center,Larimer,0,1,2
+2021-03-24,3,Encore Electric_ Inc.- Fort Collins,Construction Company/Contractor,Larimer,0,3,0
+2021-03-29,3,Fort Collins Police Department: March 2021,Law Enforcement - Other,Larimer,0,3,0
+2021-03-29,6,Lemay Avenue Health & Rehabilitation (020326): March 2021,Healthcare - Skilled Nursing,Larimer,0,6,0
+2021-03-30,10,Loveland High School: March 2021,School K-12,Larimer,0,1,9
+2021-03-12,3,Fort Collins Jeep: March 2021,Other,Larimer,0,3,0
+2021-01-19,42,Fort Collins High School: January 2021,School K-12,Larimer,0,4,38
+2021-01-26,9,Campion Academy,School K-12,Larimer,0,2,7
+2021-03-09,7,Whole Foods Market- Fort Collins,Grocery Store,Larimer,0,7,0
+2021-04-01,4,Cheba Hut- Fort Collins (Laurel St),Restaurant - Fast Food,Larimer,0,4,0
+2021-03-01,7,Loveland Volleyball Club,Youth Sports/Activities,Larimer,0,1,6
+2021-03-29,3,Mighty Hand Construction,Construction Company/Contractor,Larimer,0,3,0
+2020-11-02,115,Walmart Distribution Center: November 2020,Distribution Center/Business,Larimer,0,115,0
+2021-04-01,2,NoCo Carpentry LLC,Construction Company/Contractor,Larimer,0,2,0
+2020-11-04,95,Fossil Ridge High School,School K-12,Larimer,0,9,86
+2021-03-22,4,Mash Lab Brewing & Kitchen,Bar/Tavern/Brewery,Larimer,0,4,0
+2021-04-05,4,Parry's Pizza: March 2021,Restaurant - Sit Down,Larimer,0,4,0
+2021-03-24,2,Edge Optics,Healthcare - Outpatient,Larimer,0,2,0
+2020-10-02,2769,Colorado State University,College/University,Larimer,0,0,2769
+2020-11-17,88,Larimer County Jail,Jail,Larimer,57,31,0
+2021-02-01,11,Kinard Core Knowledge Middle School,School K-12,Larimer,0,1,10
+2021-03-18,2,Buffalo Wild Wings #122: March 2021,Restaurant - Sit Down,Larimer,0,2,0
+2021-04-01,3,Lamar Advertising,Office/Indoor Workspace,Larimer,0,3,0
+2021-03-16,5,Advanced Interiors,Retailer,Larimer,0,5,0
+2021-03-19,2,Veterinary Accounting Specialists,Office/Indoor Workspace,Larimer,0,2,0
+2021-04-01,2,Odell Brewing Company: March 2021 ,Bar/Tavern/Brewery,Larimer,0,2,0
+2021-03-05,2,O'Dell And Company CPA,Office/Indoor Workspace,Larimer,0,2,0
+2021-03-29,5,Northern Colorado Volleyball Club Tournaments,Youth Sports/Activities,Larimer,0,3,2
+2021-01-04,24,Larimer County Community Corrections,"Correctional, Other",Larimer,17,7,0
+2020-11-24,6,Las Animas County Sheriff Department,Law Enforcement - Other,Las Animas,0,6,0
+2021-03-09,12,Trinidad State Junior College: March 2021,College/University,Las Animas,0,1,11
+2021-04-01,3,Southern Colorado Developmental Disabilities Services,Office/Indoor Workspace,Las Animas,0,3,0
+2020-11-25,8,Lincoln Health Care Center (020167),Healthcare - Skilled Nursing,Lincoln,4,4,0
+2021-03-09,5,Sterling Living Center (020165): March 2021	,Healthcare - Skilled Nursing,Logan,5,0,0
+2021-03-24,12,Northeastern Junior College - Athletics: March 2021,College/University,Logan,0,3,9
+2021-03-10,3,Housing Resources of Western Colorado,Other,Mesa,0,3,0
+2020-12-07,86,Eagle Ridge of Grand Valley (021116),Healthcare - Skilled Nursing,Mesa,40,46,0
+2021-01-18,21,West Star Aviation,Other,Mesa,0,21,0
+2020-10-09,4,Q3 Contracting Inc/Primoris Services Corporation: Grand Junction,Construction Site,Mesa,0,4,0
+2021-02-08,4,New Haven Holiness Pentecostal Church,Religious Facility,Mesa,0,0,4
+2020-11-13,6,Wintergreen PCA,Healthcare - Facility for Developmentally Disabled (outpatient),Mesa,2,4,0
+2020-12-01,17,Fruita Monument High School,School K-12,Mesa,0,0,17
+2020-11-16,5,Thunder Mountain Elementary School,School K-12,Mesa,0,3,2
+2021-02-27,5,Colorado Mesa University Admissions Office,College/University,Mesa,0,5,0
+2020-11-09,14,Central High School,School K-12,Mesa,0,4,10
+2021-01-27,6,Creede Early Learning Center,Child Care Center,Mineral,0,2,4
+2021-03-05,11,Creede School ,School K-12,Mineral,0,1,10
+2020-12-01,6,Cortez Seventh-day Adventist Church,Religious Facility,Montezuma,0,0,6
+2021-01-04,2,Souder_ Miller & Associates,Office/Indoor Workspace,Montezuma,0,2,0
+2020-11-16,2,Cortez LiveStock Auction Inc,Other,Montezuma,0,2,0
+2020-12-17,4,Cortez City Police Department,Law Enforcement - Other,Montezuma,0,4,0
+2021-04-05,3,Ute Coffee Shop,Restaurant - Fast Food,Montezuma,0,3,0
+2021-01-25,3,Cork N Bottle,Retailer,Montezuma,0,3,0
+2021-01-04,2,City Market- Cortez #408,Grocery Store,Montezuma,0,2,0
+2020-12-21,4,City of Cortez Public Works,Other,Montezuma,0,4,0
+2021-02-02,6,Mesa Elementary School,School K-12,Montezuma,0,0,6
+2021-01-05,2,Taylor Plumbing and Heating,Home Maintenance Services,Montezuma,0,2,0
+2021-01-05,2,Hampton Inn Mesa Verde/Cortez,Hotel/Lodge/Resort,Montezuma,0,2,0
+2020-11-30,7,Montezuma County Department of Social Services,Office/Indoor Workspace,Montezuma,0,7,0
+2021-03-01,3,Absolute Bakery & Cafe,Restaurant - Sit Down,Montezuma,0,3,0
+2020-12-17,2,Angelic Hands,Other,Montezuma,0,2,0
+2020-11-16,6,CrossFitMRF/Mountain Range Fitness,Indoor Entertainment/Rec,Montezuma,0,0,6
+2021-01-04,2,Garcia & Co. Jewelers,Retailer,Montezuma,0,2,0
+2021-03-30,3,Keesee Motor Co: March 2021,Other,Montezuma,0,3,0
+2020-12-21,2,Dolores Food Market,Grocery Store,Montezuma,0,2,0
+2020-11-16,5,Evangel Assembly of God Church,Religious Facility,Montezuma,0,0,5
+2020-12-11,6,The Homestead at Montrose (23L630),Healthcare - Assisted Living,Montrose,1,5,0
+2021-01-15,5,Lighthouse Emergency Shelter,Homeless Shelter,Montrose,5,0,0
+2021-02-01,2,Montrose Northside Elementary School,School K-12,Montrose,0,1,1
+2020-11-02,47,Cargill Meat Solutions: November 2020,Meat Processing/Packaging,Morgan,0,47,0
+2020-12-09,53,Morgan County Detention Center,Jail,Morgan,41,12,0
+2021-02-24,24,Leprino Foods - Fort Morgan: December 2020,Food Manufacturing/Packaging,Morgan,0,24,0
+2021-01-23,2,City of Ouray,Office/Indoor Workspace,Ouray,0,2,0
+2020-12-11,2,Saint Daniel's Church,Religious Facility,Ouray,0,2,0
+2021-02-10,2,City of Ouray Police Department,Law Enforcement - Other,Ouray,0,2,0
+2020-12-22,2,Ouray Silver Mines Office,Office/Indoor Workspace,Ouray,0,2,0
+2020-10-29,4,Roxy's Market,Grocery Store,Pitkin,0,4,0
+2020-10-29,7,Roaring Fork Club,Construction Site,Pitkin,0,7,0
+2020-09-29,4,Kemo Sabe,Retailer,Pitkin,0,4,0
+2020-10-29,3,Aspen Recreation Center,Indoor Entertainment/Rec,Pitkin,0,2,1
+2021-01-29,5,The Timbers Club,Hotel/Lodge/Resort,Pitkin,0,5,0
+2021-03-11,2,Aspen Elementary School,School K-12,Pitkin,0,1,1
+2020-10-20,3,Aspen Consolidated Sanitation District,Other,Pitkin,0,3,0
+2020-11-26,5,St. Regis Aspen Resort,Hotel/Lodge/Resort,Pitkin,0,5,0
+2020-10-29,7,Group Trip - Pitkin County,Social Gathering,Pitkin,0,0,7
+2020-10-14,2,Old Snowmass Market,Restaurant - Sit Down,Pitkin,0,2,0
+2020-10-29,5,Pitkin County Public Works,Office/Indoor Workspace,Pitkin,0,5,0
+2020-10-29,6,Social Gathering - Snowmass Village,Social Gathering,Pitkin,0,0,6
+2020-11-26,6,Social Gathering - Pitkin: November 2020 #2,Social Gathering,Pitkin,0,0,6
+2020-11-21,5,Social Gathering - Pitkin: November 2020,Social Gathering,Pitkin,0,0,5
+2020-11-26,4,Snowmass Water & Sanitation District,Office/Indoor Workspace,Pitkin,0,4,0
+2020-10-20,3,Colorado Excavation_ LLC,Construction Site,Pitkin,0,3,0
+2020-10-20,8,Social Gathering- Pitkin: October 2020,Social Gathering,Pitkin,0,0,8
+2020-07-30,17,287 S Starwood Rd Construction Site,Construction Site,Pitkin,0,17,0
+2020-11-21,2,Home Team Barbecue,Restaurant - Sit Down,Pitkin,0,2,0
+2020-11-23,43,High Plains Community Health Center,Healthcare - Outpatient,Prowers,0,43,0
+2020-10-15,2,Rocky Mountain Truck Center - Lamar,Other,Prowers,0,2,0
+2020-09-24,71,Trane Technologies,Construction Company/Contractor,Pueblo,0,71,0
+2021-04-01,2,City of Pueblo- Police Department: March 2021,Law Enforcement - Other,Pueblo,0,2,0
+2021-03-23,3,Tony's Floor Coverings LLC,Construction Company/Contractor,Pueblo,0,3,0
+2021-04-01,3,Country Kitchen,Restaurant - Sit Down,Pueblo,0,3,0
+2020-10-27,112,Target Distribution Center: October 2020,Distribution Center/Business,Pueblo,0,112,0
+2021-04-01,3,Platinum Foods,Food Manufacturing/Packaging,Pueblo,0,3,0
+2021-04-01,2,James Enterprise Inc,Distribution Center/Business,Pueblo,0,2,0
+2020-09-30,164,Colorado State University Pueblo,College/University,Pueblo,0,24,140
+2020-11-09,553,Pueblo Detention Center,Jail,Pueblo,440,113,0
+2021-04-01,4,CMC Materials EC Inc,Non-Food Manufacturer/Warehouse,Pueblo,0,4,0
+2021-04-05,6,Pueblo Community Resources Host Home,Healthcare - Group Home,Pueblo,3,3,0
+2021-04-01,4,Chili's Grill & Bar- Pueblo,Restaurant - Sit Down,Pueblo,0,4,0
+2020-11-26,4,Pueblo (City) Fire Station #5,Other,Pueblo,0,4,0
+2021-04-06,3,C&W Railway Company,Other,Pueblo,0,3,0
+2021-03-16,5,Crossroads' Turning Points_ Inc.- 13th St Outpatient Program ,Healthcare - Alcohol/Drug Abuse Treatment (outpatient),Pueblo,0,5,0
+2020-12-09,12,Mission Foods: December 2020,Food Manufacturing/Packaging,Pueblo,0,12,0
+2020-09-21,162,Evraz Pueblo,Construction Company/Contractor,Pueblo,0,162,0
+2020-12-09,32,Pioneers Medical Center,Healthcare - Acute Care Hospital,Rio Blanco,0,31,1
+2021-03-05,3,Walbridge Memorial Convalescent Wing (020867): February 2021,Healthcare - Skilled Nursing,Rio Blanco,0,3,0
+2021-01-23,34,Colorado Northwestern Community College,College/University,Rio Blanco,0,6,28
+2021-01-21,6,Meeker Elementary School: January 2021,School K-12,Rio Blanco,0,2,4
+2021-01-22,32,Meeker High School: January 2021,School K-12,Rio Blanco,0,3,29
+2021-02-01,5,Rangely Junior/Senior High School: January 2021,School K-12,Rio Blanco,0,1,4
+2021-02-04,11,Barone Middle School ,School K-12,Rio Blanco,0,3,8
+2020-12-15,3,Rangely Public Schools Early Education Center,School K-12,Rio Blanco,0,2,1
+2020-12-16,4,Yampa Valley Electrical Association,Other,Routt,0,4,0
+2021-03-22,2,Yampa Sandwich Company- Steamboat Springs,Restaurant - Sit Down,Routt,0,2,0
+2021-03-15,6,Colorado Group Realty,Office/Indoor Workspace,Routt,0,6,0
+2021-01-05,4,Social Gathering - Routt: December 2020,Social Gathering,Routt,0,0,4
+2020-12-21,2,Vista Verde Guest Ranch - Maintenance,Outdoor Entertainment/Rec,Routt,0,2,0
+2021-01-31,7,Old Town Pub,Bar/Tavern/Brewery,Routt,0,0,7
+2020-12-15,5,KP LLC/Binske Grow Operation,Retailer,Routt,0,5,0
+2020-12-15,3,Twenty Mile Coal / Peabody Energy,Other,Routt,0,3,0
+2020-12-28,7,Picking Construction Site - Personal Residence ,Construction Site,Routt,5,2,0
+2020-12-21,2,Cloud 9 Integrated Systems,Office/Indoor Workspace,Routt,0,2,0
+2020-12-21,4,King Creek Ranch,Other,Routt,0,4,0
+2020-12-10,9,Walmart #1808,Retailer,Routt,0,9,0
+2020-12-14,3,Gerber Berend Design Build,Construction Company/Contractor,Routt,0,3,0
+2020-12-10,3,Walgreens #15022,Healthcare - Outpatient,Routt,0,3,0
+2020-11-09,3,Nordic Excavating,Construction Company/Contractor,Routt,0,3,0
+2021-01-22,3,Vitamin Cottage- Steamboat Springs,Grocery Store,Routt,0,3,0
+2020-12-10,2,Town of Oak Creek Public Works,Office/Indoor Workspace,Routt,0,2,0
+2020-11-24,21,Casey's Pond Senior Living LTC (020803),Healthcare - Skilled Nursing,Routt,15,6,0
+2021-01-05,5,Social Gathering - Routt: December 2020 #2,Social Gathering,Routt,0,0,5
+2020-12-14,2,Heritage Title Company- Steamboat Springs,Office/Indoor Workspace,Routt,0,2,0
+2021-01-11,6,Social Gathering - Routt: December 2020 #3,Social Gathering,Routt,0,0,6
+2021-01-14,7,Social Gathering - Routt: January 2021,Social Gathering,Routt,0,0,7
+2021-03-10,7,Social Gathering - Routt: March 2021,Social Gathering,Routt,0,0,7
+2021-03-15,5,Apres Burger Bistro,Restaurant - Sit Down,Routt,0,4,1
+2021-01-24,11,Strawberry Park Elementary School,School K-12,Routt,0,5,6
+2021-03-01,3,Steamboat Springs High School: February 2021 ,School K-12,Routt,0,0,3
+2020-12-21,2,SOROCO Preschool at Yampa,Child Care Center,Routt,0,2,0
+2020-12-10,40,Steamboat Ski Corp Housing - The Ponds,Other,Routt,0,40,0
+2021-03-30,3,Hayden Middle School,School K-12,Routt,0,0,3
+2020-12-15,5,Steamboat Ski Corp - Ski School,Outdoor Entertainment/Rec,Routt,0,5,0
+2021-02-17,9,Retreatia,Other,Routt,0,9,0
+2021-02-16,5,Aurum Food and Wine,Restaurant - Sit Down,Routt,0,5,0
+2020-12-28,5,Steamboat Christian Center,Religious Facility,Routt,0,5,0
+2020-11-08,3,Brown Bear,Restaurant - Sit Down,San Juan,0,3,0
+2020-11-13,2,Social Gathering- San Juan,Social Gathering,San Juan,0,0,2
+2021-01-12,2,Silverton Clinic/San Juan County Public Health,Healthcare - Outpatient,San Juan,0,2,0
+2021-03-31,2,Mountain Sports Outlet,Retailer,Summit,0,2,0
+2021-03-22,4,Christy Sports- Lone Star Breckenridge,Retailer,Summit,0,4,0
+2021-02-10,3,City Market- Dillon #420,Grocery Store,Summit,0,3,0
+2021-03-05,3,Cala Pub and Restaurant,Restaurant - Sit Down,Summit,0,3,0
+2021-03-09,2,Silverthorne Recreation Center,Indoor Entertainment/Rec,Summit,0,2,0
+2021-04-05,3,Social Gathering- Silverthorne,Social Gathering,Summit,0,0,3
+2021-03-31,2,Breck Sports- Beaver Run,Outdoor Entertainment/Rec,Summit,0,2,0
+2021-03-26,3,Social Gathering- Frisco: March 2021,Social Gathering,Summit,0,0,3
+2021-04-05,2,Double Tree by Hilton Hotel,Hotel/Lodge/Resort,Summit,0,2,0
+2021-03-24,3,Summit County Jail: March 2021,Jail,Summit,2,1,0
+2021-03-31,4,Social Gathering- Breckenridge: March 2021,Social Gathering,Summit,0,0,4
+2021-01-29,17,Summit High School: January 2021,School K-12,Summit,0,1,16
+2021-03-21,6,Ollie's Pub & Grub,Bar/Tavern/Brewery,Summit,0,6,0
+2021-04-01,3,Summit Middle School: March 2021,School K-12,Summit,0,1,2
+2021-03-10,2,Keystone Ski Tip Lodge,Hotel/Lodge/Resort,Summit,0,2,0
+2021-03-31,3,Adolescent Social Gathering- Breckenridge ,Social Gathering,Summit,0,0,3
+2021-04-06,2,Keystone Ski Patrol,Outdoor Entertainment/Rec,Summit,0,2,0
+2021-04-01,2,Breckenridge Mountain Information,Outdoor Entertainment/Rec,Summit,0,2,0
+2021-03-27,2,Piante Pizzeria,Restaurant - Sit Down,Summit,0,2,0
+2021-04-01,13,Alpine Dance Academy,Indoor Entertainment/Rec,Summit,0,0,13
+2021-04-06,2,Breckenridge Recreation Center Youth Lacrosse Team,Youth Sports/Activities,Summit,0,0,2
+2021-03-31,3,The Edge- Copper Mountain: March 2021,Other,Summit,0,3,0
+2021-03-18,3,Tocko,Bar/Tavern/Brewery,Summit,0,3,0
+2021-03-31,3,TenMile Station,Restaurant - Sit Down,Summit,0,3,0
+2021-03-18,3,Arapahoe Cafe and Pub,Restaurant - Sit Down,Summit,0,3,0
+2021-03-25,2,Harker Neumaier Associates_ LLC,Office/Indoor Workspace,Summit,0,2,0
+2021-03-15,7,Breckenridge Terrace Building B,Other,Summit,0,7,0
+2021-03-17,2,Breckenridge Terrace_ Building C,Other,Summit,0,2,0
+2021-03-22,2,Christy Sports- Dillon: March 2021,Retailer,Summit,0,2,0
+2021-04-06,3,Triple Crown Casino: March 2021,Casino,Teller,0,3,0
+2020-12-01,23,Walmart #3805,Retailer,Teller,0,23,0
+2021-03-29,2,Sanborn Western Camps (COEC),Overnight Camp,Teller,0,2,0
+2021-03-31,2,Family Dollar,Retailer,Teller,0,2,0
+2021-04-07,3,Camp Elim,Overnight Camp,Teller,0,3,0
+2021-03-22,3,Bronco Billy's Casino,Casino,Teller,0,3,0
+2020-08-19,163,Andrew Wommack Ministries Incorporated,Religious Facility,Teller,0,159,4
+2021-03-03,11,Wildwood Casino: February 2021,Casino,Teller,0,11,0
+2020-11-13,65,Victor Gold Mine,Other,Teller,0,65,0
+2021-03-25,2,Colorado Grande Casino,Casino,Teller,0,2,0
+2021-03-29,4,Double Eagle Hotel & Casino,Casino,Teller,0,4,0
+2021-01-28,3,City Market- Woodland Park #431,Grocery Store,Teller,0,3,0
+2021-03-16,4,Cresson Elementary School,School K-12,Teller,0,1,3
+2021-03-03,5,ABC Development Center,Child Care Center,Washington,0,5,0
+2020-04-01,116,Weld County Jail,Jail,Weld,88,28,0
+2021-03-29,2,Garden Square of Greeley (2303DK): March 2021,Healthcare - Assisted Living,Weld,1,1,0
+2020-11-13,113,JBS Greeley Beef Plant: November 2020,Food Manufacturing/Packaging,Weld,0,113,0
+2021-04-02,8,Valley High School,School K-12,Weld,0,1,7
+2021-03-17,8,Cheba Hut - Greeley,Restaurant - Fast Food,Weld,0,8,0
+2021-03-22,4,Animal Clinic_ LLC ,Other,Weld,0,4,0
+2021-04-01,3,Intervention Community Corrections Services- Weld: March 2021,"Correctional, Other",Weld,3,0,0
+2021-04-06,5,RB Law Offices,Office/Indoor Workspace,Weld,0,5,0
+2021-02-05,19,Windsor High School,School K-12,Weld,0,2,17
+2021-03-09,2,Windsor Gymnastics Academy,Youth Sports/Activities,Weld,0,0,2
+2021-02-05,17,Greeley Central High School,School K-12,Weld,0,1,16
+2021-04-05,2,First Farm Bank,Office/Indoor Workspace,Weld,0,2,0
+2021-03-22,3,Interstate Ford,Other,Weld,0,3,0
+2021-02-02,14,University of Northern Colorado Track and Field Team,College/University,Weld,0,1,13
+2021-01-26,19,University of Northern Colorado Football Team,College/University,Weld,0,3,16
+2021-03-29,2,University of Northern Colorado Athletics - Strength and Conditioning,College/University,Weld,0,2,0
+2021-02-23,8,Nature's Herbs and Wellness: February 2021,Retailer,Weld,0,8,0
+2021-02-09,20,Spradley Barr Ford of Greeley,Other,Weld,0,20,0
+2020-12-04,39,King Soopers #117,Grocery Store,Weld,0,39,0
+2020-10-19,74,JBS Corporate: October 2020,Office/Indoor Workspace,Weld,0,74,0
+2021-03-30,7,Chili's Grill & Bar- Greeley: March 2021,Restaurant - Sit Down,Weld,0,7,0
+2021-03-30,3,Alpine Lumber Company,Retailer,Weld,0,3,0
+2021-03-22,2,WeldWerks Brewing Co. ,Bar/Tavern/Brewery,Weld,0,2,0
+2020-11-10,19,Summit Bodyworks,Other,Weld,0,19,0
+2021-03-29,6,Kentucky Fried Chicken- Firestone,Restaurant - Fast Food,Weld,0,6,0

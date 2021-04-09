@@ -1,0 +1,213 @@
+total	type	name
+5	Distribution Center/Business	United Parcel Service (UPS): February 2021
+5	Child Care Center	Wishes and Dreams Childcare
+2	"Correctional	 Other"
+5	College/University	Colorado Mesa University Admissions Office
+4	Healthcare - Skilled Nursing	Mantey Heights (021149): February 2021
+2	Office/Indoor Workspace	Fred Loya/National Insurance- Loveland
+4	School K-12	Wamsley Elementary School
+2	School K-12	Cottonwood Creek Elementary School
+12	Bar/Tavern/Brewery	Dark Horse
+2	School K-12	Mitchell High School
+4	Healthcare - Assisted Living	MacKenzie Place Fort Collins (23Z789)
+6	Healthcare - Psychiatric Hospital	Colorado Mental Health Institute in Pueblo (CMHIP): February 2021
+12	School K-12	Durango High School
+13	Office/Indoor Workspace	Friday Health Plans: February 2021
+2	Restaurant - Sit Down	Red Mountain Grill
+4	Restaurant - Fast Food	Chipotle Mexican Grill- California St. Denver
+8	State Prison	Arkansas Valley Correctional Facility: February 2021
+3	College/University	Colorado College Athletics Department 
+2	School K-12	Summit Middle School: February 2021
+3	Grocery Store	Trader Joe's #305
+7	Construction Company/Contractor	CoCal Landscape
+25	State Prison	Buena Vista Correctional Complex: February 2021
+10	School K-12	Heritage High School
+2	Office/Indoor Workspace	Corkat Data Solutions LLC
+2	Healthcare - Skilled Nursing	Parkview Care Center (020440): February 2021
+5	School K-12	Dakota Ridge High School: February 2021
+2	Restaurant - Sit Down	Roma Restaurant- Windsor
+2	Outdoor Entertainment/Rec	Breckenridge Grooming and Trail Maintenance
+3	School K-12	James Irwin Charter Academy- Howard Campus: February 2021 
+3	Restaurant - Sit Down	Epic Egg - Market Square
+2	School K-12	Peabody Elementary
+18	Youth Sports/Activities	Premier Gymnastics
+7	School K-12	Ralston Valley High School: February 2021
+3	Healthcare - Skilled Nursing	Colorado State Veterans Home at Fitzsimons (02R932): February 2021
+8	School K-12	James Irwin Charter Schools: February 2021
+3	Healthcare - Skilled Nursing	Alpine Living Center (020410): February 2021
+2	Office/Indoor Workspace	Vorto
+4	Restaurant - Sit Down	Smokin Dave's BBQ & Taphouse
+2	Healthcare - Psychiatric Hospital	Colorado Mental Health Institute at Fort Logan (CMHIFL): February 2021
+4	Child Care Center	iKid Academy Aurora
+22	Food Manufacturing/Packaging	Leprino Foods - Fort Morgan: December 2020
+2	Child Care Center	Shining Stars Learning Center
+6	Retailer	Nature's Herbs and Wellness: February 2021
+6	School K-12	Little Elementary School
+7	Social Gathering	Social Gathering- La Plata County: February 2021 #2
+4	Healthcare - Facility for Developmentally Disabled (outpatient)	Center for Autism and Related Disorders
+2	Office/Indoor Workspace	IBD Design Studio
+2	School K-12	Audubon Elementary School
+2	Healthcare - Skilled Nursing	Life Care Center of Longmont (020316): February 2021
+2	Child Care Center	Lowry Early Learning Center
+10	Non-Food Manufacturer/Warehouse	Colorado Metal Manufacturing/Colorado Iron and Metal
+10	Other	BDC Labs
+3	Office/Indoor Workspace	Pinnacle Consulting Group_ Inc.
+3	Child Care Center	Lil'tykes Playschool
+3	Child Care Center	Windmill Child Enrichment Center
+2	School K-12	Timberview Middle School
+3	Office/Indoor Workspace	Dunmire Property Management
+8	School K-12	Holy Trinity Academy 
+2	Healthcare - Outpatient	Lake Loveland Dermatology (Ideal Dermatology): February 2021
+28	Religious Facility	Lifespring Covenant Church
+3	School K-12	Berthoud Elementary School
+3	Non-Food Manufacturer/Warehouse	Utex Industries_ Inc.
+2	School K-12	Rangeview High School
+34	Youth Sports/Activities	Kemper Dance Academy
+10	Office/Indoor Workspace	CVL Consultants_ a Westwood Team
+2	Other	Larry H Miller Toyota Colorado Springs
+9	School K-12	American Academy - Motsenbocker: February 2021
+2	Office/Indoor Workspace	Larimer County Road & Bridge
+4	Restaurant - Fast Food	Jimmy John's 
+2	Restaurant - Other	Chipotle-Silverthorne
+2	Agriculture - Other	Summit Plant Laboratories
+4	Restaurant - Sit Down	Lazy Dog Johnstown LLC
+4	Other	Enterprise Rent-A-Car
+3	Construction Company/Contractor	Aslan Construction
+3	Healthcare - Skilled Nursing	Boulder Manor (020339): February 2021
+3	Social Gathering	Social Gathering: Dillon
+2	School K-12	Sunrise Elementary School: February 2021
+4	Healthcare - Assisted Living	The Vineyard Memory Care (23S295)
+4	School K-12	Lewis-Palmer High School: February 2021
+2	College/University	Colorado School of Mines- Sigma Phi Epsilon
+3	Healthcare - Assisted Living	Legacy Village of Castle Pines (23O530): February 2021
+2	School K-12	DSST: Byers Middle School
+2	Healthcare - Skilled Nursing	Gunnison Valley Health Senior Care Center (020999): February 2021
+4	Office/Indoor Workspace	Bushwood Holdings_ Inc.
+2	Office/Indoor Workspace	Aperio Global_ LLC
+14	School K-12	American Academy - Lincoln Meadows
+5	Personal Services	Grand Salon & MedSpa
+2	Retailer	Native Roots (Dillon)
+20	Office/Indoor Workspace	ANB Bank
+3	Child Care Center	Keith McNeill Head Start Center
+6	Healthcare - Hospice	TRU Community Care - Hospice
+3	Grocery Store	Trader Joe's #303
+8	Other	Western Aero Repair
+4	Retailer	The Home Depot #1512: January 2021
+4	Construction Company/Contractor	Weifield Group Contracting Inc. - Windsor
+4	College/University	Colorado School of Mines- Elm Hall: February 2021
+3	School K-12	Colorado International Language Academy: February 2021
+9	Other	Retreatia
+6	School K-12	Indian Ridge Elementary School
+3	College/University	Colorado School of Mines - Sigma Alpha Epsilon 
+8	College/University	Metropolitan State University Athletics Social Gathering
+4	Healthcare - Skilled Nursing	The Center at Lowry (02G500): February 2021
+2	Restaurant - Sit Down	Rio Grande Mexican Restaurants_ Inc.
+7	School K-12	Winona Elementary School
+5	School K-12	Rampart High School
+9	School K-12	Mesa Ridge High School
+2	Personal Services	Harmony Skin and Wellness
+2	School K-12	Foothills Elementary School
+4	School K-12	Falcon High School: February 2021
+9	School K-12	Thomas MacLaren School: February 2021
+7	Other	Security Water and Sanitation Districts
+5	Restaurant - Other	The Doughnut Club- Fort Collins
+16	Healthcare - Skilled Nursing	Advanced Health Care of Colorado Springs (02Q655): February 2021
+11	School K-12	Cheyenne Mountain High School: February 2021
+4	School K-12	Fountain- Fort Carson High School: February 2021
+4	School K-12	Vail Christian High School
+5	Restaurant - Sit Down	Aurum Food and Wine
+5	School K-12	Red Hill Elementary School
+4	Non-Food Manufacturer/Warehouse	Colorado Microcircuits
+5	School K-12	Prairie Hills Elementary School
+13	Child Care Center	Primrose School at the Flatirons
+3	Restaurant - Sit Down	Cochino Taco
+19	College/University	Otero Junior College Athletics
+5	Child Care Center	PEAK Education Center
+2	School K-12	Douglas County School District Transportation
+5	Non-Food Manufacturer/Warehouse	RMT Overland
+2	School K-12	Turman Elementary School 
+3	School K-12	Jordahl Elementary School: February 2021
+4	Restaurant - Fast Food	Burger King #5616
+6	Healthcare - Skilled Nursing	Good Samaritan Society- Fort Collins Village (020314): February 2021
+4	Office/Indoor Workspace	Aspen Systems Inc
+3	Healthcare - Group Home	Maez House (05R356)
+4	Other	Tesla Service Center- Colorado Springs
+8	School K-12	Bauder Elementary School
+13	School K-12	Liberty Common Elementary School
+12	Child Care Center	The Acorn School for Early Childhood Development
+2	School K-12	Needham Elementary School: February 2021
+2	School K-12	Washington Elementary School
+5	Construction Company/Contractor	Schmidt Construction Company
+9	Retailer	Walmart #3582: February 2021
+5	Retailer	Walmart #5123
+6	Youth Sports/Activities	RoughRiders 14/15 (Boys)
+2	Food Distribution	The Salvation Army
+17	School K-12	Regis Jesuit High School
+4	Construction Site	Carmel Construction
+14	School K-12	Rocky Mountain Lutheran High School
+2	Other	Keystone Tenderfoot 7000 Building
+6	College/University	University of Northern Colorado Men's Basketball Team
+4	Retailer	Home Depot #1538
+3	School K-12	Escalante-Biggs Academy: February 2021
+3	Other	Breckenridge Terrace Building G
+7	Retailer	Home Depot #1541
+3	Grocery Store	City Market #420
+10	Child Care Center	Children's Garden Learning Academy
+2	Law Enforcement - Other	City of Ouray Police Department
+4	School K-12	Ben Franklin Academy: February 2021
+38	Youth Sports/Activities	5280 Gymnastics_ LLC- Littleton
+3	School K-12	Buffalo Ridge Elementary School
+3	Other	Breckenridge Terrace Building K
+11	School K-12	Broomfield High School
+10	Healthcare - Skilled Nursing	Bear Creek Center (020435): February 2021
+19	Other	Spradley Barr Ford of Greeley
+19	Distribution Center/Business	Walker Products
+4	Retailer	Walmart #2270
+10	Office/Indoor Workspace	Pikes Peak National Bank
+8	School K-12	Rock Ridge Elementary School
+4	Office/Indoor Workspace	Group Insurance Analysts_ Inc
+12	School K-12	Park Elementary School
+17	Healthcare - Independent Living Facility	Parkwood Estates
+4	Religious Facility	New Haven Holiness Pentecostal Church
+163	Outdoor Entertainment/Rec	Winter Park Resort
+3	Bar/Tavern/Brewery	The Barrel
+4	Office/Indoor Workspace	Eastern Colorado Bank
+2	Outdoor Entertainment/Rec	Black Tie Ski Rentals of Breckenridge
+2	Other	Phil Long Kia
+6	Healthcare - Hospice	Phoenix Home Care and Hospice
+7	School K-12	Estes Park High School
+28	School K-12	Chatfield High School
+5	School K-12	Schmitt Elementary: February 2021 
+13	School K-12	Greeley Central High School
+16	School K-12	Windsor High School
+5	Youth Sports/Activities	Fort Collins High School Wrestling Invitational
+5	Office/Indoor Workspace	WCG Incorporated
+2	School Administration	Littleton Public Schools Education Services Center 
+9	Office/Indoor Workspace	Ace Hardware Retail Support Center
+3	School K-12	Palmer Ridge High School: January 2021
+3	Office/Indoor Workspace	Mortgage Solution Financial
+4	Religious Facility	Fellowship Church: February 2021
+5	Other	Four Seasons Veterinary Specialists: February 2021
+11	School K-12	Barone Middle School 
+7	Adult Sports Club/Team	Colorado Avalanche
+41	Youth Sports/Activities	Peak Athletics & Cheer Athletics Denver: January 2021
+3	Child Care Center	Active Learners Academy (Costilla and Broadway)
+14	School K-12	Columbine High School: February 2021
+9	School K-12	Creativity Challenge Community School
+24	Religious Facility	Generations Church
+11	School K-12	Front Range Christian School: February 2021
+8	Religious Facility	First Presbyterian Church
+6	Healthcare - Group Home	Blue River Group Home
+13	College/University	University of Northern Colorado Track and Field Team
+9	Grocery Store	Safeway #1301
+6	School K-12	Mesa Elementary School
+11	School K-12	Mile High Academy February 2021
+2	School K-12	Thornton High School
+9	Religious Facility	Sacred Heart
+2	Healthcare - Assisted Living	Gunnison Valley Health Assisted Living (23R871)
+5	School K-12	Rangely Junior/Senior High School: January 2021
+2	Religious Facility	Grace Church
+9	School K-12	Kinard Core Knowledge Middle School
+44	Healthcare - Skilled Nursing	Accel at Golden Ridge (02V720): January 2021
+8	Non-Food Manufacturer/Warehouse	Maggart and Son's Inc. 
+2	School K-12	Montrose Northside Elementary School

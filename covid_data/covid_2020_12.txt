@@ -1,0 +1,480 @@
+total	type	name
+2	School K-12	Southeast Christian School
+2	Healthcare - Assisted Living	Charleston Assisted Living (23K101)
+11	Healthcare - Independent Living Facility	Sugar Valley Estates
+2	School K-12	Mountain Range High School
+3	Grocery Store	Sprouts- E. Colfax
+3	Healthcare - Facility for Developmentally Disabled (outpatient)	Goldstar Learning Options
+2	Healthcare - Assisted Living	Residence at Village Green (23H136): December 2020
+2	Healthcare - Assisted Living	Eagles Nest Aviator Homes (23I528)
+8	Healthcare - Skilled Nursing	Manorcare Health Services-Denver  (020476): December 2020
+11	Home Maintenance Services	Clear Architectural Glass
+7	Construction Site	Picking Construction Site - Personal Residence 
+4	Healthcare - Skilled Nursing	Centennial Health Care Center (020317): December 2020
+3	Child Care Center	Little People's Landing- E. Boardwalk Dr.
+5	Religious Facility	Steamboat Christian Center
+6	Healthcare - Skilled Nursing	Pine Ridge Extended Care Center (0212V8)
+2	Restaurant - Sit Down	Empire Burger
+3	Child Care Center	St. John's Lutheran Church Preschool
+4	Healthcare - Assisted Living	The Academy Bella Vista (23R666)
+16	Healthcare - Assisted Living	The Commons of Hilltop (23T695)
+2	Healthcare - Assisted Living	The Oak (231133)
+2	Healthcare - Alcohol/Drug Abuse Treatment (inpatient)	Phoenix Concept
+19	Healthcare - Combined Care	The Willows (231128)
+2	Other	City of Durango Collection and Distribution Utilities
+5	Other	Crystal Packaging
+10	Office/Indoor Workspace	Rocky Mountain Instrument Co
+9	Child Care Center	Fitzsimmons Early Learning Center
+23	"Correctional	 Other"
+5	Law Enforcement - Other	Colorado State Patrol - Montrose
+2	Retailer	Happy Horse Tack Shop
+11	Homeless Shelter	Boulder Shelter for the Homeless
+6	Restaurant - Fast Food	McDonalds
+3	Restaurant - Fast Food	Good Times Burgers
+25	Healthcare - Skilled Nursing	PowerBack Rehabilitation Lafayette (02U713): December 2020
+4	Child Care Center	Superior Kids Care
+40	Healthcare - Assisted Living	Frontier Valley Assisted and Independent Living (2304B1)
+9	Healthcare - Skilled Nursing	Summit Rehabilitation and Care Community (020407): December 2020
+2	School K-12	Bayfield High School
+2	Child Care Center	The Cottage School
+23	Healthcare - Skilled Nursing	Elms Haven Center (020474): December 2020
+5	Healthcare - Assisted Living	Garden Square Westlake (2303C0)
+2	Other	Montrose County Senior Citizens Transportation_ Inc.
+6	Healthcare - Acute Care Hospital	St. Joseph Hospital- Women's Care
+29	Healthcare - Assisted Living	Morningstar at Ridgegate (23X760): December 2020
+23	Healthcare - Assisted Living	Lincoln Meadows Senior Living (23D500)
+9	Healthcare - Skilled Nursing	Paonia Care and Rehabilitation Center (021199)
+12	Healthcare - Alcohol/Drug Abuse Treatment (inpatient)	Shiloh House
+6	Healthcare - Skilled Nursing	Life Care Center of Aurora (0204F6): December 2020
+3	Retailer	Hanger Clinic
+20	Retailer	Lowes #0318
+2	Restaurant - Other	Rustic Donut
+4	Healthcare - Group Home	Imagine Longmont Host Home Mason
+3	Other	Pagosa Springs Post Office
+9	Healthcare - Group Home	Imagine Longmont Host Home Charles
+15	Healthcare - Skilled Nursing	St Andrews Village-LTC (02O244): December 2020
+2	Healthcare - Outpatient	Every Child Pediatrics
+9	Construction Company/Contractor	New Image Drywall
+9	Retailer	Disney Store - Park Meadows 
+14	Office/Indoor Workspace	RTD 711 Telephone Info Center
+2	Office/Indoor Workspace	Ouray Silver Mines Office
+5	Healthcare - Assisted Living	Serenity House Assisted Living I (2304O7)
+11	Homeless Shelter	Cold Weather Shelter
+6	Healthcare - Alcohol/Drug Abuse Treatment (outpatient)	Mountain Springs Recovery
+2	Office/Indoor Workspace	Fox Rent-a-Car_ Inc.
+3	Grocery Store	Breckenridge Market & Liquor
+2	School K-12	Compass Montessori: December 2020
+5	Other	Grease Monkey
+4	Other	Colorado Springs Fire Department Station 10
+18	Food Manufacturing/Packaging	Canyon Bakehouse
+43	Jail	Boulder County Jail: December 2020
+8	Distribution Center/Business	Smalley And Company
+3	Home Maintenance Services	Rocky Mountain Plumbing and Hydroheat
+3	Retailer	GM Peoria LLC d/b/a Golden Meds
+5	Healthcare - Assisted Living	Solange at South Forrest (23E526)
+2	Healthcare - Assisted Living	Penny Lane Assisted Living (23V720)
+3	Retailer	Athleta
+4	Office/Indoor Workspace	Northwest Instruments and Controls_ Inc.
+2	School K-12	Chinook Trail Elementary School
+2	Child Care Center	Cradle to Crayons: December 2020
+3	Healthcare - Skilled Nursing	Lowry Hills Care and Rehabilitation (020426): December 2020
+3	Healthcare - Assisted Living	Lighthouse Assisted Living - Elizabeth House (23R130)
+2	Personal Services	Atma Prema Day Spa and Salon
+4	Other	Chatfield Vet Hospital
+3	Healthcare - Skilled Nursing	Brookside Inn (0205US): December 2020
+3	Other	American Moving & Storage
+4	Healthcare - Assisted Living	Sunrise at Orchard (2304NM): December 2020
+23	Outdoor Entertainment/Rec	Breckenridge Lift Maintenance
+3	Restaurant - Fast Food	Starbucks- Frisco
+4	Healthcare - Assisted Living	Freedom Home Assisted Living Inc (23E517)
+3	Grocery Store	Skywalk Market and Deli at Beaver Run Resort
+3	Outdoor Entertainment/Rec	Dillon Ice Castles
+31	Healthcare - Skilled Nursing	Liberty Heights Skilled Nursing Center (020501)
+15	Healthcare - Assisted Living	Almost Like Home (23Y383) : December 2020
+6	Healthcare - Assisted Living	New Mercer Commons (23036U)
+3	Healthcare - Outpatient	Penrose St. Francis Health Services- Cardio Clinic (Admin. Support)
+4	Other	City of Cortez Public Works
+7	Healthcare - Rehab Facility	UC Health (Rehab Patient Care Unit)
+3	Healthcare - Assisted Living	ViewPointe Senior Living (230541)
+11	Healthcare - Skilled Nursing	Monte Vista Estates (021023)
+3	School K-12	Shepardson Elementary
+2	Healthcare - Assisted Living	Cadence Aurora (23048J)
+2	Grocery Store	Dolores Food Market
+8	Healthcare - Assisted Living	The Retreat at Highlands (23O618)
+2	Child Care Center	Wings Early Childhood Center
+11	Child Care Center	The Learning Experience - Centennial 
+2	Outdoor Entertainment/Rec	Vista Verde Guest Ranch - Maintenance
+2	Child Care Center	Bright Horizons Greenwood Plaza
+2	Child Care Center	Paddington Station Preschool
+7	Retailer	Goodwill Retail
+7	Distribution Center/Business	Next Level Tactical
+14	Office/Indoor Workspace	Professional Restoration
+2	Office/Indoor Workspace	Cloud 9 Integrated Systems
+23	Healthcare - Skilled Nursing	Shalom Park (0204NU)
+7	Healthcare - Alcohol/Drug Abuse Treatment (inpatient)	Advantage Treatment Center: December 2020
+5	Grocery Store	Sprouts Farmers Market - S. Colorado BLVD
+5	Child Care Center	Primrose School of Lone Tree
+42	Jail	Adams County Sheriff's Detention Facility
+42	Restaurant - Fast Food	In-N-Out
+3	Child Care Center	Home Daycare #3
+141	Healthcare - Assisted Living	Bonaventure of Castle Rock (23U333): December 2020
+2	Child Care Center	Starpoint Children's Services
+3	School K-12	Patriot High School
+5	Healthcare - Group Home	Independence Group Homes 
+6	Retailer	Walmart #2270
+12	School K-12	Preston Middle School
+5	Healthcare - Group Home	Independence House II (050464)- Developmental Disabilities Resource Center
+2	Child Care Center	SOROCO Elementary (PreK)
+2	Restaurant - Fast Food	The Pizza Casbah
+22	Healthcare - Skilled Nursing	Uptown Healthcare Center (020452): December 2020
+10	Retailer	Office Depot
+5	Healthcare - Skilled Nursing	Englewood Post Acute and Rehabilitation (020481): December 2020
+4	Other	King Creek Ranch
+14	Healthcare - Skilled Nursing	The Center at Foresight (02V727)
+2	Office/Indoor Workspace	Saguache County Courthouse
+2	Child Care Center	Raquel's Rascals
+2	Office/Indoor Workspace	Terumo Blood and Cell Technologies
+14	Healthcare - Skilled Nursing	Centura Health Progressive Care Center (020658)
+4	Retailer	DH Wholesale Signs
+8	Child Care Center	Lakewood Learning Center
+6	Construction Company/Contractor	Spring Creek Construction
+3	Healthcare - Group Home	Sprawka Residential Center (050104)- Eastern CO Services for the Developmentally Disabled
+5	Healthcare - Outpatient	Walgreens #7252
+2	Retailer	Costco #650
+8	Healthcare - Assisted Living	Dayspring Villa (2304IX): December 2020
+14	Social Gathering	Family Gathering- Rio Grande
+4	Law Enforcement - Other	Cortez City Police Department
+2	Healthcare - Outpatient	Walgreens #6844
+2	Child Care Center	Treehouse Learning
+4	Healthcare - Assisted Living	Cardan Manor Assisted Living II (23Q273)
+9	Healthcare - Assisted Living	Aspen Ridge Alzheimer's Special Care Center (23W376)
+3	Child Care Center	UCAR Child Care Center
+3	Child Care Center	East Side Child Care Center
+6	Other	Sheep Draw Veterinary Hospital 
+2	Religious Facility	Fort Collins Colorado Temple - The Church of Jesus Christ of Latter-day Saints
+3	School K-12	Rangely Public Schools Early Education Center
+4	Other	South Mesa Veterinary Hospital 
+3	School K-12	Warren Tech Central
+8	School K-12	Loveland Classical Lyceum (ES)
+7	School K-12	Rangely Junior/Senior High School
+13	Healthcare - Assisted Living	Crossroads at Delta (23R567)
+4	Healthcare - Skilled Nursing	Centre Avenue Health and Rehab (02R209)
+9	Healthcare - Assisted Living	Morningstar of Boulder (23F542)
+2	Office/Indoor Workspace	Lake County Maintenance Department
+9	Healthcare - Assisted Living	The Barth Hotel Assisted Living (230477)
+3	Healthcare - Outpatient	Summit Community Care Clinic - Main Medical
+20	Healthcare - Assisted Living	Sunrise Senior Living of Westminster (23R753)
+2	Office/Indoor Workspace	San Luis Valley Land Office
+3	Outdoor Entertainment/Rec	Breckenridge Lift Operations
+9	School K-12	Lesher Middle School
+8	Healthcare - Assisted Living	Solange at Grouseberry (23S727)
+2	Healthcare - Skilled Nursing	Ridgeview Post Acute (020404): December 2020
+4	Restaurant - Fast Food	Carl's Jr #7206
+3	Restaurant - Fast Food	Sonic
+11	Child Care Center	Kindercare Learning Center Miramonte 
+2	Outdoor Entertainment/Rec	Keystone River Run Rental Operations
+4	Office/Indoor Workspace	Natural Beauty Group
+3	Hotel/Lodge/Resort	Keystone Lodge
+5	Food Manufacturing/Packaging	Rocky Mountain Chocolate Factory HQ
+19	Jail	Summit County Jail
+2	Farm/Dairy	Dyecrest Dairy LLC
+2	Outdoor Entertainment/Rec	Keystone Lift Maintenance 
+3	School K-12	Fairmount Elementary School
+2	Outdoor Entertainment/Rec	Keystone Mountain Safety
+2	Youth Sports/Activities	Boys & Girls Club- Pulliam
+8	Healthcare - Skilled Nursing	The Suites at Someren Glen Care Center (020471): December 2020
+3	Other	Twenty Mile Coal / Peabody Energy
+16	Healthcare - Skilled Nursing	The Center at Lincoln (02S302)
+6	Healthcare - Memory Care	Brookdale Fort Collins Memory Care (2303C1)
+2	School K-12	Northridge Elementary School
+4	Other	Yampa Valley Electrical Association
+3	School K-12	Bennett Middle School
+7	Healthcare - Assisted Living	P.A.L'S ACF (230604)
+43	Healthcare - Skilled Nursing	Good Samaritan Society- Simla  (020597)
+2	Retailer	Columbia at Breckenridge
+25	School K-12	Eaton High School
+7	Healthcare - Assisted Living	MeadowView of Greeley (23N615)
+20	Healthcare - Skilled Nursing	Mantey Heights (021149)
+2	School K-12	Heritage Christian Academy
+2	Child Care Center	Tiff's Lil Cubs Child Care
+4	School K-12	Jeffco Public Schools North Transportation
+3	Retailer	Target #2717
+2	School K-12	Graland Country Day School
+13	School K-12	Paonia Elementary School
+6	Healthcare - Group Home	Spencer House (Blue Peaks Developmental Services)
+10	Healthcare - Group Home	Ponderosa House Group Home (Continuum of Colorado) 
+5	Healthcare - Group Home	The Bridge Community Group Home (050403)
+5	Outdoor Entertainment/Rec	Steamboat Ski Corp - Ski School
+2	Child Care Center	Mary's Little Lambs
+2	Office/Indoor Workspace	Heritage Title Company
+2	School Administration	Colorado Springs School District 11: December 2020
+3	Other	Dolores County Road and Bridge Department
+2	Restaurant - Sit Down	The Buck Stops Here
+3	Restaurant - Sit Down	FNG
+7	Child Care Center	The Goddard School
+3	School K-12	St. Thomas More Catholic School
+38	Healthcare - Skilled Nursing	Hildebrand Care Center (020666)
+30	Healthcare - Skilled Nursing	Cherry Creek Nursing Center (020408): December 2020
+17	Healthcare - Combined Care	Springbrooke Retirement and Assisted Living (2304I0)
+4	Personal Services	Floyd's 99 Barbershop
+2	School K-12	Widefield High School: December 2020
+6	"Correctional	 Other"
+6	Child Care Center	Lightway at the Ridge
+10	Healthcare - Assisted Living	Stonecreek of Littleton (23N524)
+23	Healthcare - Assisted Living	The Argyle (230464): December 2020
+33	Healthcare - Assisted Living	Inglenook at Brighton (2303GK): December 2020
+2	School K-12	Sunrise Elementary School
+7	Child Care Center	Primrose School of Tallgrass
+3	"Correctional	 Other"
+2	Healthcare - Rehab Facility	Encompass Health Rehab Hospital of Littleton
+3	Healthcare - Facility for Developmentally Disabled (inpatient)	Wheat Ridge Regional Center - House A: December 2020
+20	Healthcare - Skilled Nursing	Allison Care Center (020406): December 2020
+5	Healthcare - Assisted Living	Haven of Care Assisted Living at Argonne (23M127)
+2	Retailer	Dream Home Frisco Warehouse
+20	Healthcare - Assisted Living	Sunrise at Pinehurst (23049U)
+3	Retailer	Aeropostale
+16	Healthcare - Skilled Nursing	Good Samaritan Society - Bonell Community (020356): December 2020
+4	Retailer	Big R of Pueblo
+14	Healthcare - Memory Care	BeeHive Homes at the Cortez Homestead (23Z827)
+2	Law Enforcement - Other	Woodland Park Police Dept.
+3	Child Care Center	NinaBees Early Learning Center
+7	Other	Four Seasons Veterinary Specialists
+19	Healthcare - Skilled Nursing	The Center at Northridge (02I148): December 2020
+4	Retailer	Monte Vista COOP
+5	School K-12	Hope Montessori Academy - Falcon
+3	School K-12	Thomas Macclaren School
+4	Healthcare - Outpatient	Colorado Gynecologic Oncology specialists
+8	Grocery Store	Costco #443
+16	Healthcare - Assisted Living	Cappella of Grand Junction (23U246)
+13	Healthcare - Combined Care	Brookdale Meridian Englewood (020409): December 2020
+4	School/College Dorm	UNC-Delta Sigma Phi-Zeta Kappa Chapter
+8	Retailer	Austin Hardwoods
+11	Healthcare - Independent Living Facility	Keystone Place at Legacy Ridge
+9	Healthcare - Outpatient	Rocky Mountain Cancer Center- Colorado Springs
+5	Retailer	Walmart #3177: November 2020
+5	School K-12	Collegiate Academy of Colorado 
+5	Materials Supplier	Summit Respiratory
+5	Healthcare - Assisted Living	Peakview Assisted Living and Memory Care (23F490): December 2020
+2	Office/Indoor Workspace	Conejos County Department of Human Services
+6	Healthcare - Group Home	Rosewood Apartments 
+8	Healthcare - Assisted Living	The Peaks Care Center (020391): December 2020
+16	Healthcare - Skilled Nursing	Colorado State Veterans Home at Fitzsimons (02R932)
+5	Healthcare - Assisted Living	Aspen House 1 Memory Care/Assisted Living (23J976)
+29	Healthcare - Skilled Nursing	Yuma Life Care Center (020183)
+17	Healthcare - Acute Care Hospital	PAM Specialty Hospital of Denver
+5	Retailer	Hobby Lobby- Johnstown: December 2020
+2	School K-12	Summit High School: December 2020
+12	Food Distribution	Sysco Denver
+3	Homeless Shelter	Catholic Charities Women's Temporary Shelter
+8	Office/Indoor Workspace	Ludvik Electric
+11	Healthcare - Skilled Nursing	Parkmoor Village Healthcare Center (020542)
+2	Religious Facility	Saint Daniel's Church
+2	School K-12	Sheridan High School
+5	Retailer	Green Dragon
+7	Healthcare - Alcohol/Drug Abuse Treatment (inpatient)	Momenta Recovery Center
+25	Healthcare - Skilled Nursing	Vi at Highlands Ranch Skilled Nursing (02M203): December 2020
+12	Food Manufacturing/Packaging	Mission Foods
+3	Retailer	Big 5 Sporting Goods
+2	Home Maintenance Services	Caroline's Clean Team
+17	Healthcare - Skilled Nursing	Sharmar Village Care Center (020635)
+2	School K-12	Webster Elementary School
+2	Healthcare - Skilled Nursing	Berkley Manor Care Center (020419): December 2020
+10	Child Care Center	Pleasant Valley Baptist Church Preschool
+15	Healthcare - Acute Care Hospital	Pioneers Medical Center
+41	"Correctional	 Other"
+5	Outdoor Entertainment/Rec	Steamboat Springs Winter Sports Club
+7	Healthcare - Assisted Living	Golden Orchard I (2304CL)
+2	Office/Indoor Workspace	Town of Oak Creek Public Works
+9	Other	Adams County Communication Center Authority
+52	Construction Site	Federal Dr. Office Construction Project
+2	Healthcare - Facility for Developmentally Disabled (outpatient)	Wheat Ridge Regional Center - Sunada Learning Center
+2	Healthcare - Assisted Living	The Oasis Assisted Living Home (23E471)
+6	Healthcare - Skilled Nursing	Trinidad Inn Nursing Home (020796)
+8	Retailer	EVO
+9	School Administration	Lewis-Palmer School District Transportation
+33	Healthcare - Skilled Nursing	Willow Tree Care Center (021121)
+2	Office/Indoor Workspace	Wheat Ridge Regional Center- Administration Building
+3	Healthcare - Group Home	Stephens House/Blue Peaks Developmental Services
+6	Healthcare - Group Home	Steele House/Blue Peaks Developmental Services
+2	Office/Indoor Workspace	Procom LLC
+119	Healthcare - Skilled Nursing	Sierra Vista Healthcare Center (020302)
+7	Other	Wellington Veterinary Clinic
+3	Office/Indoor Workspace	Alumicolor
+3	Restaurant - Other	Peace Love and Little Donuts 
+4	Other	Sunrise Housing
+6	Healthcare - Assisted Living	Prairie View Village at Las Animas (2302T0)
+3	School K-12	Hayden High School
+2	Child Care Center	Goddard School Highlands
+4	Non-Food Manufacturer/Warehouse	Symbia Logistics-Aurora Warehouse
+2	Restaurant - Fast Food	Pizza Hut
+3	Food Warehouse	Blanca Potato Factory: December 2020
+3	Personal Services	Bel Ami Salon
+3	Healthcare - Skilled Nursing	Life Care Center of Westminster (0204W2): December 2020
+4	Healthcare - Outpatient	Dillon Family Dental
+6	Healthcare - Assisted Living	The Homestead at Montrose (23L630)
+15	Retailer	Walmart #842
+5	School K-12	Front Range Christian School
+3	Construction Company/Contractor	Gerber Berend Design Build
+10	Healthcare - Skilled Nursing	Skyline Ridge Nursing and Rehab (020682)
+2	Other	Dave Solon Nissan
+42	Healthcare - Skilled Nursing	Park Forest Care Center (020450)
+28	Jail	Larimer County Jail
+3	Other	Durango Transit Center
+2	Healthcare - Alcohol/Drug Abuse Treatment (outpatient)	State of Grace
+2	Office/Indoor Workspace	Town of Rangely
+5	Healthcare - Skilled Nursing	Bruce McCandless CO State Veterans Nursing Home (020636)
+2	"Correctional	 Other"
+47	Homeless Shelter	Springs Rescue Mission
+22	Healthcare - Skilled Nursing	Hillcrest Care Center (020197)
+6	Other	Tender Touch Animal Hospital
+9	Healthcare - Assisted Living	The Retreat at Harbor Cove (23114D)
+14	Healthcare - Assisted Living	MorningStar at Mountain Shadows (23Y392): December 2020
+25	Healthcare - Memory Care	Belleview Heights Alzheimer's Special Care (23R712): December 2020
+5	Healthcare - Assisted Living	Assured Assisted Living 5 - Thatch House (23I155)
+7	Healthcare - Assisted Living	Assured Assisted Living-Tarpan House (23U704)
+2	Child Care Center	Little Explorers Preschool 
+9	Healthcare - Assisted Living	Montage Hills (0204T9): December 2020
+22	Healthcare - Assisted Living	Brookdale Briargate (2305B9)
+6	Office/Indoor Workspace	State Farm Greeley Operations Center
+2	Retailer	The Home Depot #1517
+7	Healthcare - Independent Living Facility	Holly Creek
+17	Healthcare - Hospice	Pathways Hospice
+2	Healthcare - Assisted Living	Friendship House at the Home (23C967)
+16	School K-12	Silver Creek High School
+6	Healthcare - Assisted Living	Sunrise Assisted Living at University Park (23R508)
+9	Materials Supplier	Oldcastle Infrastructure
+10	Healthcare - Assisted Living	MacKenzie Place Colorado Springs (23L584)
+31	"Correctional	 Other"
+7	Other	Houska Automotive Services Inc.
+5	Healthcare - Outpatient	Family Support Center - Central
+6	Healthcare - Skilled Nursing	Castle Rock Care Center (020591): December 2020
+2	Healthcare - Outpatient	Niles Family Dentistry
+5	Healthcare - Assisted Living	Bethesda Gardens Monument (23U756)
+37	Healthcare - Skilled Nursing	Aviva at Fitzsimons (02S294): December 2020
+12	Homeless Shelter	The Salvation Army RJ Montgomery Center
+10	Healthcare - Combined Care	Arbors of San Marino (2304MO): December 2020
+7	Office/Indoor Workspace	Rio Blanco County Annex Building
+34	Healthcare - Assisted Living	Columbine Commons Assisted Living (23R659)
+13	Healthcare - Combined Care	The Bridge at Alamosa (23Y773)
+80	Restaurant - Fast Food	In-n-Out Burger #359
+2	Child Care Center	Little Eagle Child Development Center
+5	Healthcare - Assisted Living	Life Quality Homes II Cheyenne Homes (2305T2)
+15	Healthcare - Facility for Developmentally Disabled (inpatient)	Harris House
+10	Healthcare - Assisted Living	Greenwood Manor (23062L)
+2	Retailer	Big 5 Corp.
+8	Healthcare - Skilled Nursing	Colorado Veteran's Community Living Center at Homelake (021013)
+2	Healthcare - Assisted Living	Lighthouse Assisted Living-Maplewood House (2304M2)
+25	Healthcare - Independent Living Facility	Garden Plaza of Aurora
+2	Healthcare - Outpatient	Steamboat Orthopedic and Spine Institute
+8	Healthcare - Assisted Living	Brookdale North Loveland (2303RR)
+27	Healthcare - Assisted Living	Legacy Center Inc. (2306W8)
+12	Food Manufacturing/Packaging	Hubbard Feeds (Ranch-Way Feeds)
+7	Retailer	Billo Premium Cannabis Dispensary
+2	Healthcare - Facility for Developmentally Disabled (inpatient)	Pueblo Regional Center - House A
+6	Law Enforcement - Other	City of Thornton Police Department
+4	Office/Indoor Workspace	Canvas Credit Union- Loveland
+21	Healthcare - Skilled Nursing	Washington County Nursing Home (020162)
+4	Healthcare - Facility for Developmentally Disabled (outpatient)	Alpine Autism Center
+3	Retailer	American Lock & Key
+4	Healthcare - Outpatient	Rocky Mountain Cancer Center- Lakewood
+65	Healthcare - Skilled Nursing	Pioneer Healthcare Center (020256): December 2020
+3	Restaurant - Fast Food	Mcdonald's- Silverthorne
+8	Materials Supplier	FMH Material Handling Solutions_ Inc.
+2	Retailer	Melanzana
+2	School K-12	World Compass Academy
+11	Office/Indoor Workspace	Pueblo Regional Center - Administration Building
+3	Child Care Center	La Petite Academy Littleton 
+5	Non-Food Manufacturer/Warehouse	FormTight Inc.
+8	School K-12	Delta High School
+5	Restaurant - Sit Down	Motherloaded Tavern
+30	Grocery Store	King Soopers #117
+4	Grocery Store	Sprouts Farmers Market
+22	Healthcare - Assisted Living	Brookdale Brighton (23033U)
+8	Other	Loveland Ford
+5	Other	Colorado Springs Fire Department Station 17
+10	Healthcare - Assisted Living	TenderCare Assisted Living_ LLC (23K988)
+8	Grocery Store	Sprouts Farmers Market- 38th Ave
+19	Healthcare - Assisted Living	Prairie Pines Assisted Living (23A938)
+3	Other	City of Montrose Animal Shelter
+25	Healthcare - Assisted Living	Aspyre at Rock Creek (23G501)
+11	Child Care Center	Montessori School of Aurora
+10	Healthcare - Assisted Living	A Robin's Nest (23052H)
+3	School Administration	Delta Bus Garage
+11	Child Care Center	Brother Bear Daycare 1
+61	Healthcare - Skilled Nursing	Life Care Center of Littleton (0204RB)
+10	Retailer	Walmart #2729
+3	Retailer	Bath and Body Works
+6	Child Care Center	Little Sprouts Learning Center
+2	School K-12	Longmont Christian School
+2	School K-12	Howbert Elementary School
+12	Healthcare - Acute Care Hospital	UCH Anschutz Bone Marrow Transplant Unit
+2	Healthcare - Outpatient	Pueblo Acero Medical Office Building
+111	Healthcare - Skilled Nursing	Cedarwood Health Care Center (020559)
+13	Healthcare - Acute Care Hospital	Kiowa County Hospital
+8	School K-12	St. John the Baptist Catholic School
+7	Healthcare - Assisted Living	Crescent Homes Adult Care Facility (230505)
+10	Non-Food Manufacturer/Warehouse	ACME Manufacturing
+2	School K-12	Discovery Canyon Middle School
+3	Other	DELLENBACH MOTORS
+26	"Correctional	 Other"
+141	"Correctional	 Other"
+63	Homeless Shelter	Blue Spruce Temporary Shelter
+7	Other	Steamboat Ski Corp Housing - The Ponds
+4	College/University	Pikes Peak Community College: Centennial Campus Computer Lab
+7	Retailer	Hobby Lobby Stores_ Inc- Pueblo
+6	Grocery Store	Trader Joe's #304
+14	Healthcare - Skilled Nursing	Boulder Manor (020339): December 2020
+28	Healthcare - Assisted Living	Park Regency Loveland (23F492)
+15	School K-12	Hotchkiss High School
+6	Meat Processing/Packaging	Rocky Mountain Natural Meats: December 2020
+67	Other	Harvest Farm
+16	Law Enforcement - Other	City of Cherry Hills Village Police Department
+17	Healthcare - Assisted Living	Assisted Living at Greeley (23Z395)
+3	Child Care Center	Mile High Early Learning at Westwood
+26	Healthcare - Skilled Nursing	Pueblo Center- Genesis (020662)
+45	Healthcare - Skilled Nursing	Applewood Living Center (020375): November 2020
+2	Other	Angelic Hands
+4	Hotel/Lodge/Resort	Grand Colorado on Peak 8 (Guest Services)
+2	Retailer	Hobby Lobby- Colorado Springs
+5	School K-12	Monarch High School
+18	Healthcare - Assisted Living	Atria Englewood (23V342)
+6	School K-12	Blessed Sacrament Catholic School
+2	Restaurant - Sit Down	6th Alley Bar and Grill_ Arapahoe Basin
+19	Healthcare - Assisted Living	Castle Peak Senior Life and Rehabilitation (02X369): December 2020
+7	Healthcare - Facility for Developmentally Disabled (outpatient)	Laradon Adult Day Program : December 2020
+18	Construction Site	Moltz Construction- Commerce City Jobsite
+3	Healthcare - Outpatient	Walgreens #15022
+9	Retailer	Walmart #1808
+33	Healthcare - Assisted Living	Brookdale Boulder Creek (2303QF)
+10	Healthcare - Skilled Nursing	Eagle Ridge of Grand Valley (021116)
+3	Child Care Center	Little People's Landing 
+18	Healthcare - Acute Care Hospital	UCHealth Memorial Central Hospital- Cardiac Cath Lab
+13	Outdoor Entertainment/Rec	Royal Gorge Route Railroad
+13	Healthcare - Assisted Living	Blossom View Assisted Living (231104)
+2	Healthcare - Outpatient	Peak View Optometry
+64	Healthcare - Skilled Nursing	Broomfield Skilled Nursing and Rehabilitation Center (02R989): November 2020
+9	Other	Flower Subaru
+64	Healthcare - Skilled Nursing	Valley View Villa (020195)
+3	School K-12	Kilmer Elementary School
+48	School K-12	Cedaredge High School
+115	Healthcare - Skilled Nursing	Colonial Columns Nursing Center (020564)
+11	Grocery Store	Walmart #5676
+22	School K-12	Lincoln Elementary School
+2	Bar/Tavern/Brewery	Distillery 291
+3	School K-12	The Classical Academy (East Elementary)
+12	Retailer	Walmart #1008
+163	Healthcare - Skilled Nursing	Windsor Healthcare Center (020332)
+3	Healthcare - Ambulatory Surgery Center	Rocky Mountain Pediatric Surgery
+20	School K-12	Mountain View High School
+6	School K-12	Runyon Elementary
+19	Retailer	Walmart #3805
+22	Healthcare - Assisted Living	The Legacy at Sterling (23P250)
+4	School K-12	Ranch Creek Elementary School
+5	Healthcare - Facility for Developmentally Disabled (inpatient)	Community Intersections- Grand Junction
+9	Healthcare - Assisted Living	Eagle's Nest Assisted Living (23Z318)
+83	Jail	Washington Justice Center: December 2020
+19	Healthcare - Skilled Nursing	The Green House Homes at Mirasol (02F496)
+10	Retailer	Walmart #3740
+12	Healthcare - Assisted Living	Point of the Pines Gardens Assisted Living (23B948): December 2020
+9	School K-12	Delta Middle School
+52	Healthcare - Memory Care	Greenridge Place (23Y387)

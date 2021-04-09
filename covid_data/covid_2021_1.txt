@@ -1,0 +1,312 @@
+total	type	name
+2	Hotel/Lodge/Resort	Hampton Inn Mesa Verde/Cortez
+2	Office/Indoor Workspace	Canvas Credit Union
+2	Office/Indoor Workspace	Colorado Department of Personnel and Administration North Campus
+2	Office/Indoor Workspace	Western States Bank- Fort Collins
+2	Office/Indoor Workspace	Land Title Guarantee Company
+2	Hotel/Lodge/Resort	Hyatt Place Colorado Springs/ Garden of the Gods
+2	Office/Indoor Workspace	Group Publishing
+2	Office/Indoor Workspace	Breckenridge Guest Information 
+2	Other	Colorado Springs Utilities East Service Center
+2	Other	Waste Management
+2	Other	Breck Terrace Building I
+2	Office/Indoor Workspace	City of Ouray
+2	Home Maintenance Services	Taylor Plumbing and Heating
+2	Healthcare - Skilled Nursing	Westlake Care Community (020427): January 2021
+2	Healthcare - Skilled Nursing	Parkview Care Center (020440): January 2021
+2	Grocery Store	City Market #408
+2	Healthcare - Assisted Living	Sunrise Assisted Living at University Park (23R508): January 2021
+2	Healthcare - Assisted Living	Ty's House (23R990)
+2	Healthcare - Assisted Living	Brookdale Longmont (2303JU)
+2	Healthcare - Combined Care	The Academy Boulder - University Hill (2303OR): January 2021
+2	Healthcare - Facility for Developmentally Disabled (inpatient)	Pueblo Regional Center - House B
+2	Healthcare - Facility for Developmentally Disabled (outpatient)	Trumpet Behavioral Health- Fort Collins
+2	Healthcare - Outpatient	Kaiser Permanente Rockcreek General Surgery Department
+2	Healthcare - Outpatient	Kaiser Lone Tree Pharmacy Infusion Center
+2	Healthcare - Outpatient	Kaiser CSS Pharmacy Infusion Center
+2	Healthcare - Outpatient	Loveland Youth Clinic
+2	Healthcare - Outpatient	South Shields Dental
+2	Healthcare - Outpatient	Silverton Clinic/San Juan County Public Health
+2	Healthcare - Outpatient	Elk Ridge Dentistry
+2	Healthcare - Rehab Facility	Flatirons Health and Rehab
+2	Other	Apex Sports
+2	Other	Senior Resource Development Agency: January 2021
+2	School K-12	Roosevelt Charter Academy
+2	School K-12	Heritage Elementary School: January 2021
+2	School K-12	Upper Blue Elementary School: January 2021
+2	School K-12	Highlands Ranch Bridge Program
+2	School K-12	Mountain Vista High School: January 2021
+2	School K-12	St. Mary's Academy: January 2021
+2	School K-12	Edna and John W Mosley P-8 School
+2	School K-12	Strasburg Elementary School
+2	School K-12	Montrose Northside Elementary School
+2	School K-12	Platte River Academy: January 2021
+2	School K-12	Thornton High School
+2	School K-12	Secrest Elementary School
+2	School K-12	Patriot Elementary School: January 2021
+2	School K-12	Steamboat Springs High School: January 2021
+2	School K-12	Dillon Valley Elementary School: January 2021
+2	Retailer	Rocky Road Remedies
+2	Distribution Center/Business	Associated Global Systems
+2	Retailer	WAXIE Sanitary Supply
+2	Retailer	Sally Beauty 
+2	Outdoor Entertainment/Rec	Breckenridge Adult Ski School: January 2021
+2	Outdoor Entertainment/Rec	Keystone Mountain House Adult Ski School
+2	Outdoor Entertainment/Rec	Breckenridge Children's Ski School P8
+2	Outdoor Entertainment/Rec	Keystone River Run Adult Ski School
+2	Outdoor Entertainment/Rec	Keystone Ticket Scanning
+2	Restaurant - Other	Breckenridge Maggie Food and Beverage 
+2	Restaurant - Other	Buena Vista Roastery
+2	Restaurant - Sit Down	Mountain Pizza and Tap Room
+2	Restaurant - Sit Down	Kip's Grill and Cantina
+2	Restaurant - Sit Down	Olive Garden
+2	Restaurant - Sit Down	Sevens Restaurant
+2	Retailer	Sherwin-Williams Paint Store- Fort Collins
+2	Retailer	Powder Tools
+2	Distribution Center/Business	UPS Englewood
+2	Youth Sports/Activities	Peak 2 Peak Wrestling
+2	Child Care Center	Mama Lea's Rocking Horse Ranch Child Care
+2	Child Care Center	Global Village International Preschool
+2	Child Care Center	Bear Creek Elementary School: January 2021
+2	Child Care Center	Lake Dillon Preschool
+2	Bar/Tavern/Brewery	The Rock Inn
+2	Construction Company/Contractor	Wyndham/Innovative Construction
+2	Child Care Center	Clever Kids Learning Center
+2	Child Care Center	Palmer Lake Early Childhood Center
+2	"Correctional	 Other"
+2	Child Care Center	Home Daycare #5
+2	Child Care Center	Home Daycare #1
+3	Other	Aspen Glen
+3	Healthcare - Assisted Living	Bonaventure of Thornton (23O534): January 2021
+3	School K-12	The Colorado Springs School
+3	Outdoor Entertainment/Rec	Copper Mountain Parking/Base Operations
+3	School K-12	Kinard Core Knowledge Middle School
+3	Construction Company/Contractor	Western Die Contractor Inc
+3	School K-12	Pine Grove Elementary School
+3	Religious Facility	Feedstore Church
+3	Healthcare - Facility for Developmentally Disabled (outpatient)	Trumpet Behavioral Health- Loveland
+3	Healthcare - Facility for Developmentally Disabled (outpatient)	Community Intersections
+3	Child Care Center	Westwoods Kinder Care
+3	Healthcare - Facility for Developmentally Disabled (inpatient)	High Street Home -Bethesda Lutheran Communities
+3	Restaurant - Sit Down	The Periodic Table
+3	Healthcare - Memory Care	Altavita Memory Care Center (23H130)
+3	Child Care Center	Home Daycare #6
+3	Retailer	Sam's Club #6333
+3	Healthcare - Assisted Living	The Myron Stratton Home (230560)
+3	Retailer	The Home Depot #1517: January 2021
+3	Outdoor Entertainment/Rec	Catamount Ranch Nordic Center
+3	Healthcare - Assisted Living	The Courtyards at Mountain View  (23X801)
+3	Retailer	Walmart #921
+3	Retailer	WalMart#5957
+3	Retailer	Specialty Appliance 
+3	Retailer	Cork N Bottle
+3	Restaurant - Fast Food	McDonald's
+3	Retailer	Strawberry Fields North
+3	Restaurant - Fast Food	Starbucks (Breckenridge)
+3	Construction Company/Contractor	TRC Construction Pipeline Crew 
+3	School K-12	Parr Elementary
+3	Social Gathering	Social Gathering- Summit County: January 2021
+3	Food Manufacturing/Packaging	Pepcol Manufacturing by Darling Ingredients 
+3	Office/Indoor Workspace	Shalom Denver
+3	School K-12	Meeker Elementary School: January 2021
+3	Law Enforcement - Other	Breckenridge Police Department
+3	Grocery Store	King Soopers #72
+3	Child Care Center	Summit County Preschool
+3	Law Enforcement - Other	Summit County Sheriff's Department
+3	Construction Company/Contractor	Pavement Maintenance Services
+3	Homeless Shelter	Catholic Charities of Denver
+3	Non-Food Manufacturer/Warehouse	Bronnor Corporation
+3	Social Gathering	Social Gathering - Keystone
+3	Child Care Center	Primrose School at DTC: January 2021
+3	School K-12	Dalton Elementary School
+3	Healthcare - Assisted Living	Peakview Assisted Living and Memory Care (23F490): January  2021
+3	Other	Breck Terrace - Building D
+3	School K-12	Ellicott Elementary
+3	Distribution Center/Business	UPS - Denver Gateway
+3	Other	Wally's Speed Shop
+3	Office/Indoor Workspace	Rio Blanco County Road & Bridge
+3	Social Gathering	Social Gathering- Breckenridge
+3	Grocery Store	Vitamin Cottage- Steamboat Springs
+3	Office/Indoor Workspace	Dunn Real Estate
+3	Farm/Dairy	La Luna Dairy
+3	Office/Indoor Workspace	Glen Companies
+3	College/University	Colorado Mountain College
+3	Grocery Store	Trader Joe's #300
+3	Office/Indoor Workspace	CDS Engineering
+3	Law Enforcement Administration	Teller County Sheriff's Office
+4	Homeless Shelter	Purple Cliff Homeless Camp
+4	Healthcare - Outpatient	Denver Internal Medicine
+4	Restaurant - Sit Down	Downhill Dukes
+4	Materials Supplier	Ideal Completion Services
+4	Restaurant - Sit Down	Panhandler's Pizza
+4	Restaurant - Sit Down	Parry's Pizza
+4	Construction Company/Contractor	Precision Granite
+4	Restaurant - Sit Down	Keystone Big Horn Bistro
+4	Materials Supplier	American Power Systems
+4	Restaurant - Fast Food	Papa Murphys
+4	Office/Indoor Workspace	California Casualty Insurance Company
+4	Other	Metro Wastewater Reclamation District
+4	Office/Indoor Workspace	Edward Jones
+4	Office/Indoor Workspace	Suncor Energy-Maintenance Department
+4	Child Care Center	Joshua Early Childhood Center
+4	Healthcare - Skilled Nursing	Avamere Transitional Care and Rehabilitation (020399): January 2021
+4	Healthcare - Outpatient	Medicine Shoppe #1404
+4	Outdoor Entertainment/Rec	Eastern Rio Blanco Metropolitan Recreation and Park District
+4	Non-Food Manufacturer/Warehouse	Blair Labeling
+4	Restaurant - Fast Food	Rico Pollo #6
+4	Restaurant - Other	Jax Fish House
+4	Non-Food Manufacturer/Warehouse	Creative Foam: January 2021
+4	Restaurant - Sit Down	Slopeside Grill
+4	Jail	Alamosa County Detention Facility 
+4	School K-12	Gold Rush Elementary School: January 2021
+4	School K-12	Addenbrooke Classical Academy
+4	Healthcare - Assisted Living	Madison House Assisted Living (231211)
+4	School K-12	Banning Lewis Preparatory Academy - Middle School
+4	Healthcare - Combined Care	Golden West (230379)
+4	Bar/Tavern/Brewery	High Side Brewing
+4	Healthcare - Assisted Living	Balfour Longmont (23L108)
+4	Healthcare - Assisted Living	The Bee Hive- Sterling 1 (23O1E9)
+4	Healthcare - Assisted Living	Lamar Estates (020201): January 2021
+4	School K-12	Sierra Grande School
+4	School K-12	Rocky Mountain Prep: Southwest January 2021
+4	Food Manufacturing/Packaging	Custom Made Meals: January 2021
+4	Healthcare - Assisted Living	Brookdale Arvada (23046M)
+4	School K-12	Fort Collins High School: January 2021
+4	Restaurant - Sit Down	The Wild Rose Food & Spirits 
+4	School K-12	Governor's Ranch Elementary
+4	Farm/Dairy	Colorado Mushroom Farm: January 2021
+4	Child Care Center	Serenity Education and Day Treatment
+4	School K-12	Strawberry Park Elementary School
+5	Healthcare - Assisted Living	The Well House Arvada LLC  (23Z778)
+5	Social Gathering	Social Gathering - Routt: December 2020 #2
+5	Homeless Shelter	Lighthouse Emergency Shelter
+5	School K-12	Steamboat Springs Middle School: January 2021
+5	Child Care Center	Jarrow Montessori School
+5	"Correctional	 Other"
+5	Outdoor Entertainment/Rec	Good Times Adventures
+5	Healthcare - Skilled Nursing	Bruce McCandless Veterans Community Living Center (020636): January 2021
+5	Other	VCA Northwest Animal Hospital
+5	Healthcare - Psychiatric Hospital	Lutheran Medical center - Senior Behavioral Health
+5	Non-Food Manufacturer/Warehouse	Rocky Mountain Metal Container: January 2021
+5	School K-12	Welchester Elementary School
+5	Retailer	Discount Forklift
+5	Restaurant - Sit Down	Henry's Pub
+5	College/University	University of Northern Colorado Wrestling Team
+5	Retailer	Mark's Outdoor Sports
+5	Healthcare - Outpatient	Kaiser CSS Pharmacy Call Center
+5	Hotel/Lodge/Resort	Peak 8 Properties
+5	Retailer	Nike Factory Store
+5	Restaurant - Sit Down	Truffle Pig
+5	Healthcare - Group Home	C.A.R.E._ INC. Terry House
+5	Healthcare - Skilled Nursing	Golden Peaks Center (020367)
+5	Restaurant - Sit Down	Nocturne Jazz and Supper Club
+5	Hotel/Lodge/Resort	The Timbers Club
+5	Healthcare - Outpatient	Boulder Abortion Clinic
+5	Child Care Center	Little Mavs Learning Center
+5	School K-12	Eiber Elementary
+6	Child Care Center	Creede Early Learning Center
+6	Healthcare - Acute Care Hospital	Presbyterian St Lukes Bone Marrow Transplant Unit
+6	Child Care Center	Primrose School of Longmont
+6	Other	Mike Maroone Chevrolet Sales Department
+6	Child Care Center	HOPE Montessori Academy
+6	Child Care Center	Boulder Waldorf Kindergarten and Preschool
+6	Child Care Center	Creme de la Creme
+6	Social Gathering	New Year's Social Gathering- Durango
+6	Office/Indoor Workspace	Wurth Timberline Fasteners
+6	Materials Supplier	Rampart Supply_ Inc.: January 2021
+6	Child Care Center	Victory Garden Day Care and Preschool
+6	Homeless Shelter	Homeless Shelter
+6	Retailer	Torian Sports
+7	Hotel/Lodge/Resort	Vacasa Vacation Rentals- Kutuk and Antlers
+7	Social Gathering	Social Gathering - Routt: January 2021
+7	School K-12	Primrose School of Saddle Rock
+7	Grocery Store	City Market #414
+7	Distribution Center/Business	UPS-Commerce City
+7	Healthcare - Acute Care Hospital	Rio Grande Hospital
+7	School K-12	Graland Country Day School: January 2021
+7	Healthcare - Psychiatric Hospital	Mental Health Center of Denver - Beeler House
+7	Healthcare - Psychiatric Hospital	All Health Network Santa Fe House
+7	Retailer	Camping World of Longmont
+7	Restaurant - Sit Down	Old Town Pub
+7	Retailer	Aqua Spas 
+7	Retailer	Apple Store - Cherry Creek
+7	Healthcare - Skilled Nursing	The Valley Inn (02123H)
+7	School K-12	Sand Creek High School
+7	School K-12	SkyView Academy: January 2021
+7	Other	Mike Maroone Collision Center
+7	Healthcare - Assisted Living	A Feathered Nest at Thornton (2304JA)
+7	Office/Indoor Workspace	Wall_ Smith_ Bateman Inc
+7	Healthcare - Assisted Living	Home Care at Popa's Assisted Living (23M206)
+8	School K-12	Summit High School: January 2021
+8	School K-12	Centennial Academy of Fine Arts Education: January 2021
+8	Restaurant - Sit Down	Steuben's Uptown: January 2020
+8	School K-12	The Classical Academy North Secondary School: January 2021
+8	Child Care Center	Little Blessings Church Campus
+8	Restaurant - Sit Down	Texas Roadhouse- Denver
+8	Healthcare - Skilled Nursing	Cottonwood Rehab and Extended Care (02E994)
+8	Healthcare - Assisted Living	Ashley Manor Irma 2 (23C354)
+8	Healthcare - Group Home	Lamar Group Home (05G499)
+9	School K-12	Rifle High School
+9	Healthcare - Outpatient	Rocky Mountain Behavioral Health: January 2021
+9	Religious Facility	Clifton Christian Church
+9	Religious Facility	Stillwater Cowboy Church
+9	Retailer	Emerald Fields
+9	Healthcare - Assisted Living	Eastern Star Masonic Center of Colorado (2304HP): January 2021
+9	Healthcare - Assisted Living	The Retreat at Church Ranch (2304LF)
+9	Healthcare - Skilled Nursing	Vista View Care Center (02R315): January 2021
+9	Other	Department of Transportation and Infrastructure- Wastewater Management 
+9	College/University	Colorado School of Mines -Spruce Hall: January 2021
+9	Retailer	Christy Sports- Dillon
+9	Religious Facility	Sacred Heart
+10	College/University	Colorado School of Mines Kappa Sigma : January 2021
+10	College/University	University of Northern Colorado Football Team
+10	Bar/Tavern/Brewery	O'Neils Tavern & Grill
+10	Non-Food Manufacturer/Warehouse	Terumo Blood and Cell Technologies: January 2021
+10	Indoor Entertainment/Rec	Studio West Dance Center
+10	Healthcare - Assisted Living	Serenity House Assisted Living Kingston (23R848)
+10	Restaurant - Other	White House Pizza
+11	School K-12	St. Columba School
+11	Healthcare - Skilled Nursing	Powerback Rehabilitation Lakewood (02A935): January 2021
+11	Homeless Shelter	The Place
+11	Other	VCA Alameda East Veterinary Hospital
+11	Other	Peak Academy of Dance
+11	Child Care Center	Woodland Park Community Church Learning Center
+11	College/University	University of Colorado Football Team
+11	Religious Facility	Vintage City Church
+11	Religious Facility	Life Tabernacle Church
+12	Law Enforcement - Other	Mesa County Sheriff's Office
+12	Restaurant - Fast Food	MOD Pizza
+12	Outdoor Entertainment/Rec	Copper Mountain Guest Services/Copper Sports Center
+12	Healthcare - Assisted Living	Garden Square Westlake (2303C0): January 2021
+13	Child Care Center	The Goddard School of Louisville
+13	Retailer	Christy Sports Gondola Square
+13	College/University	Colorado School of Mines - Bradford Hall
+13	Office/Indoor Workspace	Colorado Department of Transportation - Mesa County
+13	Office/Indoor Workspace	Town of Bennett Town Hall
+13	Homeless Shelter	Mile High Behavioral Healthcare- Aurora Day Resource Center
+14	Outdoor Entertainment/Rec	Monarch Ski Mountain
+14	Non-Food Manufacturer/Warehouse	Primus Aerospace
+14	Healthcare - Independent Living Facility	Longmont Regent 
+15	Healthcare - Combined Care	Montage Ridge (2304WQ): January 2021
+15	Office/Indoor Workspace	UCHealth Auxiliary Support Building
+16	Other	Longmont Fire Department
+17	Healthcare - Skilled Nursing	Grace Healthcare and Rehabilitation Center of Glenwood Springs (020889)
+17	Healthcare - Assisted Living	Garden Square at Spring Creek (230320)
+17	Religious Facility	Canyon View Vineyard Church
+18	Healthcare - Skilled Nursing	Clear Creek Care Center (020401): January 2021
+18	"Correctional	 Other"
+19	Healthcare - Alcohol/Drug Abuse Treatment (outpatient)	Jaywalker Lodge
+20	School K-12	Meeker High School: January 2021
+20	Religious Facility	Cornerstone Church
+21	Office/Indoor Workspace	Baker Hughes - Nexus Controls
+21	Healthcare - Assisted Living	Harvard Square Retirement Community (230428): January 2021
+21	School K-12	Pueblo School for Arts and Sciences- Fulton Heights
+21	Healthcare - Memory Care	Sunshine Gardens Country Home (23R387)
+24	Homeless Shelter	Mile High Behavioral Healthcare -Comitis Crisis Center 
+32	College/University	Colorado Northwestern Community College
+33	Healthcare - Skilled Nursing	Southeast Colorado Hospital
+35	School K-12	Eaglecrest High School
+37	Healthcare - Skilled Nursing	Canon Lodge Care Center (020676): January 2021
+40	College/University	Ravencrest Bible School
+44	State Prison	Denver Reception and Diagnostic Center: January 2021
+56	Healthcare - Skilled Nursing	Spring Creek Healthcare Center (020372)

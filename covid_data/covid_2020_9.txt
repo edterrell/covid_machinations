@@ -1,0 +1,28 @@
+total	type	name
+22	Retailer	Walmart #1200
+55	Healthcare - Assisted Living	Grace Pointe Continuing Care Senior Campus Assisted Living (23T749)
+152	College/University	Colorado State University Pueblo - Football Team
+15	Healthcare - Assisted Living	Oakshire Commons (23M641)
+4	Office/Indoor Workspace	Northwestern Mutual
+4	Retailer	Kemo Sabe
+84	Healthcare - Skilled Nursing	Belmont Lodge Healthcare Center (020619): Sept 2020
+115	Healthcare - Skilled Nursing	Devonshire Acres (020193)
+8	Healthcare - Acute Care Hospital	Vail Health
+2	Other	Universal Incorporated
+7	Restaurant - Sit Down	Bin 707
+7	Indoor Entertainment/Rec	Freeway Bowling 
+71	Construction Company/Contractor	Trane Technologies
+2496	College/University	University of Colorado Boulder Community Outbreak
+3	Construction Company/Contractor	Flores and Perez Construction
+125	Healthcare - Skilled Nursing	The Suites Parker (02K186): September 2020
+54	Healthcare - Skilled Nursing	Life Care Center of Evergreen (020490)
+81	Construction Company/Contractor	Evraz Pueblo
+3	School K-12	Northeast Elementary School
+2	School K-12	Overland High School
+5	Other	Spradley Kia
+5	Other	Spradley Chevrolet/Hyundai
+21	College/University	CMU Sports Team
+77	Healthcare - Assisted Living	Bear Creek Senior Living (23054G)
+121	College/University	Regis University
+33	Healthcare - Outpatient	KP Colorado Franklin Eye Care
+47	Indoor Entertainment/Rec	Top Golf Thornton 

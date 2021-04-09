@@ -1,0 +1,217 @@
+total	type	name
+65	Healthcare - Skilled Nursing	Arvada Care and Rehab (020415)
+7	Healthcare - Assisted Living	Hilltop Life Adjustment Program (23Q649)
+5	Restaurant - Sit Down	Steuben's
+38	Healthcare - Assisted Living	Porter Place (2304E7): October 2020
+45	Healthcare - Assisted Living	Highline Place (23L199): November 2020
+10	Healthcare - Facility for Developmentally Disabled (inpatient)	Wheat Ridge Regional Center - House D
+52	Healthcare - Skilled Nursing	SandRock Ridge Care and Rehab (02H515)
+6	Healthcare - Outpatient	Shandy Clinic (Helen Hunt)
+8	School K-12	Ranch View Middle School
+135	Healthcare - Skilled Nursing	Riverdale Rehab and Care Community (020312): November 2020
+2	School K-12	Pinnacle Charter School
+5	School K-12	Bromley East Charter School 
+16	School K-12	Mead High School
+7	School K-12	Summit Elementary School
+4	School K-12	St. Mary's Academy
+19	Healthcare - Assisted Living	Applewood Our House Assisted Living Facility III (23D697)
+18	Adult Sports Club/Team	Denver Broncos
+68	Food Distribution	McLane Western
+4	"Correctional	 Other"
+11	Food Manufacturing/Packaging	Taylor Farms Colorado Inc
+4	Other	Spradley Ford
+3	Other	El Pueblo History Museum
+4	Restaurant - Sit Down	Greenfield's Pool and Sports Bar
+33	Healthcare - Assisted Living	Cherry Creek Retirement Village (2304E5)
+5	Office/Indoor Workspace	Pitkin County Public Works
+2	Food Distribution	What Chefs Want
+3	Healthcare - Outpatient	Mt San Rafael Therapy Services
+945	State Prison	Arkansas Valley Correctional Facility
+3	School K-12	Watershed School
+15	School K-12	Mountain Vista High School
+7	Healthcare - Assisted Living	Applewood Our House Assisted Living 5 (23R660)
+38	Healthcare - Assisted Living	Courtyard of Loveland (230369)
+25	Retailer	Costco Wholesale #676
+476	Jail	Pueblo Detention Center
+22	Healthcare - Skilled Nursing	The Center at Lowry (02G500): October 2020
+52	Healthcare - Skilled Nursing	Life Care Center of Greeley (0203TL)
+54	Healthcare - Assisted Living	The Retreat at Sunny Vista (23Q180)
+2	School K-12	Global Leadership Academy
+3	School K-12	Ranum Middle School
+14	School K-12	Boltz Middle School
+6	Retailer	Nature's Herbs & Wellness Center 
+2	School K-12	York International
+9	Restaurant - Sit Down	Rio Grande Mexican Restaurant 
+14	School K-12	Grand Mesa Middle School
+14	School K-12	Central High School
+7	Healthcare - Outpatient	BioLife Plasma Services
+27	Other	CMJ Properties
+18	Other	Audi Denver - McDonald Automotive Group
+9	Non-Food Manufacturer/Warehouse	Quikrete: October 2020
+12	Other	Snooty Foxx
+17	Other	Code 4 Security Services
+53	Retailer	American Furniture Warehouse #32
+25	Retailer	Target SE Aurora
+39	Healthcare - Alcohol/Drug Abuse Treatment (inpatient)	Stout Street Foundation
+3	Grocery Store	King Soopers #36
+612	State Prison	Colorado Territorial Correctional Facility
+21	Non-Food Manufacturer/Warehouse	Stolle Machinery
+2	Retailer	HomeRun Electronics_ Inc
+12	Law Enforcement - Other	Larimer County Sheriff's Department
+1154	Jail	El Paso County Criminal Justice Center
+2	Office/Indoor Workspace	Florissant Fossil Beds Natl. Mon.
+25	Jail	Denver County Jail: October 2020
+5	Child Care Center	Montessori Children's House of Denver- Stapleton
+23	Construction Company/Contractor	Tower Electric - Santa Fe Flats
+6	Child Care Center	Thrive Preschool
+86	Healthcare - Assisted Living	LaVilla Grande (021161)
+2	Other	Cortez LiveStock Auction Inc
+6	School K-12	Steamboat Springs High School
+14	Healthcare - Skilled Nursing	Regent Park Nursing and Rehabilitation (020161)
+12	Restaurant - Sit Down	Loungin' Lizard
+30	Casino	Monarch Casino Black Hawk
+6	Retailer	The Home Depot #1522
+11	Office/Indoor Workspace	Town of Firestone
+5	Restaurant - Buffet	Golden Corral #851
+32	School K-12	Rocky Mountain High School
+3	Retailer	ProSound Music 
+10	Healthcare - Assisted Living	Village at Belmar (23Z408): November 2020
+24	"Correctional	 Other"
+3	School K-12	Mile High Academy
+19	Non-Food Manufacturer/Warehouse	Prime Window Systems
+7	Casino	Wildwood Casino
+6	Bar/Tavern/Brewery	Union Bar & Soda Fountain
+14	Grocery Store	Whole Foods Market Belmar
+17	Healthcare - Acute Care Hospital	Prowers Medical Center
+40	Grocery Store	Costco Wholesale #1022
+6	Law Enforcement Administration	Colorado Springs Police Department - Sandcreek Division: November 2020
+21	Non-Food Manufacturer/Warehouse	Hach Company
+34	State Prison	San Carlos Correctional Facility
+8	Retailer	The Home Depot #1550
+33	Healthcare - Independent Living Facility	Brookdale Meridian Lakewood 
+3	Religious Facility	Village Seven Presbyterian Church
+17	Child Care Center	Acacia Learning Center 
+2	School K-12	Student Transportation of America (STA) Gathering
+123	Healthcare - Skilled Nursing	Mount St. Francis Nursing Center (020506)
+10	Retailer	GoodWill of Colorado - Lakewood
+78	Travel	DIA - Maintenance Center
+67	Healthcare - Skilled Nursing	Monaco Parkway Health and Rehabilitation Center (020497): October 2020
+2	School K-12	FutureForward at Washington Square
+17	Healthcare - Assisted Living	Brookdale Parkplace (2304A2): October 2020
+10	Healthcare - Outpatient	La Junta Clinic- Valley Wide Health Systems
+10	Healthcare - Alcohol/Drug Abuse Treatment (inpatient)	Third Way - York Facility
+7	Other	Pyxant Labs Inc.
+11	School K-12	East Middle School
+4	Retailer	The Home Depot #1520
+48	"Correctional	 Other"
+15	Other	RTD - Ringsby Ct
+12	Restaurant - Sit Down	Atomic Cowboy
+4	Grocery Store	Sprouts Farmers Market - Central Park
+19	School K-12	Grand Junction High School
+13	Child Care Center	Volunteers of America Early Childhood Education Center
+9	Casino	Maverick Gaming
+137	Healthcare - Skilled Nursing	Life Care Center of Longmont (020316): October 2020
+10	Construction Site	Hunt's Electric (Fitz Hyatt House Jobsite)
+236	State Prison	Buena Vista Correctional Complex:  October 2020
+217	State Prison	Youthful Offender Systems
+8	School K-12	Fox Meadow Middle School
+4	Child Care Center	Frassati Catholic School
+29	Healthcare - Assisted Living	St Andrews Village (23G126): October 2020
+15	Grocery Store	Whole Foods - Tamarac: October 2020
+33	Retailer	The Home Depot #1501
+9	Distribution Center/Business	Quickbox
+114	Healthcare - Skilled Nursing	Larchwood Inns (0211OZ)
+62	Healthcare - Skilled Nursing	Sundance Skilled Nursing & Rehabilitation (020546): October 2020
+5	Social Gathering	Family Gathering - Moffat County
+7	Social Gathering	Group Trip - Pitkin County
+24	Restaurant - Sit Down	Warehouse 2565
+122	State Prison	Centennial Correctional Facility: October 2020 
+2	School K-12	Canon City High School
+7	Child Care Center	American Academy Preschool
+2	Hotel/Lodge/Resort	Vista Verde Ranch
+10	Youth Sports/Activities	Colorado West Gymnastics
+109	Healthcare - Skilled Nursing	Bethany Nursing and Rehab Center (020420)
+48	College/University	Northeastern Junior College Athletics
+128	Healthcare - Skilled Nursing	Villas at Sunny Acres (020458)
+34	Construction Site	Q3 Contracting Inc/Primoris Services Corporation- Commercity City: October 2020
+6	Restaurant - Sit Down	Red Robin Gourmet Burgers
+50	Office/Indoor Workspace	JBS Corporate: October 2020
+4	Religious Facility	ThornCreek Church
+8	School K-12	Independence Academy
+9	Restaurant - Fast Food	Sonic
+3	Healthcare - Assisted Living	Heidi's Chateau Assisted Living (2311S4)
+33	Healthcare - Group Home	Southern Peaks Regional Treatment Center 
+4	Grocery Store	Roxy's Market
+3	Indoor Entertainment/Rec	Aspen Recreation Center
+6	Social Gathering	Social Gathering - Snowmass Village
+16	Bar/Tavern/Brewery	MolsonCoors Golden Brewery
+7	School K-12	Silver Hills Middle School
+20	"Correctional	 Other"
+4	Child Care Center	Little Giants Learning Center
+184	Healthcare - Skilled Nursing	Brookside Inn (0205US)
+2	School K-12	Vikan Middle School
+29	Distribution Center/Business	Interstate Warehousing
+6	School K-12	Southeast Elementary School
+12	Healthcare - Outpatient	DaVita Boulder
+11	Healthcare - Outpatient	Skyline Vision Clinic and Laser Center
+127	Healthcare - Skilled Nursing	Rock Canyon Respiratory and Rehabilitation Center (020699)
+4	Construction Site	Morton Buildings
+13	Food Distribution	Rocky Mountain Spice Company: October 2020
+7	Construction Site	Roaring Fork Club
+79	Healthcare - Skilled Nursing	Life Care Center of Pueblo (020641)
+2	Other	Rocky Mountain Truck Center - Lamar
+7	Hotel/Lodge/Resort	Black Canyon Inn
+14	School K-12	Liberty Common High School
+19	Other	TransWest
+14	Non-Food Manufacturer/Warehouse	Majestic Metals
+3	Non-Food Manufacturer/Warehouse	Wolf Robotics_ LLC
+2	Healthcare - Rehab Facility	Rocky Mountain Rehabilitation_ Physical Therapy
+8	Materials Supplier	Gates Corporation
+2	Restaurant - Sit Down	Old Snowmass Market
+16	Construction Company/Contractor	Mtech Mechanical
+9	Office/Indoor Workspace	Housing Authority of the City of Pueblo
+4	School Administration	Denver Public Schools Hilltop Terminal
+48	Distribution Center/Business	Walmart Distribution Center: November 2020
+11	Other	Red Rocks Country Club 
+749	College/University	University of Denver Community Outbreak
+3	Other	Aspen Consolidated Sanitation District
+57	Distribution Center/Business	Target Distribution Center: October 2020
+10	Social Gathering	Social Gathering - Mesa County
+854	State Prison	Fremont Correctional Facility: October 2020
+10	Religious Facility	Calvary Chapel
+20	Other	Perkins Motor Company
+16	College/University	Colorado School of Mines - Spruce Hall
+17	School K-12	Fruita Monument High School
+28	Healthcare - Assisted Living	Melody Living of Colorado Springs (23P166)
+4	Construction Site	Q3 Contracting Inc/Primoris Services Corporation: Grand Junction
+47	Healthcare - Assisted Living	Palisades at Broadmoor Park (23U762)
+5	School K-12	Coperni 3
+6	School K-12	Thunder Ridge High School
+13	Bar/Tavern/Brewery	Park Cafe
+5	Home Maintenance Services	LiquiGreen
+3	School K-12	Cherry Creek High School
+13	Construction Company/Contractor	Colorado Asphalt Services
+2	Child Care Center	Blue Sky Kids_ Inc - Goddard School Littleton
+4	School K-12	Colorado Sports Leadership Academy
+11	Restaurant - Sit Down	Sunset Inn Bar & Grill Inc
+23	Food Distribution	Mile High Frozen Foods
+4	Grocery Store	King Soopers - Store #1
+15	College/University	Colorado School of Mines - Kappa Sigma
+15	Office/Indoor Workspace	Fire Alarm Services
+3	Construction Site	Colorado Excavation_ LLC
+6	Healthcare - Outpatient	JoyVida LLC
+11	Child Care Center	Northfield Goddard
+13	Construction Site	Hensel Phelps - McGregor Square Worksite
+25	Religious Facility	World Prayer Center
+56	Healthcare - Assisted Living	Chateau at Sharmar Village (2306N1)
+4	Healthcare - Alcohol/Drug Abuse Treatment (inpatient)	Monument House
+8	Youth Sports/Activities	Barbara Ellis Studio of Dance
+8	Social Gathering	Social Gathering- Pitkin: October 2020
+2	School K-12	Mapleton Expeditionary School of the Arts
+28	Indoor Entertainment/Rec	Orchard Mesa Lanes
+1511	College/University	Colorado State University
+2	Child Care Center	Global Primary Academy
+29	Grocery Store	Costco Wholesale #440
+5	School K-12	Prairie Middle School
+98	Healthcare - Skilled Nursing	Aspen Living Center (020586): October 2020
+2	Personal Services	SuperCuts
