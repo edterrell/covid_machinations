@@ -1,5 +1,7 @@
 # covid_machinations
 # Covid programs summary
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edterrell/covid_machinations.git/main)
+ 
 ## There are two main notebooks: 
 1. Covid.ipynb 
 2. ColoradoOutbreaks.ipynb
