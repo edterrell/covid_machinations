@@ -7,3 +7,4 @@ dependencies:
   - pandas
   - bs4
   - time
+  - urllib
