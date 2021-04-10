@@ -8,3 +8,4 @@ dependencies:
   - bs4
   - time
   - lxml
+  - xlrd
