@@ -1,0 +1,16 @@
+name: covid-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - os
+  - shutil
+  - sys
+  - requests
+  - re
+  - bs4
+  - time
+  - datetime
+  - IPython.core.display
