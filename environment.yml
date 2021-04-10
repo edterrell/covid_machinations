@@ -9,3 +9,4 @@ dependencies:
   - time
   - lxml
   - xlrd
+  - pyxl
