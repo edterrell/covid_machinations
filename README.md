@@ -35,7 +35,7 @@ The program outputs  a series of csv files sorted on COUNTY, DATE, TOTAL and TYP
 
 It also creates (and stores) a histogram of outbreak cases by month, using the pandas’ resampling method.
 
-At the end of the notebook there is a cell which loops through a list of all images created by covid.ipynb and ColoradoOutbreaks.ipyng and plots them. These images were previously stored in covid_data_update. Following this helper files are deleted and the working directory is changed back to covid_machinations.
+At the end of the notebook there is a cell which loops through a list of all images created by covid.ipynb and ColoradoOutbreaks.ipyng and plots them. These images were previously stored in covid_data_update. Following this helper files are deleted and the working directory is changed back to the home directory.
 
 This program is not as robust as COVID.ipynb due to random formatting issues in the input data.
 
