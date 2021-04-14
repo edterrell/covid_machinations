@@ -270,7 +270,7 @@ iso3166 = {
 	'ZW': 'Zimbabwe'
 }
 
-# time zones list
+# time zones dictionary
 tz_dict = {0:'Etc/GMT',
  1:'Etc/GMT+1',
  10:'Etc/GMT+10',
@@ -302,9 +302,6 @@ tz_dict = {0:'Etc/GMT',
 
 # ### States
 
-# In[147]:
-
-
 # Repair dictionaries to match lower case and hyphens used on worldometers.com
 def repair_dict(dictionary):
     # Flip keys and values and make new keys all lower case
@@ -318,15 +315,10 @@ def repair_dict(dictionary):
     return dictionary
 
 
-# In[148]:
-
-
 all_states = repair_dict(us_states)
 
 
 # ### Countries
-
-# In[149]:
 
 
 def reverse_dict(dictionary):
@@ -334,22 +326,13 @@ def reverse_dict(dictionary):
     return dict(map(reversed, dictionary.items()))
 
 
-# In[150]:
-
-
 iso3166r = reverse_dict(iso3166)
-
-
-# In[151]:
 
 
 all_countries = repair_dict(iso3166r)
 
 
 # ### Select states and countries of interest
-
-# In[152]:
-
 
 def custom_list(some_string):
     #Takes as input upper or lower codes for states or countries
@@ -358,20 +341,6 @@ def custom_list(some_string):
     slist = [item.upper() for item in slist]
     return slist
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
