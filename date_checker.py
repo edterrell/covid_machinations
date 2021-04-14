@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
-#import requests
-#import dateutil.parser
-#import time
-
-
 import datetime as dt
 import os
 import sys
@@ -50,12 +44,16 @@ def compare (previous):
 	# using regex to look for xlsx file on the page and extract the link
 	re_xlsx = re.compile('xlsx')
 	link = soup.find(text = re_xlsx).parent['href']
-	
+	txt = soup.find(text = re_xlsx).parent.text
+	print(txt)
+	print(link)
 	# date comparison
 	# find and extract the xlsx date; assign to 'current' 
 	# compare 'current' to 'previous'
-	x_date = re.compile(r'\d\d?(?:-|_|\s)\d\d?(?:_|-|\s)\d{4}')
-	xlsx_date = re.findall(x_date,link)[0]
+	x_date = re.compile(r'\d\d(?:-|_|\s)\d\d(?:_|-|\s)\d{4}')
+	#x_date = re.compile(r'\d\d\s\d\d\s\d{4}')
+	
+	xlsx_date = re.findall(x_date,txt)[0]
 	
 
 	# handles various possible formats for dates
