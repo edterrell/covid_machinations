@@ -3,15 +3,6 @@
 
 # ### Creating dictionaries US states and Countries
 
-# In[ ]:
-
-
-# jupyter nbconvert --to script 'state_country_dicts.ipynb'
-
-
-# In[145]:
-
-
 # translate States to Two-Letter codes
 us_states = {
     'Alabama': 'AL',
@@ -70,9 +61,6 @@ us_states = {
 
 
 # ### Country Codes
-
-# In[146]:
-
 
 # python dictionary for countries and codes in ISO format
 # some minor manual repair was done to approximate worldometers site usage
@@ -281,6 +269,35 @@ iso3166 = {
 	'ZR': 'Zaire',
 	'ZW': 'Zimbabwe'
 }
+
+# time zones list
+tz_dict = {0:'Etc/GMT',
+ 1:'Etc/GMT+1',
+ 10:'Etc/GMT+10',
+ 11:'Etc/GMT+11',
+ 12:'Etc/GMT+12',
+ 2:'Etc/GMT+2',
+ 3:'Etc/GMT+3',
+ 4:'Etc/GMT+4',
+ 5:'Etc/GMT+5',
+ 6:'Etc/GMT+6',
+ 7:'Etc/GMT+7',
+ 8:'Etc/GMT+8',
+ 9:'Etc/GMT+9',
+ -1:'Etc/GMT-1',
+ -10:'Etc/GMT-10',
+ -11:'Etc/GMT-11',
+ -12:'Etc/GMT-12',
+ -13:'Etc/GMT-13',
+ -14:'Etc/GMT-14',
+ -2:'Etc/GMT-2',
+ -3:'Etc/GMT-3',
+ -4:'Etc/GMT-4',
+ -5:'Etc/GMT-5',
+ -6:'Etc/GMT-6',
+ -7:'Etc/GMT-7',
+ -8:'Etc/GMT-8',
+ -9:'Etc/GMT-9'}
 
 
 # ### States
