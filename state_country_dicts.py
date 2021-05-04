@@ -254,7 +254,7 @@ iso3166 = {
 	'TZ': 'Tanzania',
 	'UA': 'Ukraine',
 	'UG': 'Uganda',
-	'US': 'United States of America',
+	'US': 'US',
 	'UY': 'Uruguay',
 	'UZ': 'Uzbekistan',
 	'VA': 'Vatican City',
