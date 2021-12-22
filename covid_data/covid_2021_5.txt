@@ -1,0 +1,350 @@
+,total,name,type,county
+0,2,Edna and John W Mosley P-8 School: May 2021,School K-12,Arapahoe
+1,4,Action Industries,Non-Food Manufacturer/Warehouse,Jefferson
+2,3,Crumbl Cookies - Thornton,Specialty Food Retailer,Adams
+3,3,Springfield High School,School K-12,Baca
+4,6,Harvest Farm: May 2021,Other,Larimer
+5,2,JP Morgan Chase Bank - Arvada,Office/Indoor Workspace,Jefferson
+6,2,Routt County Sheriff's Office,Law Enforcement - Other,Routt
+7,4,Town of Hayden Public Works,Municipal/Local Government,Routt
+8,3,University Heights Rehab And Care Community (020447): May 2021,Healthcare - Skilled Nursing,Arapahoe
+9,2,Veterans Community Living Center at Homelake (021013): May 2021,Healthcare - Skilled Nursing,Colorado
+10,2,Boulder Country Day School,School K-12,Boulder
+11,7,Altair Strickland,Construction Company/Contractor,Adams
+12,2,Liberty Heights Memory Care Unit (020501),Healthcare - Memory Care,El Paso
+13,2,Sunrise at Pinehurst (23049U): May 2021,Healthcare - Assisted Living,Denver
+14,2,Dillon Valley Elementary: May 2021,School K-12,Summit
+15,2,Minnequa Medicenter (020675): May 2021,Healthcare - Memory Care,Pueblo
+16,7,Irish Elementary Escuela Bilingüe,School K-12,Larimer
+17,6,Pikes Peak Center (02B942): May 2021,Healthcare - Skilled Nursing,El Paso
+18,5,Sun Mountain Custom Doors,Materials Supplier,Weld
+19,4,Timnath Elementary School,School K-12,Larimer
+20,9,Montrose High School: May 2021,School K-12,Montrose
+21,9,Highline Academy Northeast: May 2021,School K-12,Denver
+22,3,Great Clips #2521,Personal Services,El Paso
+23,3,Ridgeview Post Acute (020404): May 2021,Healthcare - Skilled Nursing,Adams
+24,2,The Center at Foresight (02V727): May 2021,Healthcare - Skilled Nursing,Mesa
+25,7,Recovery Unlimited,Healthcare - Alcohol/Drug Abuse Treatment (outpatient),El Paso
+26,6,Bozarth Chevrolet and Buick INC,Other,Mesa
+27,4,Global Callcenter Solutions,Office/Indoor Workspace,Pueblo
+28,2,Bethesda Gardens Monument (23U756): May 2021,Healthcare - Assisted Living,El Paso
+29,2,Skyway Park Elementary School,School K-12,El Paso
+30,2,The Towers (23R904),Healthcare - Assisted Living,Yuma
+31,2,The Oaks Assisted Living (231133),Healthcare - Assisted Living,Mesa
+32,3,Boulder JCC Phillips Early Childhood Center,Child Care Center,Boulder
+33,2,Bear Creek Senior Living (23054G): May 2021,Healthcare - Combined Care,El Paso
+34,3,Greystar,Office/Indoor Workspace,Arapahoe
+35,5,Heritage Park Care Center (020845): May 2021,Healthcare - Skilled Nursing,Garfield
+36,8,Dutch Bro's Coffee- Aurora,Restaurant - Other,Arapahoe
+37,2,Ascent Studio,Indoor Entertainment/Rec,Larimer
+38,5,Mountain View Elementary School,School K-12,El Paso
+39,4,Willows Child Learning Center -  Willows/Olde-Mill,Child Care Center,Arapahoe
+40,3,The Ark Childcare,Child Care Center,Fremont
+41,4,International Academy of Denver at Harrington: April 2021,School K-12,Denver
+42,3,McAuliffe International School: May 2020,School K-12,Denver
+43,3,Resurrection Christian Elementary School,School K-12,Larimer
+44,2,Trinidad Inn Nursing Home (020796): May 2021,Healthcare - Skilled Nursing,Las Animas
+45,6,Brown International Academy,School K-12,Denver
+46,2,Aurora Expeditionary Learning Academy (AXL),School K-12,Arapahoe
+47,2,Prairie Hills Elementary School: May 2021,School K-12,El Paso
+48,3,UPS - Salida,Distribution Center/Business,Chaffee
+49,4,Skinner Middle School,School K-12,Denver
+50,11,St. Mary's High School,School K-12,El Paso
+51,5,Riverdale Ridge High School: April 2021,School K-12,Adams
+52,7,CAYA Fundraiser/Graduation,Indoor Entertainment/Rec,Routt
+53,3,Nightingale Suites (2304F8): May 2021,Healthcare - Assisted Living,Jefferson
+54,2,Montage Hills (0204T9): April 2021,Healthcare - Assisted Living,Arapahoe
+55,4,Casey's Pond Senior Living LTC (020803): April 2021,Healthcare - Skilled Nursing,Routt
+56,7,Fruita Monument High School: May 2021,School K-12,Mesa
+57,6,Grand Mesa Middle School: April 2021,School K-12,Mesa
+58,5,Pear Park Elementary School,School K-12,Mesa
+59,3,Next Energy Solar,Construction Company/Contractor,Larimer
+60,3,Empire Beauty School - Aurora,Trade School,Arapahoe
+61,4,Rocky Mountain Stone Designs,Materials Supplier,Arapahoe
+62,2,Discovery Canyon Campus (Elementary_ Middle_ High):  May 2021,School K-12,El Paso
+63,3,Louisville Middle School,School K-12,Boulder
+64,2,Gold Camp Elementary School,School K-12,El Paso
+65,3,South Park High School,School K-12,Park
+66,5,Red Robin Gourmet Burgers - Bear Creek Plaza,Restaurant - Sit Down,Jefferson
+67,3,Murphy Creek P-8 School,School K-12,Arapahoe
+68,3,Alicia Sanchez Elementary School,School K-12,Boulder
+69,2,Accent on Flowers,Retailer,Alamosa
+70,5,Walmart #869: May 2021,Retailer,Alamosa
+71,5,San Luis Valley Board of Cooperative Educational Services,School Administration,Alamosa
+72,3,Randi's Pizza,Restaurant - Sit Down,Jefferson
+73,4,Front Range Early Learning Center,Child Care Center,Adams
+74,3,Kalologie Medspa,Healthcare - Outpatient,Arapahoe
+75,3,Comfort Dental - Durango,Healthcare - Outpatient,La Plata
+76,3,Golden Bell Camp and Conference Center ,Overnight Camp,Teller
+77,8,Bradley International School,School K-12,Denver
+78,4,Faith Christian Academy K-8: May 2021,School K-12,Jefferson
+79,3,Schroeder Roofing,Construction Company/Contractor,Larimer
+80,2,Forest Lakes Metro District,Other,La Plata
+81,2,The Suites at Holly Creek Care Center (02D456): May 2021,Healthcare - Skilled Nursing,Arapahoe
+82,2,The Goddard School of Aurora: May 2021,Child Care Center,Arapahoe
+83,2,Grand Mountain Preschool ,Child Care Center,El Paso
+84,2,The Bridge at Alamosa (23Y773): May 2021,Healthcare - Combined Care,Alamosa
+85,2,Hallmark Nursing Center (020453): May 2021,Healthcare - Skilled Nursing,Denver
+86,2,Archuleta County Clerk and Recorder,Office/Indoor Workspace,Archuleta
+87,14,Advanced Health Care of Aurora (02D982): May 2021,Healthcare - Skilled Nursing,Arapahoe
+88,3,Jewell Elementary School,School K-12,Arapahoe
+89,7,Two Roads Charter School,School K-12,Jefferson
+90,4,The Retreat at Palisade (2311QG): May 2021,Healthcare - Assisted Living,Mesa
+91,2,Liberty Heights Assisted Living (230558),Healthcare - Assisted Living,El Paso
+92,3,Great Work Montessori School,School K-12,Jefferson
+93,3,Castlewood Community Preschool,Child Care Center,Douglas
+94,4,Palisade High School,School K-12,Mesa
+95,2,The Barth Hotel Assisted Living (230477): May 2021,Healthcare - Assisted Living,Denver
+96,5,Adolescent Social Gathering - Boulder: April 2021,Social Gathering,Boulder
+97,7,Falcon Bluffs Middle School : May 2021,School K-12,Jefferson
+98,3,Walgreens #12100,Retailer,Jefferson
+99,3,Penrose St Francis Health Services - Orthopedic Surgery Clinic,Healthcare - Outpatient,El Paso
+100,2,The Mountain Mail,Office/Indoor Workspace,Chaffee
+101,3,Little Caesars Pizza -  Alamosa,Restaurant - Fast Food,Alamosa
+102,2,Safeway #3729: May 2021,Grocery Store,Pueblo
+103,13,Denver Public Schools - Northeast Terminal,School Administration,Denver
+104,12,Heritage Christian Academy: May 2021,School K-12,Larimer
+105,6,Sunny Vista Living Center (020517): May 2021,Healthcare - Skilled Nursing,El Paso
+106,4,ChristLife Ministries,Religious Facility,Pueblo
+107,3,The Bridge at Colorado Springs (23052X): May 2021,Healthcare - Assisted Living,El Paso
+108,2,Snaptron,Non-Food Manufacturer/Warehouse,Weld
+109,2,Alpine Living Center (020410): May 2021,Healthcare - Skilled Nursing,Adams
+110,9,Most Precious Blood Catholic School,School K-12,Denver
+111,2,Health Center at Franklin Park (020439): May 2021,Healthcare - Skilled Nursing,Denver
+112,2,John H. Amesse Elementary School,School K-12,Denver
+113,3,Greenshade Schools Inc,Child Care Center,El Paso
+114,2,Creekside Elementary School,School K-12,Arapahoe
+115,8,Centennial School,School K-12,Costilla
+116,8,ActivStyle,Distribution Center/Business,Mesa
+117,3,Boulder County Jail: May 2021,Jail,Boulder
+118,3,Pueblo West High School,School K-12,Pueblo
+119,4,Rollins Barber Shop,Personal Services,Boulder
+120,4,Dog Baths and Beyond,Other,Larimer
+121,4,Melody Living of Colorado Springs (23P166): May 2021,Healthcare - Assisted Living,El Paso
+122,4,Wilder Elementary School,School K-12,Arapahoe
+123,8,QwikCareMD Urgent Care Center,Healthcare - Outpatient,Pueblo
+124,2,Juanito's Mexican Kitchen,Restaurant - Sit Down,Alamosa
+125,2,KR Swerdfeger Construction - New East High School Project,Construction Site,Pueblo
+126,6,Juniper Ridge Community School,School K-12,Mesa
+127,2,Boulder Shelter for the Homeless: May 2021,Homeless Shelter,Boulder
+128,2,Garden Square at Westlake (2303C0): May 2021,Healthcare - Assisted Living,Weld
+129,3,Sunrise at Flatirons (23R708): May 2021,Healthcare - Assisted Living,Broomfield
+130,2,Molly Maid,Home Maintenance Services,Larimer
+131,2,Uptown Health Care Center (020452): May 2021,Healthcare - Skilled Nursing,Denver
+132,3,Master Plumbing Solutions LLC,Construction Company/Contractor,Larimer
+133,2,Builders First Source - Cortez,Materials Supplier,Montezuma
+134,3,Margaret W. Carpenter Recreation Center,Indoor Entertainment/Rec,Adams
+135,13,Unity Pentecostal Temple,Religious Facility,Denver
+136,3,LivWell Enlightened Health Marijuana Dispensary - Garden City,Retailer,Weld
+137,3,Safeway #2246,Grocery Store,Denver
+138,4,Colten Mortgage,Office/Indoor Workspace,Arapahoe
+139,5,Helping Hand Tree Service,Home Maintenance Services,Boulder
+140,2,Woodrow Wilson Academy: May 2021,School K-12,Jefferson
+141,3,Davidson-Gebhardt Chevrolet: May 2021,Other,Larimer
+142,2,A-B Petroleum #23,Convenience/Corner Store,Jefferson
+143,4,American Academy - Lincoln Meadows: May 2021,School K-12,Douglas
+144,2,Community Development Institute Head Start- South Central Colorado,Child Care Center,Conejos
+145,13,Grand Junction High School: May 2021,School K-12,Mesa
+146,2,Home Daycare Center #7: Colorado Springs,Child Care Center,El Paso
+147,14,Windsor Charter Academy Elementary School,School K-12,Weld
+148,3,Place Bridge Academy,School K-12,Denver
+149,2,Ave Maria Catholic School,School K-12,Douglas
+150,11,Costco Wholesale #439: May 2021,Retailer,Arapahoe
+151,8,The Rock Church,Religious Facility,Mesa
+152,6,The Goddard School of Fort Collins,Child Care Center,Larimer
+153,4,Rubi Slipper,Restaurant - Sit Down,Alamosa
+154,9,Canon Lodge Care Center (020676): May 2021,Healthcare - Skilled Nursing,Fremont
+155,5,The Commons of Hilltop (23T695): May 2021,Healthcare - Assisted Living,Mesa
+156,5,Burke Cleaners,Retailer,Larimer
+157,5,Lifetime Windows and Siding,Materials Supplier,Denver
+158,3,Montage Heights (23H133): April 2021,Healthcare - Assisted Living,Arapahoe
+159,5,Little People's Landing Learning Centers - Louisville,Child Care Center,Boulder
+160,16,Alamosa High School,School K-12,Alamosa
+161,7,Jacob Academy - Jewell Ave,Child Care Center,Jefferson
+162,7,Front Range Christian High School: April 2021,School K-12,Jefferson
+163,10,Progressive Agriculture Management,Farm/Dairy,Yuma
+164,2,Bonaventure of Pueblo (23Y771): April 2021,Healthcare - Assisted Living,Pueblo
+165,3,Center at Cordera (02U322): May 2021,Healthcare - Skilled Nursing,El Paso
+166,11,Pagosa Springs High School,School K-12,Archuleta
+167,5,Lighting_ Accessory & Warning Systems,Retailer,Arapahoe
+168,6,Weld County Garage Buick GMC,Other,Weld
+169,3,Colorado State Patrol - Alamosa,Law Enforcement - Other,Alamosa
+170,5,Three Creeks K-8,School K-12,Jefferson
+171,5,Colorado School of Mines - Softball Team,College/University,Jefferson
+172,2,World Compass Academy: May 2021,School K-12,Douglas
+173,9,Fruita 8/9 School,School K-12,Mesa
+174,2,Bonaventure of Pueblo Independent Living,Healthcare - Independent Living Facility,Pueblo
+175,4,Huerfano County Sheriff's Office,Law Enforcement - Other,Huerfano
+176,4,Home Daycare #1 - Adams,Child Care Center,Adams
+177,7,East Middle School: May 2021,School K-12,Mesa
+178,4,First Bank - Wheatridge,Office/Indoor Workspace,Jefferson
+179,7,City Park Church,Religious Facility,Larimer
+180,4,The Center at Lincoln (02S302): April 2021,Healthcare - Skilled Nursing,Douglas
+181,4,McGlone Academy: April 2021,School K-12,Denver
+182,8,Shelly True Dance Academy,Youth Sports/Activities,Jefferson
+183,2,Platte River Academy: May 2021,School K-12,Douglas
+184,2,Cottonwood Rehab and Extended Care (02E994) May 2021,Healthcare - Skilled Nursing,La Plata
+185,2,Spradley Barr Ford,Other,Larimer
+186,10,Lincoln Middle School,School K-12,Larimer
+187,5,Miller Middle School: May 2021,School K-12,La Plata
+188,9,Step Denver,Healthcare - Alcohol/Drug Abuse Treatment (inpatient),Denver
+189,4,Jacob Academy - Flower St,Child Care Center,Jefferson
+190,2,Vacasa - Silverthorne,Other,Summit
+191,4,Denver Health - Patient Access Office,Healthcare - Acute Care Hospital,Denver
+192,6,Merritt Aluminum Products,Non-Food Manufacturer/Warehouse,Weld
+193,3,Blessings Senior Services (23J598): April 2021,Healthcare - Assisted Living,Adams
+194,5,Cache La Poudre Middle School: April 2021,School K-12,Larimer
+195,6,Sedgwick County Memorial Nursing Home (020199): May 2021,Healthcare - Skilled Nursing,Sedgwick
+196,4,Gentle Care House (2305HN),Healthcare - Assisted Living,El Paso
+197,7,Italco Food Products: April 2021,Food Manufacturing/Packaging,Denver
+198,6,Point of the Pines Gardens Assisted Living (23B948): May 2021,Healthcare - Assisted Living,El Paso
+199,7,KinderCare Learning Center - Mesa,Child Care Center,El Paso
+200,5,Southeast Colorado Hospital Long Term Care Facility: April 2021,Healthcare - Skilled Nursing,Baca
+201,6,Life Quality Homes III- Woodburn Home (2305U1),Healthcare - Assisted Living,El Paso
+202,9,Merritt Trailers,Non-Food Manufacturer/Warehouse,Adams
+203,7,The Medical Center of Aurora-Behavioral Health & Wellness,Healthcare - Psychiatric Hospital,Arapahoe
+204,4,In Harmony Walker House,Healthcare - Group Home,Pueblo
+205,8,Highlands Ranch Learning Center,Child Care Center,Douglas
+206,6,Royal Gorge Route Railroad: April 2021,Outdoor Entertainment/Rec,Fremont
+207,16,Youthful Offender Systems: May 2021,State Prison,Colorado
+208,3,Blue Skies Exploration Academy,Child Care Center,El Paso
+209,3,Town & Country Auto Mall - Chrysler Building,Other,Alamosa
+210,3,Northglenn Heights Assisted Living Community (230430): April 2021,Healthcare - Assisted Living,Adams
+211,24,Cimarron Middle School,School K-12,Douglas
+212,3,Stephens House/Blue Peaks Developmental Services: May 2021,Healthcare - Group Home,Alamosa
+213,3,Suncor Energy- BRM4,Office/Indoor Workspace,Adams
+214,3,Orchard Park Health Care Center (020468): April 2021,Healthcare - Skilled Nursing,Arapahoe
+215,2,Bee Hive Homes of Grand Junction (23D504),Healthcare - Assisted Living,Mesa
+216,2,Kennedy's Lucky 27 Barbershop & Social Club,Personal Services,Larimer
+217,3,Muller Technology,Non-Food Manufacturer/Warehouse,Larimer
+218,2,Wahoo's Fish Tacos,Restaurant - Sit Down,Boulder
+219,4,Subway - Spine Rd,Restaurant - Fast Food,Boulder
+220,3,Heidi's Chateau (2311S4): April 2021,Healthcare - Assisted Living,Montrose
+221,4,Starbucks - Firestone,Restaurant - Other,Weld
+222,3,Northern Colorado Auto Reconditioning,Other,Weld
+223,2,Pearl Street Health and Rehab (020431): April 2021,Healthcare - Skilled Nursing,Arapahoe
+224,8,Nature's Herbs & Wellness Center: April 2021,Retailer,Weld
+225,3,My Second Home,Child Care Center,Boulder
+226,3,The Pavilion At Villa Pueblo (020640),Healthcare - Skilled Nursing,Pueblo
+227,4,Hinkley High School: May 2021,School K-12,Arapahoe
+228,2,Elevated Dermatology,Healthcare - Outpatient,Douglas
+229,7,STEM School Highlands Ranch,School K-12,Douglas
+230,5,Aventa Credit Union,Office/Indoor Workspace,El Paso
+231,2,East Side Child Care Center: May 2021,Child Care Center,Pueblo
+232,15,Fedex Ground - Pueblo,Distribution Center/Business,Pueblo
+233,2,Compass Community Collaborative School,School K-12,Larimer
+234,2,Aurora Hills Middle School,School K-12,Arapahoe
+235,9,Palmer Lake Elementary School: April 2021,School K-12,El Paso
+236,17,Pueblo Rescue Mission: April 2021,Homeless Shelter,Pueblo
+237,5,Mike Maroone Chevrolet North,Other,El Paso
+238,8,D'Evelyn Jr/Sr High School: May 2021,School K-12,Jefferson
+239,3,Life Care Center of Stonegate (02C450): April 2021,Healthcare - Skilled Nursing,Douglas
+240,5,FedEx Ship Center,Distribution Center/Business,Boulder
+241,2,Fire Department Complex,Other,El Paso
+242,6,Unique Woodworking,Non-Food Manufacturer/Warehouse,Denver
+243,6,Collegiate Academy of Colorado: April 2021,School K-12,Jefferson
+244,2,Bookcliff Manor Assisted Living (231118),Healthcare - Assisted Living,Mesa
+245,7,Keystone Place at Legacy Ridge (23H523): May 2021,Healthcare - Assisted Living,Adams
+246,2,Columbine West Health & Rehab Facility (020335): May 2021,Healthcare - Skilled Nursing,Larimer
+247,3,The Center at Northridge (02I148): April 2021,Healthcare - Combined Care,Adams
+248,2,YMCA of the Rockies - Estes Park,Hotel/Lodge/Resort,Larimer
+249,4,Nature's Medicine,Retailer,Chaffee
+250,12,Forest Ridge Senior Living (02D453): May 2021,Healthcare - Skilled Nursing,Teller
+251,4,Crossroads Hyundai,Other,Larimer
+252,4,Alternatives to Violence,Other,Larimer
+253,4,STRIVE Prep - Federal,School K-12,Denver
+254,4,Cutting Edge Steel_ Inc. ,Materials Supplier,Weld
+255,3,BoCo Volleyball Club,Youth Sports/Activities,Boulder
+256,3,Mandalay Middle School: April 2021,School K-12,Jefferson
+257,5,Aviva at Fitzsimons (02S294): April 2021,Healthcare - Skilled Nursing,Adams
+258,5,West Jefferson Elementary School,School K-12,Jefferson
+259,8,Harmony Pointe Nursing Center (020425): April 2021,Healthcare - Skilled Nursing,Jefferson
+260,4,AeroCare Holdings_ Inc.- Silt,Healthcare - Outpatient,Garfield
+261,3,Everitt Middle School,School K-12,Jefferson
+262,2,Montezuma County Recorder,Municipal/Local Government,Montezuma
+263,5,The Academy of Charter Schools,School K-12,Adams
+264,7,William (Bill) Roberts ECE-8 School,School K-12,Denver
+265,7,Family of Christ Child Development Center,Child Care Center,El Paso
+266,2,Kyffin Elementary: April 2021,School K-12,Jefferson
+267,3,Adams City High School,School K-12,Adams
+268,4,Anthony's Pizza and Pasta,Restaurant - Sit Down,Boulder
+269,3,Berthoud Living Center (020388): May 2021,Healthcare - Skilled Nursing,Larimer
+270,3,Centura Health Physician Group (CHPG) Primary Care Broadmoor,Healthcare - Outpatient,El Paso
+271,6,Cripple Creek Care Center (020581),Healthcare - Skilled Nursing,Teller
+272,2,JMP Heat Inc: April 2021,Construction Company/Contractor,Larimer
+273,8,Terrace Gardens Healthcare Center (020561): April 2021,Healthcare - Skilled Nursing,El Paso
+274,2,Vista Grande Inn (021213): April 2021,Healthcare - Skilled Nursing,Montezuma
+275,2,Greeley Police Department- Investigations,Law Enforcement - Other,Weld
+276,13,Shalom Park (0204NU): April 2021,Healthcare - Skilled Nursing,Arapahoe
+277,13,Pagosa Springs Elementary School: April 2021,School K-12,Archuleta
+278,8,Primrose School of Westwoods,Child Care Center,Jackson
+279,18,Fruita Middle School,School K-12,Mesa
+280,2,Flat Irons Dance Studio,Youth Sports/Activities,Jefferson
+281,2,Teriyaki Madness,Restaurant - Fast Food,Larimer
+282,2,Water Pik_ Inc.,Non-Food Manufacturer/Warehouse,Larimer
+283,13,Hope Montessori Academy- Thornton,Child Care Center,Adams
+284,5,Bishop Machebeuf Catholic High School: April 2021,School K-12,Denver
+285,8,Rocky Ford Junior/Senior High School,School K-12,Otero
+286,2,Accel at Longmont (02V342): May 2021,Healthcare - Assisted Living,Boulder
+287,6,Briarwood Health Care Center (020470): April 2021,Healthcare - Skilled Nursing,Denver
+288,6,William J. Palmer High School: May 2021,School K-12,El Paso
+289,3,Colorado Boring Company,Construction Company/Contractor,Larimer
+290,5,Liberty High School: April 2021,School K-12,El Paso
+291,5,Lyons Middle/Senior High School ,School K-12,Boulder
+292,2,Gregory Electric Inc.,Construction Site,Larimer
+293,17,Las Animas High School,School K-12,Bent
+294,2,Golden Peaks Center (020367): May 2021,Healthcare - Skilled Nursing,Larimer
+295,3,The Green Solution,Retailer,Larimer
+296,6,Our Village Children's Academy,Child Care Center,Douglas
+297,10,Pilatus Business Aircraft Ltd,Non-Food Manufacturer/Warehouse,Jefferson
+298,5,The Learning Experience - Arvada West,Child Care Center,Jefferson
+299,3,The Goddard School- Thornton,Child Care Center,Adams
+300,4,Parker Senior Living by MorningStar (23X291): April 2021,Healthcare - Assisted Living,Douglas
+301,11,CEMEX- CEM Lyons Plant,Materials Supplier,Boulder
+302,10,Pueblo County High School,School K-12,Pueblo
+303,3,Harbinger Coffee,Restaurant - Other,Larimer
+304,10,Cracker Barrel,Restaurant - Sit Down,Pueblo
+305,3,Vanworks Inc,Retailer,Larimer
+306,7,Columbia Elementary School,School K-12,El Paso
+307,2,MorningStar Assisted Living & Memory Care of Boulder (23F542) : May 2021,Healthcare - Assisted Living,Boulder
+308,7,Colorado School for the Deaf and the Blind: April 2021,School K-12,El Paso
+309,5,Cadence Academy- Smoky Hill,Child Care Center,Arapahoe
+310,7,Saguache County Government Administrative and Land Use Building,Other,Saguache
+311,7,Almost Like Home (23Y383): April 2021,Healthcare - Assisted Living,Jefferson
+312,5,Monarch Montessori of Denver: April 2021,Child Care Center,Denver
+313,7,5280 High School: April 2021,School K-12,Denver
+314,9,Swink Junior-Senior High School: April 2021,School K-12,Otero
+315,3,Columbian Elementary School,School K-12,Denver
+316,5,Urban Peak: April 2021,Homeless Shelter,Denver
+317,4,Black Bear CSI,Construction Company/Contractor,Denver
+318,4,The Goddard School- Erie,Child Care Center,Weld
+319,7,Crowley County Elementary School,School K-12,Crowley
+320,5,Rowley's Auto Collision Experts Inc.,Other,Larimer
+321,4,Aspen View Academy: April 2021,School K-12,Douglas
+322,6,Riverdale Rehab and Care Community (020312): April 2021,Healthcare - Skilled Nursing,Adams
+323,6,United States Postal Service (E 53rd Pl Denver),Distribution Center/Business,Colorado
+324,7,Canon City Middle School,School K-12,Fremont
+325,19,New Summit Charter Academy,School K-12,El Paso
+326,5,Continuing Care at Wind Crest (23A843): April 2021,Healthcare - Combined Care,Douglas
+327,19,Ridgeview Classical Charter School: April 2021,School K-12,Larimer
+328,8,Airgas,Materials Supplier,Pueblo
+329,3,Blanca Town Hall,Other,Costilla
+330,8,Swigert International School,School K-12,Denver
+331,9,The Healthcare Resort of Colorado Springs (02U718): April 2021,Healthcare - Combined Care,El Paso
+332,4,The Center at Center Place (02Z779): April 2021,Healthcare - Skilled Nursing,Weld
+333,3,Balfour Retirement Community (02033Y): April 2021,Healthcare - Combined Care,Boulder
+334,3,Crowley County High School,School K-12,Crowley
+335,8,New Dawn Memory Care - Colorado Springs (23Q274): April 2021,Healthcare - Memory Care,El Paso
+336,4,Montezuma County Sheriff's Office,Law Enforcement - Other,Montezuma
+337,18,Colorado Territorial Correctional Facility: April 2021,State Prison,Colorado
+338,30,Canon City High School: April 2021,School K-12,Fremont
+339,2,Colorado Department of Personnel & Administration North Campus: May 2021,Office/Indoor Workspace,Colorado
+340,2,The University School: May 2021,School K-12,El Paso
+341,13,Sierra Rehabilitation and Care Community (020423): May 2021,Healthcare - Skilled Nursing,Jefferson
+342,2,Sproul Junior High School: April 2021,School K-12,El Paso
+343,2,Center at Rock Creek LLC (02S685): April 2021,Healthcare - Skilled Nursing,Larimer
+344,4,Elms Haven Center (020474): April 2021,Healthcare - Skilled Nursing,Adams
+345,5,Cribs 2 Crayons,Child Care Center,Arapahoe
+346,6,Loveland Classical School - Academy Campus,School K-12,Larimer
+347,10,Bright Horizons- Loveland,Child Care Center,Larimer
+348,3,DSST: Green Valley Ranch High School: April 2021,School K-12,Denver

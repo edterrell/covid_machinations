@@ -1,0 +1,7 @@
+.DS_Store
+temp.xlsx
+Untitled.ipynb
+Untitled1.ipynb
+*checkpoints*
+__pycache__/
+

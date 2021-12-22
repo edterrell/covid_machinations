@@ -1,0 +1,105 @@
+,total,name,type,county
+0,8,George Washington High School ,School K-12,Denver
+1,6,Colorado Springs Transit Management Company_ Inc.: November 2021,Municipal/Local Government,El Paso
+2,14,LONG Building Technologies,Construction Company/Contractor,Arapahoe
+3,8,Würth Timberline Fasteners Corporate Office: November 2021,Office/Indoor Workspace,Adams
+4,6,Holiday Inn Hotel and Suites - Durango,Hotel/Lodge/Resort,La Plata
+5,2,Brookdale Greenwood Village (0204W6): December 2021,Healthcare - Skilled Nursing,Arapahoe
+6,3,Julia Temple Healthcare Center (020418): December 2021,Healthcare - Skilled Nursing,Arapahoe
+7,6,Broadview Animal Clinic,Other,Arapahoe
+8,2,Centre Avenue Health and Rehab (02R209): December 2021,Healthcare - Skilled Nursing,Larimer
+9,31,Breakthru Beverage,Food Distribution,Denver
+10,37,Peakview Assisted Living and Memory Care (23F490): November 2021	,Healthcare - Assisted Living,Arapahoe
+11,5,Brookdale Greenwood Village Assisted Living (2304MV): December 2021,Healthcare - Assisted Living,Arapahoe
+12,17,Bookcliff Middle School,School K-12,Mesa
+13,2,Washington County Nursing Home (020162): December 2021,Healthcare - Skilled Nursing,Washington
+14,2,Mantey Heights Rehabilitation and Care Center (021149): December 2021,Healthcare - Skilled Nursing,Mesa
+15,6,Lightway at Sloans,Child Care Center,Jefferson
+16,13,Sierra Elementary School,School K-12,Jefferson
+17,2,Manorcare Health Services - Denver (020476): November 2021,Healthcare - Skilled Nursing,Denver
+18,9,Costco Wholesale #1178: December 2021,Retailer,Larimer
+19,6,A Plus Learning Center,Child Care Center,Arapahoe
+20,4,Uptown Health Care Center (020452): November 2021,Healthcare - Skilled Nursing,Denver
+21,3,Crestmoor Health and Rehabilitation Center (020497): December 2021,Healthcare - Skilled Nursing,Denver
+22,6,Wheat Ridge High School: October 2021,School K-12,Jefferson
+23,17,Fairmount Elementary School: November 2021,School K-12,Jefferson
+24,11,Linden Early Learning Center,Child Care Center,Denver
+25,17,Arvada High School,School K-12,Jefferson
+26,10,Denver East High School: December 2021,School K-12,Denver
+27,6,Cherry Creek Nursing Center (020408): December 2021,Healthcare - Skilled Nursing,Arapahoe
+28,2,Rocky Mountain Assisted Living - Euclid (23O244),Healthcare - Assisted Living,Arapahoe
+29,5,Once Upon a Childcare - Vickers,Child Care Center,El Paso
+30,7,North High School: December 2021,School K-12,Denver
+31,8,Brookdale Broadmoor (2305CK): December 2021,Healthcare - Assisted Living,El Paso
+32,2,Aspens at Fort Collins (23G501): November 2021,Healthcare - Assisted Living,Larimer
+33,10,Centennial Parks Hospital ,Healthcare - Psychiatric Hospital,Boulder
+34,2,Devonshire Acres Skilled Nursing (020193): December 2021,Healthcare - Skilled Nursing,Logan
+35,6,Merryhill Preschool - Aurora: December 2021,Child Care Center,Arapahoe
+36,17,The Center at Lincoln (02S302): December 2021,Healthcare - Skilled Nursing,Douglas
+37,5,Advanced Regenerative Health,Healthcare - Outpatient,Arapahoe
+38,5,Marycrest Assisted Living (2304ST): December 2021,Healthcare - Assisted Living,Denver
+39,3,Evergreen Gardens at La Junta (23028D): November 2021,Healthcare - Assisted Living,Otero
+40,3,Colonial Health and Rehabilitation Center (020564): December 2021,Healthcare - Skilled Nursing,El Paso
+41,3,Sterling Health and Rehabilitation Center (020165): November 2021,Healthcare - Skilled Nursing,Logan
+42,7,John F Kennedy High School: December 2021,School K-12,Denver
+43,14,Delta High School: November 2021,School K-12,Delta
+44,3,Cripple Creek Care Center (020581): November 2021,Healthcare - Skilled Nursing,Teller
+45,6,Montview Math & Health Sciences Elementary School: December 2021,School K-12,Adams
+46,19,Garnet Mesa Elementary School: October 2021,School K-12,Delta
+47,6,Chateau at Sharmar Village (2306N1): November 2021,Healthcare - Assisted Living,Pueblo
+48,2,Pelican Pointe Health & Rehabilitation Center (020332): December 2021,Healthcare - Skilled Nursing,Weld
+49,12,Pueblo Community College,College/University,Pueblo
+50,5,The Goddard School of Lakewood,Child Care Center,Jefferson
+51,2,Balfour Longmont (23L108): December 2021,Healthcare - Assisted Living,Boulder
+52,5,The Green Solution,Office/Indoor Workspace,Denver
+53,12,Beulah School of Natural Sciences,School K-12,Pueblo
+54,12,JeffCom 911,Municipal/Local Government,Jefferson
+55,6,Safeway #2246: November 2021,Grocery Store,Denver
+56,4,Riverdale Rehab and Care Community (020312): November 2021,Healthcare - Skilled Nursing,Adams
+57,2,Winslow Court Retirement Community (230512): December 2021,Healthcare - Assisted Living,El Paso
+58,4,Rosemark at Mayfair Park (23E998): November 2021,Healthcare - Assisted Living,Denver
+59,15,Walmart #966: November 2021,Retailer,Montezuma
+60,8,The Center at Northridge (02I148): November 2021,Healthcare - Skilled Nursing,Adams
+61,3,Altavita Memory Care Center (23H130): December 2021,Healthcare - Skilled Nursing,Boulder
+62,10,Brookdale Fort Collins Memory Care (2303C1): December 2021,Healthcare - Memory Care,Larimer
+63,13,Lighthouse- Sober Living House For Men ,Healthcare - Alcohol/Drug Abuse Treatment (inpatient),Larimer
+64,6,Shane Co - Westminster,Retailer,Jefferson
+65,11,Pacific Premier Bank,Office/Indoor Workspace,Denver
+66,6,The Buffalo Rose: November 2021,Indoor Entertainment/Rec,Jefferson
+67,5,Erico Motorsports,Other,Denver
+68,10,Johnson Elementary School - Montrose,School K-12,Montrose
+69,11,Northfield High School: December 2021,School K-12,Denver
+70,2,Manor Health Services - Boulder (020315): November 2021,Healthcare - Skilled Nursing,Boulder
+71,10,Mile Hi Children's Enrichment Center,Child Care Center,Jefferson
+72,19,48th Avenue - Catholic Charities Women's Shelter,Homeless Shelter,Denver
+73,12,Columbine Middle School,School K-12,Montrose
+74,36,Centennial Middle School,School K-12,Montrose
+75,6,Cottonwood Elementary School,School K-12,Montrose
+76,26,Las Animas Elementary School,School K-12,Bent
+77,2,Belleview Suites at DTC (2304VK): November 2021,Healthcare - Assisted Living,Denver
+78,2,Grace Pointe Continuing Care Senior Campus - Skilled Nursing (02D975): November 2021,Healthcare - Skilled Nursing,Weld
+79,5,SonShine Daycare and Preschool,Child Care Center,Boulder
+80,2,Linden Place Health and Rehabilitation Center (020375): November 2021,Healthcare - Skilled Nursing,Boulder
+81,23,Escalante Middle School ,School K-12,La Plata
+82,8,Little Sisters of the Poor- Mullen Home (020442): November 2021,Healthcare - Skilled Nursing,Denver
+83,16,Durango High School: November 2021,School K-12,La Plata
+84,33,Liberty Point Elementary School,School K-12,Pueblo
+85,10,Horizon Middle School: November 2021,School K-12,El Paso
+86,3,Garden Terrace Alzheimer's Center Of Excellence (020469): November 2021,Healthcare - Skilled Nursing,Arapahoe
+87,12,Bonaventure of Thornton (23O534): November 2021,Healthcare - Combined Care,Adams
+88,7,Primrose School of Longmont: November 2021,Child Care Center,Boulder
+89,23,Fremont County Detention Center: November 2021,Jail,Fremont
+90,8,Purple Moon Early Learning Center,Child Care Center,Adams
+91,14,Jewish Community Center Early Learning School: November 2021,Child Care Center,Denver
+92,6,La Villa Grande (021161): November 2021,Healthcare - Assisted Living,Mesa
+93,6,Bright Beginnings Learning Center: December 2021,Child Care Center,Arapahoe
+94,7,Sloan's Lake Rehabilitation Center (02Q649): November 2021,Healthcare - Skilled Nursing,Denver
+95,7,The Center at Lowry (02G500): November 2021,Healthcare - Skilled Nursing,Denver
+96,4,Frasier Meadows Health Care Center (020301),Healthcare - Skilled Nursing,Boulder
+97,5,Heritage High School: November 2021,School K-12,Arapahoe
+98,13,Advantage Treatment Center- Sterling: November 2021,"Correctional, Other",Logan
+99,4,Rehabilitation and Nursing Center of the Rockies (020325): November 2021,Healthcare - Skilled Nursing,Larimer
+100,3,Holly Heights Care Center (020412): November 2021,Healthcare - Skilled Nursing,Denver
+101,3,North Star Rehabilitation and Care Community (020413): November 2021,Healthcare - Skilled Nursing,Denver
+102,2,Hillcrest of Loveland (23E476): November 2021,Healthcare - Assisted Living,Larimer
+103,17,Montrose County Vaccine Clinic,Healthcare - Outpatient,Montrose
