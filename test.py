@@ -41,8 +41,10 @@ def date_maker ():
 	return start, stop
 
 def main ():
-	date_maker()
+	start,stop = date_maker()
 
 
 if __name__ == "__main__":
 	main()
+print (start)
+print (stop)
