@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-""" This program/module takes as input dates as strings and coverts them to
-datetime objects which it returns"""
+""" This program/module takes as input dates and returns datetime
+objects. Default start/stop is 2021-10-01 to 2021-10-31.
+For custom stop date, default is today """
 
 import pandas as pd
 import sys
@@ -13,7 +14,7 @@ def date_maker ():
 
 	while True:
 		try:
-			start = input()
+			start = input() or "2021-10"
 			start = pd.to_datetime(start)
 			break
 		except:
@@ -26,10 +27,11 @@ def date_maker ():
 	custom = input ('Select custom STOP date? (y/n)  ' )
 
 	if custom == 'y':
+		# User is given 5 attempts
 		for n in range (5):
 			n = n+1
 			try:
-				stop = input('Enter a STOP date  ')
+				stop = input('Enter a STOP date  ') or pd.to_datetime("today")
 				stop = pd.to_datetime(stop)
 				break
 			except:
