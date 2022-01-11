@@ -17,3 +17,6 @@ error_repair.ipynb
 test.py
 test.csv
 add_population.ipynb
+population_by_country_2020.csv
+covid_data/*.png
+
