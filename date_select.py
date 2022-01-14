@@ -8,6 +8,8 @@ For custom stop date, default is today """
 import pandas as pd
 import sys
 from pandas.tseries.offsets import MonthEnd
+import datetime as dt
+
 
 def date_maker ():
 	print (' Select START date' )
@@ -21,7 +23,7 @@ def date_maker ():
 			print('Not a date. Enter a START date')
 
 	#stop = start + MonthEnd(1)
-	stop = today
+	stop = dt.date.today()
 	print(f'START:\t {start}')
 	print(f'STOP:\t {stop}')
 
