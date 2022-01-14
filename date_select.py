@@ -20,7 +20,8 @@ def date_maker ():
 		except:
 			print('Not a date. Enter a START date')
 
-	stop = start + MonthEnd(1)
+	#stop = start + MonthEnd(1)
+	stop = today
 	print(f'START:\t {start}')
 	print(f'STOP:\t {stop}')
 
