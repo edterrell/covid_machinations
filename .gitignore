@@ -19,4 +19,5 @@ test.csv
 add_populations.ipynb
 population_by_country_2020.csv
 covid_data/*.png
-
+covid_data/*.xlsx
+covid_data/*.csv
