@@ -123,7 +123,7 @@ c_start = pd.Timestamp('2020/2/16')
 # set end date to yesterday
 #day == pd.Timestamp.today().strftime('%Y-%m-%d')
 end = pd.Timestamp.today() - pd.Timedelta(days=1)
-print(f'End date is set to yesterday: {end}')
+print(f"End date is set to yesterday: {end.strftime('%Y-%m-%d')}")
 
 # set the index to the appropriate date range for states and countries
 st_index = pd.date_range(st_start, end)
@@ -181,16 +181,16 @@ for key, value in state_dict.items():
     state[value] = state[value].fillna(0).apply(clean_up)
 
     time.sleep(2)
-print(state.sort_index(ascending = True).head())
+#print(state.sort_index(ascending = True).head())
 print()
 
 # Create df of new_cases/million population
 cols = state.columns.to_list()
-print(cols)
+#print(cols)
 
 # Extract just the poopulations for the states of interest
 pop_series = all_state_pop.loc[cols].pop_millions
-print (pop_series)
+print (f'Population of selected states in millions is {pop_series}')
 
 state_cases_by_million = (state/pop_series).round()
 print (state_cases_by_million.tail(7))
@@ -277,7 +277,7 @@ plt.savefig(f'./covid_data_update/us_{snames}_last_90_days_{day}.png')
 
 # ### Custom country dictionaries
 # creates a custom country dict
-
+print()
 c_string = input('Enter country codes seperated by a space:') or 'fr it es'
 clist = scd.custom_list (c_string)
 country_dict = {key: value for key, value in scd.all_countries.items() if value in clist}
@@ -485,54 +485,42 @@ for item in slist:
         new_slist.append(item)
 print (new_slist)
 
-df = world.loc[start:stop, new_slist]
-title ='Custom rolling averges'
-print (df.tail(14))
-print()
+if new_slist:
+    df = world.loc[start:stop, new_slist]
+    title ='Custom rolling averges'
+    print (df.tail(14))
+    print()
+else:
+    print('custom codes not available')
 
-df1 = total_by_million.loc[start:stop, new_slist]
-title1 ='Custom rolling averges by million'
-print (df1.tail(14))
-print()
+if new_slist:
+    df1 = total_by_million.loc[start:stop, new_slist]
+    title1 ='Custom rolling averges by million'
+    print (df1.tail(14))
+    print()
+else:
+    print('custom codes not available')
 
 # Plot custom moving averge (default: 7 days)
-plt.close('all')
-fig,ax = plt.subplots(1,1,figsize=(18,8))
-roll_data_all = df.rolling(window=7).mean()
-roll_data_all.plot(ax=ax, linewidth=3)
-plt.title(title,fontsize=20)
-plt.show()
+if new_slist:
+    plt.close('all')
+    fig,ax = plt.subplots(1,1,figsize=(18,8))
+    roll_data_all = df.rolling(window=7).mean()
+    roll_data_all.plot(ax=ax, linewidth=3)
+    plt.title(title,fontsize=20)
+    plt.show()
 #plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 # Plot custom moving averge (default: 7 days) per million population
-fig,ax = plt.subplots(1,1,figsize=(18,8))
-roll_data_all = df1.rolling(window=7).mean()
-roll_data_all.plot(ax=ax, linewidth=3)
-plt.title(title1,fontsize=20)
-plt.show()
+    fig,ax = plt.subplots(1,1,figsize=(18,8))
+    roll_data_all = df1.rolling(window=7).mean()
+    roll_data_all.plot(ax=ax, linewidth=3)
+    plt.title(title1,fontsize=20)
+    plt.show()
 #plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 # ### Displays all updated graphs files
 #!ls covid_data_update
-
-'''
-commented out this cell - redundancy of displaying plots twice
-
-!ls covid_data_update/*.png > flist_of_covid_png
-
-# Loop through the file flist and store filenames in png_list
-with open('flist_of_covid_png') as f:
-    png_str = f.read()
-png_list = png_str.split('\n')[0:-1]
-
-png_list
-
-from IPython.display import Image
-
-for file in png_list:
-    local = Image(file)
-    local
-'''
 
 
 # ### tabla rasa
