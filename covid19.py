@@ -181,7 +181,7 @@ for key, value in state_dict.items():
     state[value] = state[value].fillna(0).apply(clean_up)
 
     time.sleep(2)
-print(state.sort_index(ascending = False).head())
+print(state.sort_index(ascending = True).head())
 print()
 
 # Create df of new_cases/million population
@@ -258,7 +258,7 @@ plt.show()
 plt.savefig(f'./covid_data_update/us_{snames}_last_60_days_{day}.png');
 '''
 # Plot last 90 days
-# plt.close('all')
+plt.close('all')
 # Select last 90 days only
 state_last90 = state.tail(90)
 
@@ -277,6 +277,7 @@ plt.savefig(f'./covid_data_update/us_{snames}_last_90_days_{day}.png')
 
 # ### Custom country dictionaries
 # creates a custom country dict
+
 c_string = input('Enter country codes seperated by a space:') or 'fr it es'
 clist = scd.custom_list (c_string)
 country_dict = {key: value for key, value in scd.all_countries.items() if value in clist}
@@ -395,7 +396,7 @@ plt.show()
 plt.savefig(f'./covid_data_update/world_{day}.png')
 
 # Plot 7-day moving averge
-#plt.close('all')
+plt.close('all')
 fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = country.rolling(window=7).mean()
 roll_data_all.plot(ax=ax, linewidth=3);
@@ -420,6 +421,9 @@ plt.savefig(f'./covid_data_update/world_{snames}_last_60_days_{day}.png')
 # Select last 90 days only
 country_last90 = country.tail(90)
 
+print('stopping point for first blank plot')
+
+plt.close('all')
 roll_data = country_last90.loc[:,[select_country]].rolling(window=7).mean()
 fig,ax = plt.subplots(1,1,figsize=(16,8))
 roll_data.plot(ax=ax, linewidth=3, color='r')
@@ -492,7 +496,7 @@ print (df1.tail(14))
 print()
 
 # Plot custom moving averge (default: 7 days)
-#plt.close('all')
+plt.close('all')
 fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = df.rolling(window=7).mean()
 roll_data_all.plot(ax=ax, linewidth=3)
