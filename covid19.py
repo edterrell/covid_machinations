@@ -10,7 +10,7 @@ import time
 
 # we want to ensure we are in the correct conda environment
 import sys
-sys.executable
+print(sys.executable)
 
 # provides ability to reload modules (wihtout leaving jupyter) if changes are made
 #import importlib
@@ -18,11 +18,7 @@ sys.executable
 
 import numpy as np
 import pandas as pd
-
-#from IPython.core.interactiveshell import InteractiveShell
-#InteractiveShell.ast_node_interactivity = "all"
 import matplotlib.pyplot as plt
-
 import requests
 from bs4 import BeautifulSoup as bs
 # import regular expressions
@@ -244,19 +240,7 @@ plt.title('US-Seven-day rolling averges',fontsize=20)
 plt.show()
 plt.savefig(f'./covid_data_update/us_rolling_avg_{day}.png');
 
-'''# Plot Last 60 Days
-plt.close('all')
-# Select last 60 days only
-state_last60 = state.tail(60)
 
-roll_data = state_last60.loc[:,[select_state]].rolling(window=7).mean()
-fig,ax = plt.subplots(1,1,figsize=(16,8))
-roll_data.plot(ax=ax, linewidth=3, color='r')
-state_last60.plot(kind='area',alpha=.4,ax=ax,stacked=False);
-plt.title('Daily New Cases in US - Last 60 Days',fontsize=20)
-plt.show()
-plt.savefig(f'./covid_data_update/us_{snames}_last_60_days_{day}.png');
-'''
 # Plot last 90 days
 plt.close('all')
 # Select last 90 days only
@@ -269,11 +253,6 @@ state_last90.plot(kind='area',alpha=.2,ax=ax,stacked=False)
 plt.title('US Daily New Cases Last 90 Days',fontsize=20)
 plt.show()
 plt.savefig(f'./covid_data_update/us_{snames}_last_90_days_{day}.png')
-
-# Daily New Cases in tabular format
-#pd.set_option('display.max_rows', 300)
-#pd.set_option('display.min_rows', 300)
-#state.sort_index(ascending = False)
 
 # ### Custom country dictionaries
 # creates a custom country dict
@@ -404,19 +383,6 @@ plt.title('World-Seven-day rolling averges',fontsize=20)
 plt.show()
 plt.savefig(f'./covid_data_update/world_rolling_avg_{day}.png')
 
-
-'''# Plot last 60 days
-# Select last 60 days only
-country_last60 = country.tail(60)
-
-roll_data = country_last60.loc[:,[select_country]].rolling(window=7).mean()
-fig,ax = plt.subplots(1,1,figsize=(16,8))
-roll_data.plot(ax=ax, linewidth=3, color='r')
-country_last60.plot(kind='area',alpha=.2,ax=ax,stacked=False);
-plt.title('World Daily New Cases Last 60 Days',fontsize=20)
-plt.show()
-plt.savefig(f'./covid_data_update/world_{snames}_last_60_days_{day}.png')
-'''
 # Plot last 90 days
 # Select last 90 days only
 country_last90 = country.tail(90)
@@ -436,7 +402,6 @@ plt.savefig(f'./covid_data_update/world_{snames}_last_90_days_{day}.png')
 pd.set_option('display.max_rows', 300)
 pd.set_option('display.min_rows', 300)
 # Note that new cases provided for Spain have a pattern of muliple days with exactly the same number
-# country.sort_index(ascending = False)
 
 # ### Save merged dataframes to csv
 # Merge state and country dfs into one
