@@ -199,8 +199,9 @@ print (state_cases_by_million.tail(7))
 plt.close('all')
 fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = state_cases_by_million.rolling(window=7).mean()
-roll_data_all.plot(ax=ax, linewidth=3);
-plt.title('US-Seven-day rolling averges per million population',fontsize=20);
+roll_data_all.plot(ax=ax, linewidth=3)
+plt.title('US-Seven-day rolling averges per million population',fontsize=20)
+plt.show()
 #plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 def list2string(l):
@@ -231,8 +232,7 @@ roll_data = state.loc[:,[select_state]].rolling(window=7).mean()
 roll_data.plot(ax=ax, linewidth=3, color='r')
 state.plot(kind='area',alpha=.4,ax=ax,stacked=False);
 plt.title('Daily New Cases and 7-day moving average in RED', fontsize=20)
-
-#ax.set_title('Daily New Cases and 7-day moving average in RED', fontsize=20)
+plt.show()
 plt.savefig(f'./covid_data_update/us_{day}.png');
 
 # Plot 7-day moving averge
@@ -241,9 +241,10 @@ fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = state.rolling(window=7).mean()
 roll_data_all.plot(ax=ax, linewidth=3);
 plt.title('US-Seven-day rolling averges',fontsize=20)
+plt.show()
 plt.savefig(f'./covid_data_update/us_rolling_avg_{day}.png');
 
-# Plot Last 60 Days
+'''# Plot Last 60 Days
 plt.close('all')
 # Select last 60 days only
 state_last60 = state.tail(60)
@@ -252,27 +253,27 @@ roll_data = state_last60.loc[:,[select_state]].rolling(window=7).mean()
 fig,ax = plt.subplots(1,1,figsize=(16,8))
 roll_data.plot(ax=ax, linewidth=3, color='r')
 state_last60.plot(kind='area',alpha=.4,ax=ax,stacked=False);
-
 plt.title('Daily New Cases in US - Last 60 Days',fontsize=20)
+plt.show()
 plt.savefig(f'./covid_data_update/us_{snames}_last_60_days_{day}.png');
-
+'''
 # Plot last 90 days
-plt.close('all')
+# plt.close('all')
 # Select last 90 days only
 state_last90 = state.tail(90)
 
 roll_data = state_last90.loc[:,[select_state]].rolling(window=7).mean()
 fig,ax = plt.subplots(1,1,figsize=(16,8))
 roll_data.plot(ax=ax, linewidth=3, color='r')
-state_last90.plot(kind='area',alpha=.2,ax=ax,stacked=False);
-
+state_last90.plot(kind='area',alpha=.2,ax=ax,stacked=False)
 plt.title('US Daily New Cases Last 90 Days',fontsize=20)
-plt.savefig(f'./covid_data_update/us_{snames}_last_90_days_{day}.png');
+plt.show()
+plt.savefig(f'./covid_data_update/us_{snames}_last_90_days_{day}.png')
 
 # Daily New Cases in tabular format
 #pd.set_option('display.max_rows', 300)
 #pd.set_option('display.min_rows', 300)
-state.sort_index(ascending = False)
+#state.sort_index(ascending = False)
 
 # ### Custom country dictionaries
 # creates a custom country dict
@@ -352,8 +353,6 @@ print (f'w_cols: {w_cols}')
 
 # Extract just the populations for the states of interest
 wpop_series = world_pop.loc[w_cols].pop_millions
-#print (wpop_series)
-#print (wpop_series.index)
 wpop_series.rename(index=iso3166r, inplace=True)
 print (wpop_series)
 
@@ -368,7 +367,8 @@ plt.close('all')
 fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = world_cases_by_million.rolling(window=7).mean()
 roll_data_all.plot(ax=ax, linewidth=3);
-plt.title('World-Seven-day rolling averges per million population',fontsize=20);
+plt.title('World-Seven-day rolling averges per million population',fontsize=20)
+plt.show()
 #plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 # Allows user to select the country for the rolling average
@@ -390,21 +390,21 @@ roll_data = country.loc[:,[select_country]].rolling(window=7).mean()
 
 roll_data.plot(ax=ax, linewidth=3, color='r')
 country.plot(kind='area',alpha=.4,ax=ax,stacked=False)
-plt.title('World Daily New Cases and 7-day moving average in RED',fontsize=20);
-# insert {snames} if desired
-plt.savefig(f'./covid_data_update/world_{day}.png');
+plt.title('World Daily New Cases and 7-day moving average in RED',fontsize=20)
+plt.show()
+plt.savefig(f'./covid_data_update/world_{day}.png')
 
 # Plot 7-day moving averge
-plt.close('all')
+#plt.close('all')
 fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = country.rolling(window=7).mean()
 roll_data_all.plot(ax=ax, linewidth=3);
 plt.title('World-Seven-day rolling averges',fontsize=20)
-# insert {snames} if desired
-plt.savefig(f'./covid_data_update/world_rolling_avg_{day}.png');
+plt.show()
+plt.savefig(f'./covid_data_update/world_rolling_avg_{day}.png')
 
-# Plot last 60 days
-plt.close('all')
+
+'''# Plot last 60 days
 # Select last 60 days only
 country_last60 = country.tail(60)
 
@@ -412,12 +412,11 @@ roll_data = country_last60.loc[:,[select_country]].rolling(window=7).mean()
 fig,ax = plt.subplots(1,1,figsize=(16,8))
 roll_data.plot(ax=ax, linewidth=3, color='r')
 country_last60.plot(kind='area',alpha=.2,ax=ax,stacked=False);
-
 plt.title('World Daily New Cases Last 60 Days',fontsize=20)
-plt.savefig(f'./covid_data_update/world_{snames}_last_60_days_{day}.png');
-
+plt.show()
+plt.savefig(f'./covid_data_update/world_{snames}_last_60_days_{day}.png')
+'''
 # Plot last 90 days
-plt.close('all')
 # Select last 90 days only
 country_last90 = country.tail(90)
 
@@ -425,16 +424,15 @@ roll_data = country_last90.loc[:,[select_country]].rolling(window=7).mean()
 fig,ax = plt.subplots(1,1,figsize=(16,8))
 roll_data.plot(ax=ax, linewidth=3, color='r')
 country_last90.plot(kind='area',alpha=.2,ax=ax,stacked=False);
-
 plt.title('World Daily New Cases Last 90 Days',fontsize=20)
-plt.savefig(f'./covid_data_update/world_{snames}_last_90_days_{day}.png');
+plt.show()
+plt.savefig(f'./covid_data_update/world_{snames}_last_90_days_{day}.png')
 
 # Daily New Cases in tabular format
 pd.set_option('display.max_rows', 300)
 pd.set_option('display.min_rows', 300)
-
 # Note that new cases provided for Spain have a pattern of muliple days with exactly the same number
-country.sort_index(ascending = False)
+# country.sort_index(ascending = False)
 
 # ### Save merged dataframes to csv
 # Merge state and country dfs into one
@@ -463,6 +461,7 @@ print()
 print(world.tail(7))
 print()
 print(total_by_million.tail(7))
+print()
 
 import date_select as ds
 start,stop = ds.date_maker()
@@ -484,25 +483,29 @@ print (new_slist)
 
 df = world.loc[start:stop, new_slist]
 title ='Custom rolling averges'
-print (df.tail())
+print (df.tail(14))
+print()
 
 df1 = total_by_million.loc[start:stop, new_slist]
 title1 ='Custom rolling averges by million'
-print (df1.tail())
+print (df1.tail(14))
+print()
 
 # Plot custom moving averge (default: 7 days)
-plt.close('all')
+#plt.close('all')
 fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = df.rolling(window=7).mean()
-roll_data_all.plot(ax=ax, linewidth=3);
-plt.title(title,fontsize=20);
+roll_data_all.plot(ax=ax, linewidth=3)
+plt.title(title,fontsize=20)
+plt.show()
 #plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 # Plot custom moving averge (default: 7 days) per million population
 fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = df1.rolling(window=7).mean()
-roll_data_all.plot(ax=ax, linewidth=3);
-plt.title(title1,fontsize=20);
+roll_data_all.plot(ax=ax, linewidth=3)
+plt.title(title1,fontsize=20)
+plt.show()
 #plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 # ### Displays all updated graphs files
