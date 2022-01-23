@@ -251,9 +251,8 @@ roll_data = state_last90.loc[:,[select_state]].rolling(window=7).mean()
 roll_data.plot(ax=ax3, linewidth=3, color='r')
 state_last90.plot(kind='area',alpha=.2,ax=ax3,stacked=False)
 ax3.set_title('US Daily New Cases Last 90 Days',loc='left',fontsize=12,fontweight='bold')
-plt.show()
 plt.savefig(f'./covid_data_update/us_{snames}_{day}.png')
-
+plt.show()
 # ### Custom country dictionaries
 # creates a custom country dict
 print()
@@ -398,8 +397,8 @@ roll_data.plot(ax=ax3, linewidth=3, color='r')
 country_last90.plot(kind='area',alpha=.2,ax=ax3,stacked=False);
 ax3.set_title('World Daily New Cases Last 90 Days',loc='left',fontsize=12,fontweight='bold')
 #plt.title('World Daily New Cases Last 90 Days',fontsize=20)
-plt.show()
 plt.savefig(f'./covid_data_update/world_{snames}_{day}.png')
+plt.show()
 
 # Daily New Cases in tabular format
 pd.set_option('display.max_rows', 300)
