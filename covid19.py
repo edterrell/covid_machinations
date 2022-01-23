@@ -365,38 +365,41 @@ if select_country not in c_available:
     select_country = c_available[0]
 
 # Plot Daily New Cases and 7-day moving averge
-fig,ax = plt.subplots(1,1,figsize=(18,8))
+fig,[ax1,ax2,ax3] = plt.subplots(3,1,figsize=(18,14))
 roll_data = country.loc[:,[select_country]].rolling(window=7).mean()
 
-roll_data.plot(ax=ax, linewidth=3, color='r')
-country.plot(kind='area',alpha=.4,ax=ax,stacked=False)
-plt.title('World Daily New Cases and 7-day moving average in RED',fontsize=20)
-plt.show()
-plt.savefig(f'./covid_data_update/world_{day}.png')
+roll_data.plot(ax=ax1, linewidth=3, color='r')
+country.plot(kind='area',alpha=.4,ax=ax1,stacked=False)
+ax1.set_title('World New Cases and 7-day moving average in RED',loc='left', fontsize=12,fontweight='bold')
+#plt.title('World Daily New Cases and 7-day moving average in RED',fontsize=20)
+#plt.show()
+#plt.savefig(f'./covid_data_update/world_{day}.png')
 
 # Plot 7-day moving averge
-plt.close('all')
-fig,ax = plt.subplots(1,1,figsize=(18,8))
+#plt.close('all')
+#fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = country.rolling(window=7).mean()
-roll_data_all.plot(ax=ax, linewidth=3);
-plt.title('World-Seven-day rolling averges',fontsize=20)
-plt.show()
-plt.savefig(f'./covid_data_update/world_rolling_avg_{day}.png')
+roll_data_all.plot(ax=ax2, linewidth=3)
+ax2.set_title('World-Seven-day rolling averges',loc='left',fontsize=12,fontweight='bold')
+#plt.show()
+#plt.title('World-Seven-day rolling averges',fontsize=20)
+#plt.savefig(f'./covid_data_update/world_rolling_avg_{day}.png')
 
 # Plot last 90 days
 # Select last 90 days only
 country_last90 = country.tail(90)
 
-print('stopping point for first blank plot')
+#print('stopping point for first blank plot')
 
-plt.close('all')
+#plt.close('all')
 roll_data = country_last90.loc[:,[select_country]].rolling(window=7).mean()
-fig,ax = plt.subplots(1,1,figsize=(16,8))
-roll_data.plot(ax=ax, linewidth=3, color='r')
-country_last90.plot(kind='area',alpha=.2,ax=ax,stacked=False);
-plt.title('World Daily New Cases Last 90 Days',fontsize=20)
+#fig,ax = plt.subplots(1,1,figsize=(16,8))
+roll_data.plot(ax=ax3, linewidth=3, color='r')
+country_last90.plot(kind='area',alpha=.2,ax=ax3,stacked=False);
+ax3.set_title('World Daily New Cases Last 90 Days',loc='left',fontsize=12,fontweight='bold')
+#plt.title('World Daily New Cases Last 90 Days',fontsize=20)
 plt.show()
-plt.savefig(f'./covid_data_update/world_{snames}_last_90_days_{day}.png')
+plt.savefig(f'./covid_data_update/world_{snames}_{day}.png')
 
 # Daily New Cases in tabular format
 pd.set_option('display.max_rows', 300)
