@@ -222,37 +222,37 @@ if select_state not in s_available:
     select_state = s_available[0]
 
 # Plot Daily New Cases and 7-day moving averge
-fig,ax = plt.subplots(1,1,figsize=(18,8))
+fig,[ax1,ax2,ax3] = plt.subplots(3,1,figsize=(18,14))
 roll_data = state.loc[:,[select_state]].rolling(window=7).mean()
 
-roll_data.plot(ax=ax, linewidth=3, color='r')
-state.plot(kind='area',alpha=.4,ax=ax,stacked=False);
-plt.title('Daily New Cases and 7-day moving average in RED', fontsize=20)
-plt.show()
-plt.savefig(f'./covid_data_update/us_{day}.png');
+roll_data.plot(ax=ax1, linewidth=3, color='r')
+state.plot(kind='area',alpha=.4,ax=ax1,stacked=False);
+ax1.set_title('Daily New Cases and 7-day moving average in RED',loc='left', fontsize=12,fontweight='bold')
+#plt.show()
+#plt.savefig(f'./covid_data_update/us_{day}.png');
 
 # Plot 7-day moving averge
-plt.close('all')
-fig,ax = plt.subplots(1,1,figsize=(18,8))
+#plt.close('all')
+#fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = state.rolling(window=7).mean()
-roll_data_all.plot(ax=ax, linewidth=3);
-plt.title('US-Seven-day rolling averges',fontsize=20)
-plt.show()
-plt.savefig(f'./covid_data_update/us_rolling_avg_{day}.png');
+roll_data_all.plot(ax=ax2, linewidth=3);
+ax2.set_title('US-Seven-day rolling averges',loc='left',fontsize=12,fontweight='bold')
+#plt.show()
+#plt.savefig(f'./covid_data_update/us_rolling_avg_{day}.png');
 
 
 # Plot last 90 days
-plt.close('all')
+#plt.close('all')
 # Select last 90 days only
 state_last90 = state.tail(90)
 
 roll_data = state_last90.loc[:,[select_state]].rolling(window=7).mean()
-fig,ax = plt.subplots(1,1,figsize=(16,8))
-roll_data.plot(ax=ax, linewidth=3, color='r')
-state_last90.plot(kind='area',alpha=.2,ax=ax,stacked=False)
-plt.title('US Daily New Cases Last 90 Days',fontsize=20)
+#fig,ax = plt.subplots(1,1,figsize=(16,8))
+roll_data.plot(ax=ax3, linewidth=3, color='r')
+state_last90.plot(kind='area',alpha=.2,ax=ax3,stacked=False)
+ax3.set_title('US Daily New Cases Last 90 Days',loc='left',fontsize=12,fontweight='bold')
 plt.show()
-plt.savefig(f'./covid_data_update/us_{snames}_last_90_days_{day}.png')
+plt.savefig(f'./covid_data_update/us_{snames}_{day}.png')
 
 # ### Custom country dictionaries
 # creates a custom country dict
