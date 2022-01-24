@@ -444,7 +444,6 @@ if new_slist:
     plt.savefig(f'./covid_data_update/custom_date_range_{day}.png')
     plt.show()
 
-
 # Remove all png filenames
 clean ='n'
 clean = input('Enter y to clean-up the covid_data_update directory: ')
@@ -464,8 +463,6 @@ if clean == 'y':
 
 
 # ### tabla rasa
-# this cell will delete all files created in todays session
-#!rm -rf covid_data_update
 
 # Ensure helper files used have been removed
 #!rm -f covid_data/covid_text covid_data/flist_of_covid_png covid_data/temp.xlsx
