@@ -24,10 +24,6 @@ from bs4 import BeautifulSoup as bs
 # import regular expressions
 import re
 
-#from IPython.core.display import HTML
-#css = open('style-table.css').read() + open('style-notebook.css').read()
-#HTML('<style>{}</style>'.format(css))
-
 # This is a custom python module with dictionaries of states and countries;
 # it also contains three functions repair_dict, reverse_dict, and custom_list
 import state_country_dicts as scd
@@ -50,13 +46,7 @@ if timezone:
     day = t.date().strftime('%Y-%m-%d')
 print(f'Today is {day}')
 
-
 # ### Moves all files from covid_data_update to covid_data
-
-## Ensure helper files used in past have been removed
-#!rm -f covid_data/covid_text covid_data/flist_of_covid_png covid_data/temp.xlsx
-#!rm -f covid_text flist_of_covid_png temp.xlsx
-#!mkdir covid_data_update
 
 # House keeping covid_data_update folder
 # preparing the move of all files from covid_data_update to covid_data
@@ -228,31 +218,22 @@ roll_data = state.loc[:,[select_state]].rolling(window=7).mean()
 roll_data.plot(ax=ax1, linewidth=3, color='r')
 state.plot(kind='area',alpha=.4,ax=ax1,stacked=False);
 ax1.set_title('Daily New Cases and 7-day moving average in RED',loc='left', fontsize=12,fontweight='bold')
-#plt.show()
-#plt.savefig(f'./covid_data_update/us_{day}.png');
 
 # Plot 7-day moving averge
-#plt.close('all')
-#fig,ax = plt.subplots(1,1,figsize=(18,8))
 roll_data_all = state.rolling(window=7).mean()
 roll_data_all.plot(ax=ax2, linewidth=3);
 ax2.set_title('US-Seven-day rolling averges',loc='left',fontsize=12,fontweight='bold')
-#plt.show()
-#plt.savefig(f'./covid_data_update/us_rolling_avg_{day}.png');
-
 
 # Plot last 90 days
-#plt.close('all')
-# Select last 90 days only
 state_last90 = state.tail(90)
 
 roll_data = state_last90.loc[:,[select_state]].rolling(window=7).mean()
-#fig,ax = plt.subplots(1,1,figsize=(16,8))
 roll_data.plot(ax=ax3, linewidth=3, color='r')
 state_last90.plot(kind='area',alpha=.2,ax=ax3,stacked=False)
 ax3.set_title('US Daily New Cases Last 90 Days',loc='left',fontsize=12,fontweight='bold')
 plt.savefig(f'./covid_data_update/us_{snames}_{day}.png')
 plt.show()
+
 # ### Custom country dictionaries
 # creates a custom country dict
 print()
@@ -310,14 +291,12 @@ for key, value in country_dict.items():
 
     #print(country_previous_cases)
     previous_cases = ["0" if i == 'null' else i for i in country_previous_cases]
-
     len(previous_cases)
-
     # merge countries into the existing df and apply the function clean_up to convert strings to ints
     country[value] = previous_cases
     country[value] = country[value].fillna(0).apply(clean_up)
-
     time.sleep(2)
+
 country.clip(lower=0,inplace=True) #large negative number removed for better graphic clarity
 country.sort_index(ascending = False).head()
 print()
@@ -325,11 +304,10 @@ print(f'country list: {clist}')
 
 # create a reveresed iso3166 country-code dictionary
 iso3166r = scd.reverse_dict(scd.iso3166)
-
 country_dict = {key: value for key, value in scd.iso3166r.items() if value in clist}
 w_cols = list(country_dict.keys())
 
-# fix uk entries to match conventional country names
+# fix uk, us entries to match conventional country names
 if 'uk' in w_cols:
     w_cols.remove('uk')
     w_cols.append('United Kingdom')
@@ -345,7 +323,6 @@ print (wpop_series)
 
 # repair issues with uk and us
 wpop_series.rename({'United Kingdom':'UK','United States':'US'},inplace=True)
-
 world_cases_by_million = (country/wpop_series).round()
 world_cases_by_million.tail()
 
@@ -356,7 +333,6 @@ roll_data_all = world_cases_by_million.rolling(window=7).mean()
 roll_data_all.plot(ax=ax, linewidth=3);
 plt.title('World-Seven-day rolling averges per million population',fontsize=20)
 plt.show()
-#plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 # Allows user to select the country for the rolling average
 c_available = list(country.columns)
@@ -364,7 +340,6 @@ print(f'Countries available: {c_available}')
 print()
 
 snames = (list2string(c_available))
-
 select_country = input('Choose country for rolling averge:') or c_available[0]
 select_country = select_country.upper()
 
@@ -374,44 +349,28 @@ if select_country not in c_available:
 # Plot Daily New Cases and 7-day moving averge
 fig,[ax1,ax2,ax3] = plt.subplots(3,1,figsize=(18,14))
 roll_data = country.loc[:,[select_country]].rolling(window=7).mean()
-
 roll_data.plot(ax=ax1, linewidth=3, color='r')
 country.plot(kind='area',alpha=.4,ax=ax1,stacked=False)
 ax1.set_title('World New Cases and 7-day moving average in RED',loc='left', fontsize=12,fontweight='bold')
-#plt.title('World Daily New Cases and 7-day moving average in RED',fontsize=20)
-#plt.show()
-#plt.savefig(f'./covid_data_update/world_{day}.png')
 
-# Plot 7-day moving averge
-#plt.close('all')
-#fig,ax = plt.subplots(1,1,figsize=(18,8))
+# Plot 7-day moving averge for all
 roll_data_all = country.rolling(window=7).mean()
 roll_data_all.plot(ax=ax2, linewidth=3)
 ax2.set_title('World-Seven-day rolling averges',loc='left',fontsize=12,fontweight='bold')
-#plt.show()
-#plt.title('World-Seven-day rolling averges',fontsize=20)
-#plt.savefig(f'./covid_data_update/world_rolling_avg_{day}.png')
 
-# Plot last 90 days
-# Select last 90 days only
+# Plot 7-day moving averge last 90 days only
 country_last90 = country.tail(90)
-
-#print('stopping point for first blank plot')
-
-#plt.close('all')
 roll_data = country_last90.loc[:,[select_country]].rolling(window=7).mean()
-#fig,ax = plt.subplots(1,1,figsize=(16,8))
 roll_data.plot(ax=ax3, linewidth=3, color='r')
 country_last90.plot(kind='area',alpha=.2,ax=ax3,stacked=False);
 ax3.set_title('World Daily New Cases Last 90 Days',loc='left',fontsize=12,fontweight='bold')
-#plt.title('World Daily New Cases Last 90 Days',fontsize=20)
 plt.savefig(f'./covid_data_update/world_{snames}_{day}.png')
 plt.show()
 
 # Daily New Cases in tabular format
 pd.set_option('display.max_rows', 300)
 pd.set_option('display.min_rows', 300)
-# Note that new cases provided for Spain have a pattern of muliple days with exactly the same number
+# Note that new cases provided for Spain and some states have a pattern of muliple days with exactly the same number
 
 # ### Save merged dataframes to csv
 # Merge state and country dfs into one
@@ -420,22 +379,16 @@ world = world.fillna(0).astype(int)
 
 # Sorting the table with recent dates on the top
 world_table = world.sort_index(ascending = False)
-
-# Save to csv by uncommenting out the next line
-world_table.to_csv(f'./covid_data/world_table{day}.csv')
-#print (world_table.head(5))
+world_table.to_csv(f'./covid_data/world_table_{day}.csv')
 
 total_by_million = state_cases_by_million.merge(world_cases_by_million,left_index=True, right_index=True, how='outer')
-#print (total_by_million.tail())
 
 # ### Weekly Sums
-# Note that the last week may be only a partial unless this is executed at end of week
-# End of week is Sunday, so this should be executed on Mondays
+# Note that the last week may be only a partial unless this is executed on Mondays
 df1 = world.resample('w').sum()
 df1.sort_index(ascending = False).head(10)
 
 # ### Custom graphs section
-
 print()
 print(world.tail(7))
 print()
@@ -470,7 +423,7 @@ else:
 
 if new_slist:
     df1 = total_by_million.loc[start:stop, new_slist]
-    title1 ='Custom rolling averges by million'
+    title1 ='Custom rolling averges per million'
     print (df1.tail(14))
     print()
 else:
@@ -483,18 +436,12 @@ if new_slist:
     roll_data_all = df.rolling(window=7).mean()
     roll_data_all.plot(ax=ax1, linewidth=3)
     ax1.set_title(title,fontsize=12,fontweight='bold')
-    #plt.savefig(f'./covid_data_update/custom_{day}.png')
-    #plt.title(title,fontsize=20)
-    #plt.show()
-#plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 # Plot custom moving averge (default: 7 days) per million population
-    #fig,ax = plt.subplots(1,1,figsize=(18,8))
     roll_data_all = df1.rolling(window=7).mean()
     roll_data_all.plot(ax=ax2, linewidth=3)
     ax2.set_title(title1,fontsize=12,fontweight='bold')
     plt.savefig(f'./covid_data_update/custom_date_range_{day}.png')
-    #plt.title(title1,fontsize=20)
     plt.show()
 
 
