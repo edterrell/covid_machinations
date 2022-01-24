@@ -483,7 +483,7 @@ if new_slist:
     roll_data_all = df.rolling(window=7).mean()
     roll_data_all.plot(ax=ax1, linewidth=3)
     ax1.set_title(title,fontsize=12,fontweight='bold')
-    plt.savefig(f'./covid_data_update/custom_{day}.png')
+    #plt.savefig(f'./covid_data_update/custom_{day}.png')
     #plt.title(title,fontsize=20)
     #plt.show()
 #plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
@@ -493,7 +493,7 @@ if new_slist:
     roll_data_all = df1.rolling(window=7).mean()
     roll_data_all.plot(ax=ax2, linewidth=3)
     ax2.set_title(title1,fontsize=12,fontweight='bold')
-    plt.savefig(f'./covid_data_update/custom_{day}_per_million..png')
+    plt.savefig(f'./covid_data_update/custom_date_range_{day}.png')
     #plt.title(title1,fontsize=20)
     plt.show()
 
