@@ -24,6 +24,7 @@ def date_maker ():
 
 	#stop = start + MonthEnd(1)
 	stop = dt.date.today()
+	stop = pd.to_datetime(stop)
 	print(f'START:\t {start}')
 	print(f'STOP:\t {stop}')
 
