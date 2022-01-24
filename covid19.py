@@ -300,6 +300,14 @@ for key, value in country_dict.items():
 
     #mo.group() is a string so easy to get rid of the first entry
     country_previous_cases = mo.group().split(',')[1:]
+
+    # ensure match between length of the empty df and the new list
+    if len(c_index)!= len(country_previous_cases):
+        print (len(c_index))
+        print (len(country_previous_cases))
+        state_previous_cases = country_previous_cases[:-1]
+        print (len(country_previous_cases))
+
     #print(country_previous_cases)
     previous_cases = ["0" if i == 'null' else i for i in country_previous_cases]
 
