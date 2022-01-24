@@ -471,20 +471,24 @@ else:
 # Plot custom moving averge (default: 7 days)
 if new_slist:
     plt.close('all')
-    fig,ax = plt.subplots(1,1,figsize=(18,8))
+    fig,[ax1,ax2] = plt.subplots(2,1,figsize=(18,10))
     roll_data_all = df.rolling(window=7).mean()
-    roll_data_all.plot(ax=ax, linewidth=3)
-    plt.title(title,fontsize=20)
-    plt.show()
+    roll_data_all.plot(ax=ax1, linewidth=3)
+    ax1.set_title(title,fontsize=12,fontweight='bold')
+    plt.savefig(f'./covid_data_update/custom_{day}.png')
+    #plt.title(title,fontsize=20)
+    #plt.show()
 #plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
 
 # Plot custom moving averge (default: 7 days) per million population
-    fig,ax = plt.subplots(1,1,figsize=(18,8))
+    #fig,ax = plt.subplots(1,1,figsize=(18,8))
     roll_data_all = df1.rolling(window=7).mean()
-    roll_data_all.plot(ax=ax, linewidth=3)
-    plt.title(title1,fontsize=20)
+    roll_data_all.plot(ax=ax2, linewidth=3)
+    ax2.set_title(title1,fontsize=12,fontweight='bold')
+    plt.savefig(f'./covid_data_update/custom_{day}_per_million..png')
+    #plt.title(title1,fontsize=20)
     plt.show()
-#plt.savefig(f'./covid_data_update/us_rolling_avg_per_million_{day}.png');
+
 
 # ### Displays all updated graphs files
 #!ls covid_data_update
