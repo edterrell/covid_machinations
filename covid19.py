@@ -445,13 +445,14 @@ if new_slist:
     plt.show()
 
 # Remove all png filenames
+
 clean ='n'
 clean = input('Enter y to clean-up the covid_data_update directory: ')
 print()
 if clean == 'y':
     file_names = os.listdir('covid_data_update')
     for fname in file_names:
-        try:te
+        try:
             os.remove(f'covid_data_update/{fname}')
             print(f'Removing {fname}')
         except:
