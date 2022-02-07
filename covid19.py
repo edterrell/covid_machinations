@@ -46,6 +46,11 @@ if timezone:
     day = t.date().strftime('%Y-%m-%d')
 print(f'Today is {day}')
 
+# ensure a covid_data_update directory exists
+new_dir = r'covid_data_update'
+if not os.path.exists(new_dir):
+    os.makedirs(new_dir)
+
 # ### Moves all files from covid_data_update to covid_data
 
 # House keeping covid_data_update folder
@@ -395,54 +400,57 @@ print()
 print(total_by_million.tail(7))
 print()
 
-import date_select as ds
-start,stop = ds.date_maker()
-world_cols = world.columns.to_list()
-print (world_cols)
+start = input('Enter y to run custom graphs section: ')
+while start == 'y':
+    import date_select as ds
+    start,stop = ds.date_maker()
+    world_cols = world.columns.to_list()
+    print (world_cols)
 
-default_str = ' '.join(world_cols)
+    default_str = ' '.join(world_cols)
 
-# ### Select custom states and countries
-s_string = input('Enter any codes from the above list:') or default_str
-print()
-
-slist = scd.custom_list (s_string)
-new_slist =[]
-for item in slist:
-    if item in world_cols:
-        new_slist.append(item)
-print (new_slist)
-
-if new_slist:
-    df = world.loc[start:stop, new_slist]
-    title ='Custom rolling averges'
-    print (df.tail(14))
+    # ### Select custom states and countries
+    s_string = input('Enter any codes from the above list:') or default_str
     print()
-else:
-    print('custom codes not available')
 
-if new_slist:
-    df1 = total_by_million.loc[start:stop, new_slist]
-    title1 ='Custom rolling averges per million'
-    print (df1.tail(14))
-    print()
-else:
-    print('custom codes not available')
+    slist = scd.custom_list (s_string)
+    new_slist =[]
+    for item in slist:
+        if item in world_cols:
+            new_slist.append(item)
+    print (new_slist)
 
-# Plot custom moving averge (default: 7 days)
-if new_slist:
-    plt.close('all')
-    fig,[ax1,ax2] = plt.subplots(2,1,figsize=(18,10))
-    roll_data_all = df.rolling(window=7).mean()
-    roll_data_all.plot(ax=ax1, linewidth=3)
-    ax1.set_title(title,fontsize=12,fontweight='bold')
+    if new_slist:
+        df = world.loc[start:stop, new_slist]
+        title ='Custom rolling averges'
+        print (df.tail(14))
+        print()
+    else:
+        print('custom codes not available')
 
-# Plot custom moving averge (default: 7 days) per million population
-    roll_data_all = df1.rolling(window=7).mean()
-    roll_data_all.plot(ax=ax2, linewidth=3)
-    ax2.set_title(title1,fontsize=12,fontweight='bold')
-    plt.savefig(f'./covid_data_update/custom_date_range_{day}.png')
-    plt.show()
+    if new_slist:
+        df1 = total_by_million.loc[start:stop, new_slist]
+        title1 ='Custom rolling averges per million'
+        print (df1.tail(14))
+        print()
+    else:
+        print('custom codes not available')
+
+    # Plot custom moving averge (default: 7 days)
+    if new_slist:
+        plt.close('all')
+        fig,[ax1,ax2] = plt.subplots(2,1,figsize=(18,10))
+        roll_data_all = df.rolling(window=7).mean()
+        roll_data_all.plot(ax=ax1, linewidth=3)
+        ax1.set_title(title,fontsize=12,fontweight='bold')
+
+    # Plot custom moving averge (default: 7 days) per million population
+        roll_data_all = df1.rolling(window=7).mean()
+        roll_data_all.plot(ax=ax2, linewidth=3)
+        ax2.set_title(title1,fontsize=12,fontweight='bold')
+        plt.savefig(f'./covid_data_update/custom_date_range_{day}.png')
+        plt.show()
+    start = input('Enter q to quit or y to continue: ')
 
 # Remove all png filenames
 
