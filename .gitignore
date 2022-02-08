@@ -16,6 +16,7 @@ temp.xlsx
 error_repair.ipynb
 test.py
 test.csv
+*.test.ipynb
 add_populations.ipynb
 population_by_country_2020.csv
 covid_data/*.png
