@@ -14,11 +14,7 @@ covid_text
 flist_of_covid_png
 temp.xlsx
 error_repair.ipynb
-test.py
-test.csv
-*test.ipynb
+*test*
 add_populations.ipynb
 population_by_country_2020.csv
-covid_data/*.png
-covid_data/*.xlsx
-covid_data/*.csv
+covid_data/*.*
