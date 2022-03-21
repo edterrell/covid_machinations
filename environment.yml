@@ -1,0 +1,14 @@
+name: covid-environment
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - numpy
+ - matplotlib
+ - pandas
+ - bs4
+ - time
+ - lxml
+ - xlrd
+ - openpyxl
+ - jupyterlab
